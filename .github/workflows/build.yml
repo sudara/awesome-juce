@@ -5,6 +5,8 @@ on:
       - 'main'
   schedule:
   - cron: "30 15 * * *"
+env:
+  GITHUB_ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 jobs:
   build:
     runs-on: ubuntu-latest
