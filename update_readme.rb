@@ -16,7 +16,7 @@ require 'fileutils'
 require 'octokit'
 
 heading = "\n| repo | description | ⭐️ | last updated |\n"
-heading += "| --- | --- | --- | ---: |\n"
+heading += "| --- | --- | :---: | ---: |\n"
 
 tempfile=File.open("README.tmp", 'w')
 tempfile << <<-PREAMBLE
