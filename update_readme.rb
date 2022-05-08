@@ -15,8 +15,8 @@
 require 'fileutils'
 require 'octokit'
 
-heading = "\n| repo | description | ⭐️ | last updated |\n"
-heading += "| --- | --- | :---: | ---: |\n"
+heading = "\n| repo | description | license | ⭐️ | updated |\n"
+heading += "| --- | --- | :---: | :---: | ---: |\n"
 
 tempfile=File.open("README.tmp", 'w')
 tempfile << <<-PREAMBLE
@@ -26,11 +26,11 @@ tempfile << <<-PREAMBLE
   <br>
 </p>
 
-# JUCE "Awesome List" Directory
-Inspired by [awesome lists](https://github.com/topics/awesome-list), here's a ~curated~ 
-completist list of JUCE GitHub repositories, organized by category!
+# A JUCE "Awesome List"
 
-Add your repo by forking [adding the repo url and a short description to sites.md](https://github.com/sudara/awesome-juce/edit/main/sites.md).
+A curated [awesome list](https://github.com/topics/awesome-list) of JUCE GitHub repositories, organized by category. Stats updated nightly. 
+
+To add your repo: [fork and add the url and a short description to sites.md](https://github.com/sudara/awesome-juce/edit/main/sites.md).
 
 For more juce-y content, I blog over at https://melatonin.dev/blog
 
@@ -51,9 +51,10 @@ File.open('sites.md') do |file|
       # split into sudara/pamplejuce and description
       name_and_repo, description = entry.split(' ', 2) 
       begin 
-        repo = client.repo(name_and_repo) 
+        repo = client.repo(name_and_repo)
+        license = repo.license.nil? ? "" : repo.license[:spdx_id].gsub('NOASSERTION',"custom")
         last_committed_at = client.commits(name_and_repo).first[:commit][:committer][:date].strftime('%b %d %Y')
-        table_row = "|[#{repo.owner[:login]}](#{repo.owner.html_url}) / [#{repo.name}](#{repo.html_url})| #{description.strip}|#{repo.stargazers_count}|#{last_committed_at}|\n"
+        table_row = "|[#{repo.name}](#{repo.html_url}) <br/> <sup>by [#{repo.owner[:login]}](#{repo.owner.html_url})</sup> | #{description.strip}| #{license}|#{repo.stargazers_count}|#{last_committed_at}|\n"
         rows << [repo.stargazers_count, table_row]
       rescue Octokit::NotFound
         puts "NOT FOUND OR MOVED?: #{name_and_repo}" 

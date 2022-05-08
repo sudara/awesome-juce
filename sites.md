@@ -1,4 +1,4 @@
-## Template Repositories
+## Templates
 
 https://github.com/sudara/pamplejuce JUCE, CMAKE, Catch2 on GitHub Actions
 https://github.com/eyalamirmusic/JUCECmakeRepoPrototype JUCE6 and CMake plugin and app templates
@@ -27,16 +27,17 @@ https://github.com/Chowdhury-DSP/ChowMatrix Inifinitely growable tree of delay l
 https://github.com/ffAudio/Frequalizer Equalizer using JUCE's dsp module
 https://github.com/ffAudio/ff_meters LED meters for JUCE audio buffers
 
-## JUCE Tooling & Debugging
+## Tooling & Debugging
 
 https://github.com/ffAudio/foleys_gui_magic WYSWYG plugin editor letting you create JUCE GUIs without coding
 https://github.com/jcredland/juce-toys LLDB helpers. Comoponent, buffer and value tree debuggers and more
 https://github.com/sudara/melatonin_inspector Poke around and visually inspect your JUCE components
 https://github.com/sudara/melatonin_audio_sparklines Display audio as ASCII waveforms on the console and in tests
 
-## Networking
+## Networking & Cryptography
 
 https://github.com/adamski/RestRequest JUCE module for making HTTP requests to REST APIs
+https://github.com/Yum-Audio/yum_CredentialManager MacOS Keychain and Windows CredentialManager integration
 
 ## Graphics & Video
 
