@@ -16,7 +16,7 @@ require 'fileutils'
 require 'octokit'
 
 heading = "\n| repo | description | license | ⭐️ | updated |\n"
-heading += "| --- | --- | :---: | :---: | ---: |\n"
+heading += "| :--- | :--- | :---: | :---: | ---: |\n"
 
 tempfile=File.open("README.tmp", 'w')
 tempfile << <<-PREAMBLE
@@ -46,18 +46,24 @@ File.open('sites.md') do |file|
     tempfile << heading 
     print "Processing #{h2.strip}..."
     file.gets
-    while !(entry = file.gets).nil? && entry.slice!('https://github.com/') do
-      
-      # split into sudara/pamplejuce and description
-      name_and_repo, description = entry.split(' ', 2) 
-      begin 
-        repo = client.repo(name_and_repo)
-        license = repo.license.nil? ? "" : repo.license[:spdx_id].gsub('NOASSERTION',"custom")
-        last_committed_at = client.commits(name_and_repo).first[:commit][:committer][:date].strftime('%b %d %Y')
-        table_row = "|[#{repo.name}](#{repo.html_url}) <br/> <sup>by [#{repo.owner[:login]}](#{repo.owner.html_url})</sup> | #{description.strip}| #{license}|#{repo.stargazers_count}|#{last_committed_at}|\n"
-        rows << [repo.stargazers_count, table_row]
-      rescue Octokit::NotFound
-        puts "NOT FOUND OR MOVED?: #{name_and_repo}" 
+    while (entry = file.gets) && entry.slice!('https://')
+      if entry.slice!('github.com/')
+        # split into sudara/pamplejuce and description
+        name_and_repo, description = entry.split(' ', 2) 
+        begin 
+          repo = client.repo(name_and_repo)
+          license = repo.license.nil? ? "" : repo.license[:spdx_id].gsub('NOASSERTION',"custom")
+          last_committed_at = client.commits(name_and_repo).first[:commit][:committer][:date].strftime('%b %d %Y')
+          table_row = "|[#{repo.name}](#{repo.html_url}) <br/> <sup>by [#{repo.owner[:login]}](#{repo.owner.html_url})</sup> | #{description.strip}| #{license}|#{repo.stargazers_count}|#{last_committed_at}|\n"
+          rows << [repo.stargazers_count, table_row]
+        rescue Octokit::NotFound
+          puts "NOT FOUND OR MOVED?: #{name_and_repo}" 
+        end
+      else
+        url, description = entry.split(' ', 2)
+        name = url.split('/').last
+        table_row = "|[#{name}](#{url})| #{description}| | | |\n"
+        rows << [0, table_row]
       end
     end
     puts "#{rows.size} entries"
