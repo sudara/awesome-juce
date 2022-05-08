@@ -20,7 +20,7 @@ jobs:
           bundler-cache: true
           ruby-version: 3.0.4
       - name: Update repo data
-        run:  bundle exec updateReadme.md
+        run:  bundle exec ./updateReadme.md
       - name: Commit and push
         run: |-
           git diff
