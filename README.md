@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-    <img src="media/juce awesome.png" width="200"/>
+    <img src="images/juce awesome.png" width="200"/>
   <br>
 </p>
 
