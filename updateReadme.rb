@@ -22,7 +22,7 @@ tempfile=File.open("README.tmp", 'w')
 tempfile << <<-PREAMBLE
 <p align="center">
   <br>
-    <img src="juce awesome.png" width="200"/>
+    <img src="media/juce awesome.png" width="200"/>
   <br>
 </p>
 
