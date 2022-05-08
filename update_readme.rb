@@ -52,8 +52,8 @@ File.open('sites.md') do |file|
       name_and_repo, description = entry.split(' ', 2) 
       begin 
         repo = client.repo(name_and_repo) 
-        last_committed_at = client.commits(name_and_repo).first[:commit][:committer][:date].strftime('%b %d %Y')
-        table_row = "|[#{repo.owner[:login]}](#{repo.owner.html_url}) / [#{repo.name}](#{repo.html_url})| #{description.strip}|#{repo.stargazers_count}|`#{last_committed_at}`|\n"
+        last_committed_at = client.commits(name_and_repo).first[:commit][:committer][:date].strftime('%b %d %Y')
+        table_row = "|[#{repo.owner[:login]}](#{repo.owner.html_url}) / [#{repo.name}](#{repo.html_url})| #{description.strip}|#{repo.stargazers_count}|#{last_committed_at}|\n"
         rows << [repo.stargazers_count, table_row]
       rescue Octokit::NotFound
         puts "NOT FOUND OR MOVED?: #{name_and_repo}" 
