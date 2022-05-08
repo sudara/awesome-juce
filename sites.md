@@ -54,7 +54,7 @@ https://github.com/Tracktion/tracktion_engine The one, the only, the engine that
 
 ## Educational
 
-https://github.com/tobanteAudio/juce-cookbook/ JUCE Cookbook
+https://github.com/tobanteAudio/juce-cookbook JUCE Cookbook
 https://github.com/TheAudioProgrammer/juceSynthFramework Learn how to build a synth with Josh
 https://github.com/jatinchowdhury18/plugin-ci-example JUCE plugin CI examples for Gitlab, GitHub, Azure
 

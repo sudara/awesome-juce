@@ -30,9 +30,9 @@ tempfile << <<-PREAMBLE
 Inspired by [awesome lists](https://github.com/topics/awesome-list), here's a ~curated~ 
 completist list of JUCE GitHub repositories, organized by category!
 
-Add your repo, by forking and [adding a link and description to sites.md](https://github.com/sudara/awesome-juce/edit/main/sites.md).
+Add your repo by forking [adding the repo url and a short description to sites.md](https://github.com/sudara/awesome-juce/edit/main/sites.md).
 
-For more juce-y content, you might like my blogging over at https://melatonin.dev/blog
+For more juce-y content, I blog over at https://melatonin.dev/blog
 
 PREAMBLE
 
