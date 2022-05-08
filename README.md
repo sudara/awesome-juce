@@ -4,11 +4,11 @@
   <br>
 </p>
 
-# JUCE "Awesome List"
+# Awesome JUCE
 
 An [awesome list](https://github.com/topics/awesome-list) of open source JUCE repositories, organized by category. Stats update nightly. 
 
-To add your repo: [add the url and short description to sites.md](https://github.com/sudara/awesome-juce/edit/main/sites.md).
+Something missing? [Add the url and a short description to sites.md](https://github.com/sudara/awesome-juce/edit/main/sites.md).
 
 For more juce-y content: https://melatonin.dev/blog
 
