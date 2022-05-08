@@ -1,10 +1,8 @@
-
 ## Template Repositories
 
 https://github.com/sudara/pamplejuce JUCE, CMAKE, Catch2 on GitHub Actions
 https://github.com/eyalamirmusic/JUCECmakeRepoPrototype JUCE6 and CMake plugin and app templates
 https://github.com/maxwellpollack/juce-plugin-ci Cross-platform CI for JUCE audio plugins with Github Actions
-
 
 ## Collections & Libraries
 
@@ -12,7 +10,6 @@ https://github.com/benthevining/Lemons Collection of modules that build on top o
 https://github.com/FigBug/Gin Massive collection of extras, including StackBlur, Websockets, Maps, etc
 https://github.com/kushview/kv-modules Kush View's module collection
 https://github.com/SquarePine/squarepine_core Analytics, Easing functions, metering
-
 
 ## Synths
 
@@ -37,11 +34,9 @@ https://github.com/jcredland/juce-toys LLDB helpers. Comoponent, buffer and valu
 https://github.com/sudara/melatonin_inspector Poke around and visually inspect your JUCE components
 https://github.com/sudara/melatonin_audio_sparklines Display audio as ASCII waveforms on the console and in tests
 
-
 ## Networking
 
 https://github.com/adamski/RestRequest JUCE module for making HTTP requests to REST APIs
-
 
 ## Graphics & Video
 
@@ -53,15 +48,13 @@ https://github.com/ffAudio/foleys_video_engine A video engine to load, play, ass
 https://github.com/sudara/melatonin_audio_block_test_helpers Catch2 matchers for AudioBlocks
 https://github.com/Sinecure-Audio/TestsTalk Catch2 Examples from ADC 2020 talk
 
-
 ## DAW
 
 https://github.com/Tracktion/tracktion_engine The one, the only, the engine that JUCE was extracted from. 
 
-
 ## Educational
 
-https://github.com/tobanteAudio/juce-cookbook/blob/master/chapters/testing/unit_test.md JUCE Cookbook
+https://github.com/tobanteAudio/juce-cookbook/ JUCE Cookbook
 https://github.com/TheAudioProgrammer/juceSynthFramework Learn how to build a synth with Josh
 https://github.com/jatinchowdhury18/plugin-ci-example JUCE plugin CI examples for Gitlab, GitHub, Azure
 
