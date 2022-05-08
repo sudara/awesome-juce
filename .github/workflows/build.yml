@@ -1,28 +1,27 @@
 name: Build README
-
 on:
   push:
     branches:
       - 'main'
   schedule:
   - cron: "30 15 * * *"
-
 jobs:
   build:
-    name: "Build Readme"
     runs-on: ubuntu-latest
     steps:
-      uses: actions/checkout@v2
-      uses: actions/setup-ruby@v1
-      with:
-        bundler-cache: true 
-    - name: Update stars and last updated
-      run:  bundle exec updateReadme.md
-    - name: Commit and push
-      run: |-
-        git diff
-        git config --global user.email "actions@users.noreply.github.com"
-        git config --global user.name "Github Actions Cronjob"
-        git add -A
-        git commit -m --allow-empty "Update Stars and Last Updated"
-        git push
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Install Ruby and bundle
+        uses: actions/setup-ruby@v1
+        with:
+          bundler-cache: true 
+      - name: Update repo data
+        run:  bundle exec updateReadme.md
+      - name: Commit and push
+        run: |-
+          git diff
+          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "Github Actions Cronjob"
+          git add -A
+          git commit -m --allow-empty "Update Stars and Last Updated"
+          git push
