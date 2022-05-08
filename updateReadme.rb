@@ -10,12 +10,12 @@
 #   ## Templates
 #   | name | author | description | stars | created | last updated |
 #   | --- | --- | --- | --- |--- |
-#   | [pamplejuce](https://github.com/sudara/pamplejuce) | JUCE, CMAKE, Catch2 on GitHub Actions | 56 ⭐️ | March 2, 2022|
+#   | [pamplejuce](https://github.com/sudara/pamplejuce) | JUCE, CMAKE, Catch2 on GitHub Actions | ⭐️ | March 2, 2022|
 
 require 'fileutils'
 require 'octokit'
 
-heading = "\n| name | author | description | stars | last updated |\n"
+heading = "\n| name | author | description | ⭐️ | last updated |\n"
 heading += "| --- | --- | --- | --- | --- |\n"
 
 tempfile=File.open("README.tmp", 'w')
@@ -36,7 +36,7 @@ File.open('sites.md') do |file|
       begin 
         repo = client.repo(name_and_repo) 
         last_committed_at = client.commits(name_and_repo).first[:commit][:committer][:date].strftime('%b %d %Y')
-        table_row = "|[#{repo.name}](#{repo.html_url})|[#{repo.owner[:login]}](#{repo.owner.html_url})| #{description.strip}|⭐️ #{repo.stargazers_count}|#{last_committed_at}|\n"
+        table_row = "|[#{repo.name}](#{repo.html_url})|[#{repo.owner[:login]}](#{repo.owner.html_url})| #{description.strip}|#{repo.stargazers_count}|#{last_committed_at}|\n"
         rows << [repo.stargazers_count, table_row]
       rescue Octokit::NotFound
         puts "NOT FOUND OR MOVED?: #{name_and_repo}" 
