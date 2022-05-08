@@ -12,9 +12,3 @@ Add your repo, by forking and [adding a link and description to sites.md](https:
 
 For more juce-y content, you might like my blogging over at https://melatonin.dev/blog
 
-## Templates
-
-| repo & author | description | ⭐️ | last updated |
-| --- | --- | --- | --- |
-|[eyalamirmusic](https://github.com/eyalamirmusic)/[JUCECmakeRepoPrototype](https://github.com/eyalamirmusic/JUCECmakeRepoPrototype)| JUCE6 and CMake plugin and app templates|134|Apr 22 2022|
-|[sudara](https://github.com/sudara)/[pamplejuce](https://github.com/sudara/pamplejuce)| JUCE, CMAKE, Catch2 on GitHub Actions|56|Mar 02 2022|
