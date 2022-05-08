@@ -101,9 +101,9 @@ https://github.com/franshej/CustomMatPlot MatPlotLib implementation in JUCE
 
 ## Testing
 
-https://github.com/sudara/melatonin_audio_block_test_helpers Catch2 matchers for AudioBlocks
+https://github.com/sudara/melatonin_audio_block_test_helpers Catch2 matchers for JUCE `AudioBlock`s
 https://github.com/Sinecure-Audio/TestsTalk Catch2 Examples from ADC 2020 talk
-https://github.com/sudara/melatonin_parameters Parameter convertings and formatting with tests
+https://github.com/sudara/melatonin_parameters Log parameter conversion and formatting with tests
 
 ## Hosts & DAWs
 
