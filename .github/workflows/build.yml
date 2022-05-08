@@ -26,6 +26,6 @@ jobs:
           git diff
           git config --global user.email "actions@users.noreply.github.com"
           git config --global user.name "Github Actions Cronjob"
-          git add -A
-          git commit -m --allow-empty "Update Stars and Last Updated"
+          git add README.md
+          git commit --allow-empty -m "Update Stars and Last Updated"
           git push
