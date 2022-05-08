@@ -12,7 +12,7 @@ https://github.com/kushview/kv-modules Kush View's module collection
 https://github.com/SquarePine/squarepine_core Analytics, Easing functions, metering
 https://github.com/christofmuc/juce-utils Helper classes that build on top of JUCE
 https://github.com/ImJimmi/JUMP Metering and utility classes 
-https://github.com/ElandaSunshine/Jaut Collection of modules build on top of JUCE  
+https://github.com/ElandaSunshine/Jaut Collection of modules build on top of JUCE
 
 ## Instruments
 
@@ -27,7 +27,7 @@ https://github.com/BespokeSynth/BespokeSynth Cross-Platform Modular synth instru
 https://github.com/surge-synthesizer/monique-monosynth Mono synth on JUCE 7
 https://github.com/khrykin/BlackBird Single Oscillator synth
 https://github.com/paynebc/tunefish Virtual Analog synth
-https://github.com/kofigumbs/typebeat MacOS only Rust
+https://github.com/kofigumbs/typebeat MacOS only Rust-backed Keyboard sequencer, sampler, and synth
 
 ## Effects 
 
