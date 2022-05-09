@@ -28,7 +28,7 @@ tempfile << <<-PREAMBLE
 
 # Awesome JUCE
 
-An [awesome list](https://github.com/topics/awesome-list) of open source [JUCE](http://github.com/juce-framework/JUCE/) projects. Organized by category. Stats update nightly. 
+An [awesome list](https://github.com/topics/awesome-list) of open source [JUCE](http://github.com/juce-framework/JUCE/) libraries, plugins and utilities. Organized by category. Stats update nightly. 
 
 Something missing? [Add the url and a short description to sites.md](https://github.com/sudara/awesome-juce/edit/main/sites.md).
 
