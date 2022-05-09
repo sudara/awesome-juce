@@ -71,6 +71,7 @@ https://github.com/szkkng/numberbox Clean Ableton style "slider" with tutorial
 https://github.com/ffAudio/foleys_gui_magic WYSWYG plugin editor letting you create JUCE GUIs without coding
 https://github.com/HackAudio/hack_audio_gui Hack Audio's custom components
 https://github.com/christofmuc/juce-widgets Unsorted collection of "widgets"
+https://github.com/bgporter/animator Animation control JUCE module; implements the classic easing curves and some new ones
 
 ## Tooling & Debugging
 
