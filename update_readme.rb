@@ -28,12 +28,11 @@ tempfile << <<-PREAMBLE
 
 # Awesome JUCE
 
-An [awesome list](https://github.com/topics/awesome-list) of open source JUCE repositories, organized by category. Stats update nightly. 
+An [awesome list](https://github.com/topics/awesome-list) of open source JUCE repositories. Organized by category. Stats update nightly. 
 
 Something missing? [Add the url and a short description to sites.md](https://github.com/sudara/awesome-juce/edit/main/sites.md).
 
-For more juce-y content: https://melatonin.dev/blog
-
+I make more juce-y content over at https://melatonin.dev/blog
 PREAMBLE
 
 client = Octokit::Client.new(access_token: ENV["GITHUB_ACCESS_TOKEN"])
@@ -41,7 +40,7 @@ client = Octokit::Client.new(access_token: ENV["GITHUB_ACCESS_TOKEN"])
 File.open('sites.md') do |file|
   while !(h2 = file.gets).nil? && h2.start_with?('##') do
     rows = []
-    tempfile << h2
+    tempfile << "\n" << h2
     # keep the h2 header
     tempfile << heading 
     print "Processing #{h2.strip}..."

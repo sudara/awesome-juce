@@ -8,6 +8,7 @@ https://github.com/christofmuc/juce-utils MIDI, i18n, and other helper classes b
 https://github.com/ImJimmi/JUMP Metering and utility classes built on top of JUCE
 https://github.com/ElandaSunshine/Jaut Collection of lower level modules complementing JUCE
 https://github.com/Chowdhury-DSP/chowdsp_utils Large collection of utilities including dsp, presets, json
+https://github.com/drowaudio/drowaudio Older, but very large collection of utilities by the Tracktion superstar 
 
 ## Templates
 
@@ -112,7 +113,7 @@ https://github.com/sudara/melatonin_parameters Log parameter conversion and form
 
 ## Hosts & DAWs
 
-https://github.com/Tracktion/tracktion_engine The one, the only, the engine that JUCE was extracted from
+https://github.com/Tracktion/tracktion_engine The one, the only, the engine that JUCE was once extracted from
 https://github.com/kushview/Element An audio plugin host that isn't a DAW!
 https://github.com/DBraun/DawDreamer Python DAW with full cross platform support
 https://github.com/spotify/pedalboard A Python library and host for manipulating audio 
