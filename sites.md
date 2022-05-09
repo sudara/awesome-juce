@@ -109,7 +109,7 @@ https://github.com/franshej/CustomMatPlot MatPlotLib implementation in JUCE
 
 ## Testing
 
-https://github.com/sudara/melatonin_audio_block_test_helpers Catch2 matchers for JUCE `AudioBlock`s
+https://github.com/sudara/melatonin_audio_block_test_helpers Catch2 matchers for JUCE's `AudioBlock`
 https://github.com/Sinecure-Audio/TestsTalk Catch2 Examples from ADC 2020 talk
 https://github.com/sudara/melatonin_parameters Log parameter conversion and formatting example with tests
 https://github.com/Focusrite-Novation/juce-end-to-end End to end functional testing via js
@@ -117,7 +117,7 @@ https://github.com/Focusrite-Novation/juce-end-to-end End to end functional test
 ## Hosts & DAWs
 
 https://github.com/Tracktion/tracktion_engine The one, the only, the engine that JUCE was once extracted from
-https://github.com/kushview/Element An audio plugin host that isn't a DAW!
+https://github.com/kushview/Element The audio plugin host that isn't a DAW!
 https://github.com/DBraun/DawDreamer Python DAW with full cross platform support
 https://github.com/spotify/pedalboard A Python library and host for manipulating audio 
 https://github.com/fedden/RenderMan Interactive "command line" host backed by Maximilian
