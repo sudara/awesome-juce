@@ -41,7 +41,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 | :--- | :--- | :---: | :---: | ---: |
 |[BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) <br/> <sup>by [BespokeSynth](https://github.com/BespokeSynth)</sup> | Cross-Platform Modular synth instrument/environment| GPL-3.0|3099|May 07 2022|
 |[helm](https://github.com/mtytel/helm) <br/> <sup>by [mtytel](https://github.com/mtytel)</sup> | Free, Open source, cross platform 32-voice polyphonic synth| GPL-3.0|2041|Jul 08 2018|
-|[surge](https://github.com/surge-synthesizer/surge) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | A very active open source rebuild and extension of the classic| GPL-3.0|2003|May 08 2022|
+|[surge](https://github.com/surge-synthesizer/surge) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | A very active open source rebuild and extension of the classic| GPL-3.0|2004|May 08 2022|
 |[giada](https://github.com/monocasual/giada) <br/> <sup>by [monocasual](https://github.com/monocasual)</sup> | Your Hardcore Loop Machine| GPL-3.0|1201|May 06 2022|
 |[vital](https://github.com/mtytel/vital) <br/> <sup>by [mtytel](https://github.com/mtytel)</sup> | The popular spectral warping wavetable synth is open source| GPL-3.0|950|Apr 20 2022|
 |[typebeat](https://github.com/kofigumbs/typebeat) <br/> <sup>by [kofigumbs](https://github.com/kofigumbs)</sup> | MacOS only Rust-backed Keyboard sequencer, sampler, and synth| AGPL-3.0|353|Mar 21 2022|
@@ -150,9 +150,9 @@ I make more juce-y content over at https://melatonin.dev/blog
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
-|[juce-end-to-end](https://github.com/Focusrite-Novation/juce-end-to-end) <br/> <sup>by [Focusrite-Novation](https://github.com/Focusrite-Novation)</sup> | End to end functional testing via js| Apache-2.0|32|Apr 14 2022|
+|[juce-end-to-end](https://github.com/Focusrite-Novation/juce-end-to-end) <br/> <sup>by [Focusrite-Novation](https://github.com/Focusrite-Novation)</sup> | End to end functional testing via js| Apache-2.0|33|Apr 14 2022|
 |[TestsTalk](https://github.com/Sinecure-Audio/TestsTalk) <br/> <sup>by [Sinecure-Audio](https://github.com/Sinecure-Audio)</sup> | Catch2 Examples from ADC 2020 talk| |12|Dec 07 2020|
-|[melatonin_audio_block_test_helpers](https://github.com/sudara/melatonin_audio_block_test_helpers) <br/> <sup>by [sudara](https://github.com/sudara)</sup> | Catch2 matchers for JUCE `AudioBlock`s| MIT|4|Dec 03 2021|
+|[melatonin_audio_block_test_helpers](https://github.com/sudara/melatonin_audio_block_test_helpers) <br/> <sup>by [sudara](https://github.com/sudara)</sup> | Catch2 matchers for JUCE's `AudioBlock`| MIT|4|Dec 03 2021|
 |[melatonin_parameters](https://github.com/sudara/melatonin_parameters) <br/> <sup>by [sudara](https://github.com/sudara)</sup> | Log parameter conversion and formatting example with tests| MIT|3|Apr 09 2022|
 
 ## Hosts & DAWs
@@ -161,7 +161,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 | :--- | :--- | :---: | :---: | ---: |
 |[pedalboard](https://github.com/spotify/pedalboard) <br/> <sup>by [spotify](https://github.com/spotify)</sup> | A Python library and host for manipulating audio| GPL-3.0|3317|Apr 25 2022|
 |[tracktion_engine](https://github.com/Tracktion/tracktion_engine) <br/> <sup>by [Tracktion](https://github.com/Tracktion)</sup> | The one, the only, the engine that JUCE was once extracted from| custom|746|Jan 18 2022|
-|[Element](https://github.com/kushview/Element) <br/> <sup>by [kushview](https://github.com/kushview)</sup> | An audio plugin host that isn't a DAW!| GPL-3.0|625|Apr 30 2022|
+|[Element](https://github.com/kushview/Element) <br/> <sup>by [kushview](https://github.com/kushview)</sup> | The audio plugin host that isn't a DAW!| GPL-3.0|625|Apr 30 2022|
 |[DawDreamer](https://github.com/DBraun/DawDreamer) <br/> <sup>by [DBraun](https://github.com/DBraun)</sup> | Python DAW with full cross platform support| GPL-3.0|393|Apr 29 2022|
 |[RenderMan](https://github.com/fedden/RenderMan) <br/> <sup>by [fedden](https://github.com/fedden)</sup> | Interactive "command line" host backed by Maximilian| Unlicense|272|Jul 20 2021|
 |[OwlPlug](https://github.com/DropSnorz/OwlPlug) <br/> <sup>by [DropSnorz](https://github.com/DropSnorz)</sup> | Cross-platform plugin manager| GPL-3.0|107|Mar 12 2022|
