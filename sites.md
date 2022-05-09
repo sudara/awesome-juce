@@ -19,7 +19,7 @@ https://github.com/anthonyalfimov/JUCE-CMake-Plugin-Template Audio Plugin Templa
 
 ## Instruments
 
-https://github.com/mtytel/vital The commerical spectral warping wavetable synth is also open source
+https://github.com/mtytel/vital The popular spectral warping wavetable synth is open source
 https://github.com/surge-synthesizer/surge A very active open source rebuild and extension of the classic
 https://github.com/mohragk/VermeerMonosynth-1 Monosynth VST on JUCE 5
 https://github.com/Emmet-Hayes/BatSynth 2 oscillators with 13 wave shapes
@@ -31,6 +31,7 @@ https://github.com/surge-synthesizer/monique-monosynth Mono synth on JUCE 7
 https://github.com/khrykin/BlackBird Single Oscillator synth
 https://github.com/paynebc/tunefish Virtual Analog synth
 https://github.com/kofigumbs/typebeat MacOS only Rust-backed Keyboard sequencer, sampler, and synth
+https://github.com/mtytel/helm Free, Open source, cross platform 32-voice polyphonic synth
 
 ## Effects 
 
@@ -77,21 +78,22 @@ https://github.com/Tracktion/pluginval Cross-platform plugin testing and validat
 https://github.com/jcredland/juce-toys LLDB helpers. Comoponent, buffer and value tree debuggers and more
 https://github.com/sudara/melatonin_inspector Inspect your JUCE components ala Web Inspector
 https://github.com/sudara/melatonin_audio_sparklines Display audio as ASCII waveforms on the console and in your tests
-https://github.com/McMartin/FRUT The OG way to setup CMake with JUCE (before JUCE 6)
+https://github.com/McMartin/FRUT The OG way to setup CMake with JUCE (pre JUCE 6)
 https://github.com/AndrewJJ/DSP-Testbench Test your dsp with signal sources, routing, analysis and monitoring
 
 ## Frameworks
 
 https://github.com/pierreguillot/Camomile A meta-plugin that embeds Pure Data
 https://github.com/christophhart/HISE The open source framework for sample based instruments
-https://github.com/benkuper/Chataigne Real-time communicating and syncing with other technologies
-https://github.com/Celemony/JUCE_ARA JUCE fork that provides Audio Random Access support
+https://github.com/benkuper/Chataigne Real-time communication and syncing with many other technologies
+https://github.com/Celemony/JUCE_ARA JUCE fork that provides Audio Random Access (ARA) support
 https://github.com/asb2m10/plugincollider Plugin that embeds SuperCollider
+https://github.com/JoshMarler/react-juce Cross-platform native apps with React.js and JUCE
 
 ## DSP
 
 https://github.com/olilarkin/juce_faustllvm JUCE Module for embedding the libfaust JIT compiler
-https://github.com/juandagilc/Audio-Effects Collection of Audio Effects from a book
+https://github.com/juandagilc/Audio-Effects Collection of Audio Effects examples from a book
 https://github.com/adamski/pitch_detector Pitch estimation based on YIN
 
 ## Networking & Cryptography
