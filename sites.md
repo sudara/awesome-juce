@@ -1,23 +1,25 @@
-## Templates
-
-https://github.com/sudara/pamplejuce JUCE, CMAKE, Catch2 on GitHub Actions
-https://github.com/eyalamirmusic/JUCECmakeRepoPrototype JUCE6 and CMake plugin and app templates
-https://github.com/maxwellpollack/juce-plugin-ci Cross-platform CI for JUCE audio plugins with Github Actions
-
 ## Module Collections & Libraries
 
-https://github.com/benthevining/Lemons Collection of modules that build on top of JUCE
+https://github.com/benthevining/Lemons Collection of modules, including DMX, OSC, PLOSA
 https://github.com/FigBug/Gin Massive collection of extras, including StackBlur, Websockets, Maps, etc
-https://github.com/kushview/kv-modules Kush View's module collection
-https://github.com/SquarePine/squarepine_core Analytics, Easing functions, metering
-https://github.com/christofmuc/juce-utils Helper classes that build on top of JUCE
-https://github.com/ImJimmi/JUMP Metering and utility classes 
-https://github.com/ElandaSunshine/Jaut Collection of modules build on top of JUCE
+https://github.com/kushview/kv-modules Kush View's module collection includes ffmpeg, video, jack
+https://github.com/SquarePine/squarepine_core Collection includes flexible Google Analytics, Easing functions, metering
+https://github.com/christofmuc/juce-utils MIDI, i18n, and other helper classes built on top of JUCE
+https://github.com/ImJimmi/JUMP Metering and utility classes built on top of JUCE
+https://github.com/ElandaSunshine/Jaut Collection of lower level modules complementing JUCE
+https://github.com/Chowdhury-DSP/chowdsp_utils Large collection of utilities including dsp, presets, json
+
+## Templates
+
+https://github.com/sudara/pamplejuce JUCE, CMake, Catch2, Pluginval on GitHub Actions
+https://github.com/eyalamirmusic/JUCECmakeRepoPrototype Large variety of JUCE 6 and CMake plugin and app templates
+https://github.com/maxwellpollack/juce-plugin-ci Cross-platform CI for JUCE audio plugins with GitHub Actions
+https://github.com/anthonyalfimov/JUCE-CMake-Plugin-Template Audio Plugin Template on GitHub Actions
 
 ## Instruments
 
-https://github.com/mtytel/vital The popular commercial synth is technically open source
-https://github.com/surge-synthesizer/surge Active open source rebuild of the popular classic
+https://github.com/mtytel/vital The commerical spectral warping wavetable synth is also open source
+https://github.com/surge-synthesizer/surge A very active open source rebuild and extension of the classic
 https://github.com/mohragk/VermeerMonosynth-1 Monosynth VST on JUCE 5
 https://github.com/Emmet-Hayes/BatSynth 2 oscillators with 13 wave shapes
 https://github.com/Chowdhury-DSP/ChowKick Kick synthesizer based on old-school drum machine circuits
@@ -43,6 +45,8 @@ https://github.com/hollance/mda-plugins-juce Old school MDA freeware plugins rei
 https://github.com/cvde/RoomReverb Algorithmic reverb plugin
 https://github.com/szkkng/jg-granular Streaming granular synthesis effect
 https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
+https://github.com/GuitarML/SmartGuitarAmp Neural Network WaveNet modelled guitar amps
+https://github.com/GuitarML/SmartGuitarPedal Neural Network WaveNet modelled guitar pedals
 
 ## Metering 
 
@@ -68,9 +72,10 @@ https://github.com/christofmuc/juce-widgets Unsorted collection of "widgets"
 
 ## Tooling & Debugging
 
+https://github.com/Tracktion/pluginval Cross-platform plugin testing and validation
 https://github.com/jcredland/juce-toys LLDB helpers. Comoponent, buffer and value tree debuggers and more
-https://github.com/sudara/melatonin_inspector Poke around and visually inspect your JUCE components
-https://github.com/sudara/melatonin_audio_sparklines Display audio as ASCII waveforms on the console and in tests
+https://github.com/sudara/melatonin_inspector Inspect your JUCE components ala Web Inspector
+https://github.com/sudara/melatonin_audio_sparklines Display audio as ASCII waveforms on the console and in your tests
 https://github.com/McMartin/FRUT The OG way to setup CMake with JUCE (before JUCE 6)
 https://github.com/AndrewJJ/DSP-Testbench Test your dsp with signal sources, routing, analysis and monitoring
 
@@ -103,7 +108,7 @@ https://github.com/franshej/CustomMatPlot MatPlotLib implementation in JUCE
 
 https://github.com/sudara/melatonin_audio_block_test_helpers Catch2 matchers for JUCE `AudioBlock`s
 https://github.com/Sinecure-Audio/TestsTalk Catch2 Examples from ADC 2020 talk
-https://github.com/sudara/melatonin_parameters Log parameter conversion and formatting with tests
+https://github.com/sudara/melatonin_parameters Log parameter conversion and formatting example with tests
 
 ## Hosts & DAWs
 
@@ -118,7 +123,7 @@ https://github.com/jatinchowdhury18/PluginRunner Run audio through a plugin from
 ## Educational
 
 https://github.com/tobanteAudio/juce-cookbook JUCE Cookbook
-https://github.com/TheAudioProgrammer/juceSynthFramework Learn how to build a synth with Josh
+https://github.com/TheAudioProgrammer/juceSynthFramework Build a JUCE synth step by step with Josh
 https://github.com/jatinchowdhury18/plugin-ci-example JUCE plugin CI examples for Gitlab, GitHub, Azure
 
 ## Integrations
