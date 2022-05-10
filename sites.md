@@ -157,4 +157,4 @@ https://github.com/ianacaburian/AbletonLink_JuceSampler Ableton Link syncing
 https://github.com/free-audio/clap-juce-extensions CLAP plugin support
 https://github.com/MTG/freesound-juce Freesound.org API implementation
 https://github.com/lvtk/jlv2 LV2 plugin hosting
-https://github.com/atsushieno/aap-juce/ Android Audio Plugin (AAP) support with lots of plugin ports
+https://github.com/atsushieno/aap-juce Android Audio Plugin (AAP) support with lots of plugin ports
