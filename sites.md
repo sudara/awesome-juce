@@ -9,6 +9,9 @@ https://github.com/ImJimmi/JUMP Metering and utility classes built on top of JUC
 https://github.com/ElandaSunshine/Jaut Collection of lower level modules complementing JUCE
 https://github.com/Chowdhury-DSP/chowdsp_utils Large collection of utilities including dsp, presets, json
 https://github.com/drowaudio/drowaudio Older, but very large collection of utilities by the Tracktion superstar 
+https://github.com/jpcima/ysfx JSFX hosting library incl. example plugin
+https://github.com/surge-synthesizer/sst-filters Surge filters as a separate library
+https://github.com/surge-synthesizer/sst-waveshapers Surge waveshapers as a separate library
 
 ## Templates
 
@@ -27,11 +30,14 @@ https://github.com/Chowdhury-DSP/ChowKick Kick synthesizer based on old-school d
 https://github.com/monocasual/giada Your Hardcore Loop Machine
 https://github.com/Princeton-CDH/bitKlavier Bitklavier is a digital prepared piano
 https://github.com/BespokeSynth/BespokeSynth Cross-Platform Modular synth instrument/environment
-https://github.com/surge-synthesizer/monique-monosynth Mono synth on JUCE 7
+https://github.com/surge-synthesizer/monique-monosynth Mono synth with morph mixer
 https://github.com/khrykin/BlackBird Single Oscillator synth
 https://github.com/paynebc/tunefish Virtual Analog synth
 https://github.com/kofigumbs/typebeat MacOS only Rust-backed Keyboard sequencer, sampler, and synth
 https://github.com/mtytel/helm Free, Open source, cross platform 32-voice polyphonic synth
+https://github.com/asb2m10/dexed DX7 FM multi patform / multi format plugin
+https://github.com/surge-synthesizer/shortcircuit-xt Sampler
+https://github.com/surge-synthesizer/tuning-workbench-synth Simple microtonal synth
 
 ## Effects 
 
@@ -63,6 +69,8 @@ https://github.com/vsicurella/SuperVirtualKeyboard Microtonal keyboard layout
 https://github.com/rclement/meeblip-controller Midi controller for the Meeblip Anode synth
 https://github.com/trackbout/ripchord Cross platform plugin to create and remix chord progressions
 https://github.com/lukemcraig/OvertoneFilter Emphasize MIDI-selected harmonics of an audio signal
+https://github.com/surge-synthesizer/b-step Chord sequencer
+https://github.com/surge-synthesizer/stochas Probabilistic sequencer
 
 ## UI 
 
