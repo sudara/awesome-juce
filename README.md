@@ -27,7 +27,6 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[sst-filters](https://github.com/surge-synthesizer/sst-filters) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Surge filters as a separate library| GPL-3.0|6|May 01 2022|
 |[JUMP](https://github.com/ImJimmi/JUMP) <br/> <sup>by [ImJimmi](https://github.com/ImJimmi)</sup> | Metering and utility classes built on top of JUCE| GPL-3.0|6|Sep 03 2021|
 |[Jaut](https://github.com/ElandaSunshine/Jaut) <br/> <sup>by [ElandaSunshine](https://github.com/ElandaSunshine)</sup> | Collection of lower level modules complementing JUCE| |4|Apr 03 2022|
-|[sst-waveshapers](https://github.com/surge-synthesizer/sst-waveshapers) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Surge waveshapers as a separate library| GPL-3.0|3|Apr 29 2022|
 
 ## Templates
 
@@ -81,6 +80,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[RoomReverb](https://github.com/cvde/RoomReverb) <br/> <sup>by [cvde](https://github.com/cvde)</sup> | Algorithmic reverb plugin| GPL-3.0|21|Apr 15 2022|
 |[mda-plugins-juce](https://github.com/hollance/mda-plugins-juce) <br/> <sup>by [hollance](https://github.com/hollance)</sup> | Old school MDA freeware plugins reimplemented in JUCE| custom|21|Jan 21 2022|
 |[jg-granular](https://github.com/szkkng/jg-granular) <br/> <sup>by [szkkng](https://github.com/szkkng)</sup> | Streaming granular synthesis effect| GPL-3.0|11|Mar 22 2022|
+|[OvertoneFilter](https://github.com/lukemcraig/OvertoneFilter) <br/> <sup>by [lukemcraig](https://github.com/lukemcraig)</sup> | Emphasize MIDI-selected harmonics of an audio signal| |7|Oct 23 2019|
 |[IEMPluginSuite](git.iem.at/audioplugins/IEMPluginSuite)| Large suite of plugins, including Ambisonic
 | | | |
 
@@ -98,13 +98,12 @@ I make more juce-y content over at https://melatonin.dev/blog
 | :--- | :--- | :---: | :---: | ---: |
 |[SendMIDI](https://github.com/gbevin/SendMIDI) <br/> <sup>by [gbevin](https://github.com/gbevin)</sup> | Cross-platform tool to send MIDI messages from the command line| GPL-3.0|480|Feb 19 2022|
 |[stochas](https://github.com/surge-synthesizer/stochas) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Probabilistic sequencer| GPL-3.0|241|Apr 02 2022|
-|[ReceiveMIDI](https://github.com/gbevin/ReceiveMIDI) <br/> <sup>by [gbevin](https://github.com/gbevin)</sup> | Cross-platform tool to monitor and receive MIDI messages on the command line| GPL-3.0|192|Feb 19 2022|
+|[ReceiveMIDI](https://github.com/gbevin/ReceiveMIDI) <br/> <sup>by [gbevin](https://github.com/gbevin)</sup> | Cross-platform tool to monitor and receive MIDI messages on the command line| GPL-3.0|193|Feb 19 2022|
 |[SuperVirtualKeyboard](https://github.com/vsicurella/SuperVirtualKeyboard) <br/> <sup>by [vsicurella](https://github.com/vsicurella)</sup> | Microtonal keyboard layout| Unlicense|25|Nov 13 2020|
 |[b-step](https://github.com/surge-synthesizer/b-step) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Chord sequencer| custom|18|May 05 2022|
 |[ripchord](https://github.com/trackbout/ripchord) <br/> <sup>by [trackbout](https://github.com/trackbout)</sup> | Cross platform plugin to create and remix chord progressions| GPL-3.0|12|May 02 2022|
 |[meeblip-controller](https://github.com/rclement/meeblip-controller) <br/> <sup>by [rclement](https://github.com/rclement)</sup> | Midi controller for the Meeblip Anode synth| GPL-3.0|10|Nov 30 2018|
 |[Midi-Bass-Pedal-Chords](https://github.com/stfufane/Midi-Bass-Pedal-Chords) <br/> <sup>by [stfufane](https://github.com/stfufane)</sup> | Map chords to your MIDI bass pedal| |10|Feb 26 2022|
-|[OvertoneFilter](https://github.com/lukemcraig/OvertoneFilter) <br/> <sup>by [lukemcraig](https://github.com/lukemcraig)</sup> | Emphasize MIDI-selected harmonics of an audio signal| |7|Oct 23 2019|
 
 ## UI 
 
@@ -148,6 +147,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[Audio-Effects](https://github.com/juandagilc/Audio-Effects) <br/> <sup>by [juandagilc](https://github.com/juandagilc)</sup> | Collection of Audio Effects examples from a book| |469|Oct 16 2020|
 |[pitch_detector](https://github.com/adamski/pitch_detector) <br/> <sup>by [adamski](https://github.com/adamski)</sup> | Pitch estimation based on YIN| |91|Apr 07 2022|
 |[juce_faustllvm](https://github.com/olilarkin/juce_faustllvm) <br/> <sup>by [olilarkin](https://github.com/olilarkin)</sup> | JUCE Module for embedding the libfaust JIT compiler| |29|Dec 07 2019|
+|[sst-waveshapers](https://github.com/surge-synthesizer/sst-waveshapers) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Surge waveshapers as a separate library| GPL-3.0|3|Apr 29 2022|
 
 ## Networking & Cryptography
 
