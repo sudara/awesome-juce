@@ -105,6 +105,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 | :--- | :--- | :---: | :---: | ---: |
 |[foleys_gui_magic](https://github.com/ffAudio/foleys_gui_magic) <br/> <sup>by [ffAudio](https://github.com/ffAudio)</sup> | WYSWYG plugin editor letting you create JUCE GUIs without coding| custom|155|Dec 27 2021|
 |[hack_audio_gui](https://github.com/HackAudio/hack_audio_gui) <br/> <sup>by [HackAudio](https://github.com/HackAudio)</sup> | Hack Audio's custom components| custom|20|Feb 14 2018|
+|[animator](https://github.com/bgporter/animator) <br/> <sup>by [bgporter](https://github.com/bgporter)</sup> | Animation control JUCE module; implements the classic easing curves and some new ones| MIT|19|Mar 23 2022|
 |[juce-widgets](https://github.com/christofmuc/juce-widgets) <br/> <sup>by [christofmuc](https://github.com/christofmuc)</sup> | Unsorted collection of "widgets"| MIT|7|Apr 08 2022|
 |[modern-dial](https://github.com/szkkng/modern-dial) <br/> <sup>by [szkkng](https://github.com/szkkng)</sup> | Nice clean example of a rotary "slider"| GPL-3.0|3|Nov 25 2021|
 |[numberbox](https://github.com/szkkng/numberbox) <br/> <sup>by [szkkng](https://github.com/szkkng)</sup> | Clean Ableton style "slider" with tutorial| GPL-3.0|2|Feb 11 2022|
