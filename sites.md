@@ -35,9 +35,13 @@ https://github.com/khrykin/BlackBird Single Oscillator synth
 https://github.com/paynebc/tunefish Virtual Analog synth
 https://github.com/kofigumbs/typebeat MacOS only Rust-backed Keyboard sequencer, sampler, and synth
 https://github.com/mtytel/helm Free, Open source, cross platform 32-voice polyphonic synth
-https://github.com/asb2m10/dexed DX7 FM multi patform / multi format plugin
+https://github.com/asb2m10/dexed Yamaha DX7 FM multi patform / multi format plugin
 https://github.com/surge-synthesizer/shortcircuit-xt Sampler
 https://github.com/surge-synthesizer/tuning-workbench-synth Simple microtonal synth
+https://github.com/reales/OB-Xd Virtual Analog modelled Oberheim OB-X with a few extras
+https://github.com/jpcima/ADLplug 2 FM synths based on OPL3 and OPN2 sound chip emulations
+https://github.com/TheWaveWarden/odin2  24-voice polyphonic synth with filter emulations and modulation matrix
+https://github.com/jpcima/Hera June 60 
 
 ## Effects 
 
@@ -55,6 +59,7 @@ https://github.com/szkkng/jg-granular Streaming granular synthesis effect
 https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
 https://github.com/GuitarML/SmartGuitarAmp Neural Network WaveNet modelled guitar amps
 https://github.com/GuitarML/SmartGuitarPedal Neural Network WaveNet modelled guitar pedals
+https://github.com/JanosGit/Schrammel_OJD Audio plugin model of a modern classic overdrive pedal
 
 ## Metering 
 
@@ -62,7 +67,7 @@ https://github.com/ffAudio/Frequalizer Equalizer using JUCE's dsp module
 https://github.com/ffAudio/ff_meters LED meters for JUCE audio buffers
 https://github.com/SoundDevelopment/sound_meter Resizable efficient peak meters
 
-## Midi Plugins
+## Midi 
 
 https://github.com/stfufane/Midi-Bass-Pedal-Chords Map chords to your MIDI bass pedal
 https://github.com/vsicurella/SuperVirtualKeyboard Microtonal keyboard layout
@@ -71,7 +76,9 @@ https://github.com/trackbout/ripchord Cross platform plugin to create and remix 
 https://github.com/lukemcraig/OvertoneFilter Emphasize MIDI-selected harmonics of an audio signal
 https://github.com/surge-synthesizer/b-step Chord sequencer
 https://github.com/surge-synthesizer/stochas Probabilistic sequencer
-
+https://github.com/gbevin/SendMIDI Cross-platform tool to send MIDI messages from the command line
+https://github.com/gbevin/ReceiveMIDI Cross-platform tool to monitor and receive MIDI messages on the command line
+  
 ## UI 
 
 https://github.com/szkkng/modern-dial Nice clean example of a rotary "slider"
@@ -79,7 +86,9 @@ https://github.com/szkkng/numberbox Clean Ableton style "slider" with tutorial
 https://github.com/ffAudio/foleys_gui_magic WYSWYG plugin editor letting you create JUCE GUIs without coding
 https://github.com/HackAudio/hack_audio_gui Hack Audio's custom components
 https://github.com/christofmuc/juce-widgets Unsorted collection of "widgets"
-https://github.com/bgporter/animator Animation control JUCE module; implements the classic easing curves and some new ones
+https://github.com/bgporter/animator Animation module implementing classic easing curves and some new ones
+https://github.com/fefanto/fontaudio Icon toolkit for audio with permissive licensing
+https://github.com/JanosGit/Resvg4JUCE Wrapper for the resvg rendering library
 
 ## Tooling & Debugging
 
@@ -148,3 +157,4 @@ https://github.com/ianacaburian/AbletonLink_JuceSampler Ableton Link syncing
 https://github.com/free-audio/clap-juce-extensions CLAP plugin support
 https://github.com/MTG/freesound-juce Freesound.org API implementation
 https://github.com/lvtk/jlv2 LV2 plugin hosting
+https://github.com/atsushieno/aap-juce/ Android Audio Plugin (AAP) support with lots of plugin ports
