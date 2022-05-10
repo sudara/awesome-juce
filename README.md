@@ -43,17 +43,21 @@ I make more juce-y content over at https://melatonin.dev/blog
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
 |[BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) <br/> <sup>by [BespokeSynth](https://github.com/BespokeSynth)</sup> | Cross-Platform Modular synth instrument/environment| GPL-3.0|3101|May 07 2022|
-|[dexed](https://github.com/asb2m10/dexed) <br/> <sup>by [asb2m10](https://github.com/asb2m10)</sup> | DX7 FM multi patform / multi format plugin| GPL-3.0|2104|Apr 08 2022|
+|[dexed](https://github.com/asb2m10/dexed) <br/> <sup>by [asb2m10](https://github.com/asb2m10)</sup> | Yamaha DX7 FM multi patform / multi format plugin| GPL-3.0|2104|Apr 08 2022|
 |[helm](https://github.com/mtytel/helm) <br/> <sup>by [mtytel](https://github.com/mtytel)</sup> | Free, Open source, cross platform 32-voice polyphonic synth| GPL-3.0|2041|Jul 08 2018|
 |[surge](https://github.com/surge-synthesizer/surge) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | A very active open source rebuild and extension of the classic| GPL-3.0|2006|May 10 2022|
 |[giada](https://github.com/monocasual/giada) <br/> <sup>by [monocasual](https://github.com/monocasual)</sup> | Your Hardcore Loop Machine| GPL-3.0|1202|May 06 2022|
 |[vital](https://github.com/mtytel/vital) <br/> <sup>by [mtytel](https://github.com/mtytel)</sup> | The popular spectral warping wavetable synth is open source| GPL-3.0|951|Apr 20 2022|
+|[OB-Xd](https://github.com/reales/OB-Xd) <br/> <sup>by [reales](https://github.com/reales)</sup> | Virtual Analog modelled Oberheim OB-X with a few extras| GPL-3.0|442|Mar 27 2022|
 |[typebeat](https://github.com/kofigumbs/typebeat) <br/> <sup>by [kofigumbs](https://github.com/kofigumbs)</sup> | MacOS only Rust-backed Keyboard sequencer, sampler, and synth| AGPL-3.0|353|Mar 21 2022|
+|[odin2](https://github.com/TheWaveWarden/odin2) <br/> <sup>by [TheWaveWarden](https://github.com/TheWaveWarden)</sup> | 24-voice polyphonic synth with filter emulations and modulation matrix| GPL-3.0|338|Aug 17 2021|
+|[ADLplug](https://github.com/jpcima/ADLplug) <br/> <sup>by [jpcima](https://github.com/jpcima)</sup> | 2 FM synths based on OPL3 and OPN2 sound chip emulations| BSL-1.0|320|Dec 16 2021|
 |[monique-monosynth](https://github.com/surge-synthesizer/monique-monosynth) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Mono synth with morph mixer| custom|254|May 02 2022|
 |[tunefish](https://github.com/paynebc/tunefish) <br/> <sup>by [paynebc](https://github.com/paynebc)</sup> | Virtual Analog synth| GPL-3.0|201|Apr 06 2021|
 |[ChowKick](https://github.com/Chowdhury-DSP/ChowKick) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Kick synthesizer based on old-school drum machine circuits| BSD-3-Clause|96|May 06 2022|
 |[shortcircuit-xt](https://github.com/surge-synthesizer/shortcircuit-xt) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Sampler| GPL-3.0|64|Apr 30 2022|
 |[tuning-workbench-synth](https://github.com/surge-synthesizer/tuning-workbench-synth) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Simple microtonal synth| GPL-3.0|32|Feb 05 2022|
+|[Hera](https://github.com/jpcima/Hera) <br/> <sup>by [jpcima](https://github.com/jpcima)</sup> | June 60| GPL-3.0|27|Aug 15 2021|
 |[bitKlavier](https://github.com/Princeton-CDH/bitKlavier) <br/> <sup>by [Princeton-CDH](https://github.com/Princeton-CDH)</sup> | Bitklavier is a digital prepared piano| GPL-3.0|25|Apr 23 2022|
 |[BlackBird](https://github.com/khrykin/BlackBird) <br/> <sup>by [khrykin](https://github.com/khrykin)</sup> | Single Oscillator synth| GPL-3.0|23|Nov 12 2020|
 |[VermeerMonosynth-1](https://github.com/mohragk/VermeerMonosynth-1) <br/> <sup>by [mohragk](https://github.com/mohragk)</sup> | Monosynth VST on JUCE 5| GPL-3.0|6|Jun 04 2020|
@@ -68,6 +72,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[KlonCentaur](https://github.com/jatinchowdhury18/KlonCentaur) <br/> <sup>by [jatinchowdhury18](https://github.com/jatinchowdhury18)</sup> | Analog guitar pedal emulations| BSD-3-Clause|216|Jul 02 2021|
 |[ChowMatrix](https://github.com/Chowdhury-DSP/ChowMatrix) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Inifinitely growable tree of delay lines| BSD-3-Clause|197|Dec 21 2021|
 |[SmartGuitarPedal](https://github.com/GuitarML/SmartGuitarPedal) <br/> <sup>by [GuitarML](https://github.com/GuitarML)</sup> | Neural Network WaveNet modelled guitar pedals| Apache-2.0|153|Jul 07 2021|
+|[Schrammel_OJD](https://github.com/JanosGit/Schrammel_OJD) <br/> <sup>by [JanosGit](https://github.com/JanosGit)</sup> | Audio plugin model of a modern classic overdrive pedal| GPL-3.0|85|Dec 13 2021|
 |[CHOW](https://github.com/Chowdhury-DSP/CHOW) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Digital Distortion| GPL-3.0|47|Sep 23 2019|
 |[PhaseVocoder](https://github.com/stekyne/PhaseVocoder) <br/> <sup>by [stekyne](https://github.com/stekyne)</sup> | Phase Vocoder| |39|Oct 17 2021|
 |[quantumVerb](https://github.com/QVbDev/quantumVerb) <br/> <sup>by [QVbDev](https://github.com/QVbDev)</sup> | Convolution Reverb| GPL-3.0|38|Apr 11 2018|
@@ -87,11 +92,13 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[ff_meters](https://github.com/ffAudio/ff_meters) <br/> <sup>by [ffAudio](https://github.com/ffAudio)</sup> | LED meters for JUCE audio buffers| BSD-3-Clause|84|Sep 17 2021|
 |[sound_meter](https://github.com/SoundDevelopment/sound_meter) <br/> <sup>by [SoundDevelopment](https://github.com/SoundDevelopment)</sup> | Resizable efficient peak meters| MIT|14|Sep 22 2021|
 
-## Midi Plugins
+## Midi 
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
+|[SendMIDI](https://github.com/gbevin/SendMIDI) <br/> <sup>by [gbevin](https://github.com/gbevin)</sup> | Cross-platform tool to send MIDI messages from the command line| GPL-3.0|480|Feb 19 2022|
 |[stochas](https://github.com/surge-synthesizer/stochas) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Probabilistic sequencer| GPL-3.0|241|Apr 02 2022|
+|[ReceiveMIDI](https://github.com/gbevin/ReceiveMIDI) <br/> <sup>by [gbevin](https://github.com/gbevin)</sup> | Cross-platform tool to monitor and receive MIDI messages on the command line| GPL-3.0|192|Feb 19 2022|
 |[SuperVirtualKeyboard](https://github.com/vsicurella/SuperVirtualKeyboard) <br/> <sup>by [vsicurella](https://github.com/vsicurella)</sup> | Microtonal keyboard layout| Unlicense|25|Nov 13 2020|
 |[b-step](https://github.com/surge-synthesizer/b-step) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Chord sequencer| custom|18|May 05 2022|
 |[ripchord](https://github.com/trackbout/ripchord) <br/> <sup>by [trackbout](https://github.com/trackbout)</sup> | Cross platform plugin to create and remix chord progressions| GPL-3.0|12|May 02 2022|
@@ -103,9 +110,11 @@ I make more juce-y content over at https://melatonin.dev/blog
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
+|[fontaudio](https://github.com/fefanto/fontaudio) <br/> <sup>by [fefanto](https://github.com/fefanto)</sup> | Icon toolkit for audio with permissive licensing| MIT|194|Apr 27 2021|
 |[foleys_gui_magic](https://github.com/ffAudio/foleys_gui_magic) <br/> <sup>by [ffAudio](https://github.com/ffAudio)</sup> | WYSWYG plugin editor letting you create JUCE GUIs without coding| custom|155|Dec 27 2021|
 |[hack_audio_gui](https://github.com/HackAudio/hack_audio_gui) <br/> <sup>by [HackAudio](https://github.com/HackAudio)</sup> | Hack Audio's custom components| custom|20|Feb 14 2018|
-|[animator](https://github.com/bgporter/animator) <br/> <sup>by [bgporter](https://github.com/bgporter)</sup> | Animation control JUCE module; implements the classic easing curves and some new ones| MIT|19|Mar 23 2022|
+|[animator](https://github.com/bgporter/animator) <br/> <sup>by [bgporter](https://github.com/bgporter)</sup> | Animation module implementing classic easing curves and some new ones| MIT|19|Mar 23 2022|
+|[Resvg4JUCE](https://github.com/JanosGit/Resvg4JUCE) <br/> <sup>by [JanosGit](https://github.com/JanosGit)</sup> | Wrapper for the resvg rendering library| MPL-2.0|12|May 10 2022|
 |[juce-widgets](https://github.com/christofmuc/juce-widgets) <br/> <sup>by [christofmuc](https://github.com/christofmuc)</sup> | Unsorted collection of "widgets"| MIT|7|Apr 08 2022|
 |[modern-dial](https://github.com/szkkng/modern-dial) <br/> <sup>by [szkkng](https://github.com/szkkng)</sup> | Nice clean example of a rotary "slider"| GPL-3.0|3|Nov 25 2021|
 |[numberbox](https://github.com/szkkng/numberbox) <br/> <sup>by [szkkng](https://github.com/szkkng)</sup> | Clean Ableton style "slider" with tutorial| GPL-3.0|2|Feb 11 2022|
@@ -195,3 +204,4 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[clap-juce-extensions](https://github.com/free-audio/clap-juce-extensions) <br/> <sup>by [free-audio](https://github.com/free-audio)</sup> | CLAP plugin support| MIT|20|May 05 2022|
 |[freesound-juce](https://github.com/MTG/freesound-juce) <br/> <sup>by [MTG](https://github.com/MTG)</sup> | Freesound.org API implementation| MIT|17|Nov 25 2021|
 |[jlv2](https://github.com/lvtk/jlv2) <br/> <sup>by [lvtk](https://github.com/lvtk)</sup> | LV2 plugin hosting| custom|13|Feb 03 2022|
+|[aap-juce](https://github.com/atsushieno/aap-juce) <br/> <sup>by [atsushieno](https://github.com/atsushieno)</sup> | Android Audio Plugin (AAP) support with lots of plugin ports| GPL-3.0|10|May 04 2022|
