@@ -11,7 +11,6 @@ https://github.com/Chowdhury-DSP/chowdsp_utils Large collection of utilities inc
 https://github.com/drowaudio/drowaudio Older, but very large collection of utilities by the Tracktion superstar 
 https://github.com/jpcima/ysfx JSFX hosting library incl. example plugin
 https://github.com/surge-synthesizer/sst-filters Surge filters as a separate library
-https://github.com/surge-synthesizer/sst-waveshapers Surge waveshapers as a separate library
 
 ## Templates
 
@@ -60,6 +59,7 @@ https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including
 https://github.com/GuitarML/SmartGuitarAmp Neural Network WaveNet modelled guitar amps
 https://github.com/GuitarML/SmartGuitarPedal Neural Network WaveNet modelled guitar pedals
 https://github.com/JanosGit/Schrammel_OJD Audio plugin model of a modern classic overdrive pedal
+https://github.com/lukemcraig/OvertoneFilter Emphasize MIDI-selected harmonics of an audio signal
 
 ## Metering 
 
@@ -73,7 +73,6 @@ https://github.com/stfufane/Midi-Bass-Pedal-Chords Map chords to your MIDI bass 
 https://github.com/vsicurella/SuperVirtualKeyboard Microtonal keyboard layout
 https://github.com/rclement/meeblip-controller Midi controller for the Meeblip Anode synth
 https://github.com/trackbout/ripchord Cross platform plugin to create and remix chord progressions
-https://github.com/lukemcraig/OvertoneFilter Emphasize MIDI-selected harmonics of an audio signal
 https://github.com/surge-synthesizer/b-step Chord sequencer
 https://github.com/surge-synthesizer/stochas Probabilistic sequencer
 https://github.com/gbevin/SendMIDI Cross-platform tool to send MIDI messages from the command line
@@ -113,6 +112,7 @@ https://github.com/JoshMarler/react-juce Cross-platform native apps with React.j
 https://github.com/olilarkin/juce_faustllvm JUCE Module for embedding the libfaust JIT compiler
 https://github.com/juandagilc/Audio-Effects Collection of Audio Effects examples from a book
 https://github.com/adamski/pitch_detector Pitch estimation based on YIN
+https://github.com/surge-synthesizer/sst-waveshapers Surge waveshapers as a separate library
 
 ## Networking & Cryptography
 
