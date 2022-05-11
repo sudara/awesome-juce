@@ -36,6 +36,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[pamplejuce](https://github.com/sudara/pamplejuce) <br/> <sup>by [sudara](https://github.com/sudara)</sup> | JUCE, CMake, Catch2, Pluginval on GitHub Actions| MIT|56|Mar 02 2022|
 |[juce-plugin-ci](https://github.com/maxwellpollack/juce-plugin-ci) <br/> <sup>by [maxwellpollack](https://github.com/maxwellpollack)</sup> | Cross-platform CI for JUCE audio plugins with GitHub Actions| |38|Feb 04 2022|
 |[JUCE-CMake-Plugin-Template](https://github.com/anthonyalfimov/JUCE-CMake-Plugin-Template) <br/> <sup>by [anthonyalfimov](https://github.com/anthonyalfimov)</sup> | Audio Plugin Template on GitHub Actions| |15|Feb 23 2022|
+|[juce-template](https://github.com/nberr/juce-template) <br/> <sup>by [nberr](https://github.com/nberr)</sup> | "Everything but the processing" template supporting Rust DSP| MIT|2|Apr 10 2022|
 
 ## Instruments
 
@@ -67,7 +68,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
 |[SmartGuitarAmp](https://github.com/GuitarML/SmartGuitarAmp) <br/> <sup>by [GuitarML](https://github.com/GuitarML)</sup> | Neural Network WaveNet modelled guitar amps| Apache-2.0|950|Feb 01 2022|
-|[AnalogTapeModel](https://github.com/jatinchowdhury18/AnalogTapeModel) <br/> <sup>by [jatinchowdhury18](https://github.com/jatinchowdhury18)</sup> | Physical Modeling for Analog Tape Machines| GPL-3.0|705|Dec 19 2021|
+|[AnalogTapeModel](https://github.com/jatinchowdhury18/AnalogTapeModel) <br/> <sup>by [jatinchowdhury18](https://github.com/jatinchowdhury18)</sup> | Physical Modeling for Analog Tape Machines| GPL-3.0|707|Dec 19 2021|
 |[KlonCentaur](https://github.com/jatinchowdhury18/KlonCentaur) <br/> <sup>by [jatinchowdhury18](https://github.com/jatinchowdhury18)</sup> | Analog guitar pedal emulations| BSD-3-Clause|216|Jul 02 2021|
 |[ChowMatrix](https://github.com/Chowdhury-DSP/ChowMatrix) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Inifinitely growable tree of delay lines| BSD-3-Clause|198|Dec 21 2021|
 |[SmartGuitarPedal](https://github.com/GuitarML/SmartGuitarPedal) <br/> <sup>by [GuitarML](https://github.com/GuitarML)</sup> | Neural Network WaveNet modelled guitar pedals| Apache-2.0|153|Jul 07 2021|
@@ -81,7 +82,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[mda-plugins-juce](https://github.com/hollance/mda-plugins-juce) <br/> <sup>by [hollance](https://github.com/hollance)</sup> | Old school MDA freeware plugins reimplemented in JUCE| custom|21|Jan 21 2022|
 |[jg-granular](https://github.com/szkkng/jg-granular) <br/> <sup>by [szkkng](https://github.com/szkkng)</sup> | Streaming granular synthesis effect| GPL-3.0|11|Mar 22 2022|
 |[OvertoneFilter](https://github.com/lukemcraig/OvertoneFilter) <br/> <sup>by [lukemcraig](https://github.com/lukemcraig)</sup> | Emphasize MIDI-selected harmonics of an audio signal| |7|Oct 23 2019|
-|[IEMPluginSuite](git.iem.at/audioplugins/IEMPluginSuite)| Large suite of plugins, including Ambisonic
+|[IEMPluginSuite](https://git.iem.at/audioplugins/IEMPluginSuite)| Large suite of plugins, including Ambisonic
 | | | |
 
 ## Metering 
@@ -148,6 +149,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[Audio-Effects](https://github.com/juandagilc/Audio-Effects) <br/> <sup>by [juandagilc](https://github.com/juandagilc)</sup> | Collection of Audio Effects examples from a book| |469|Oct 16 2020|
 |[pitch_detector](https://github.com/adamski/pitch_detector) <br/> <sup>by [adamski](https://github.com/adamski)</sup> | Pitch estimation based on YIN| |91|Apr 07 2022|
 |[juce_faustllvm](https://github.com/olilarkin/juce_faustllvm) <br/> <sup>by [olilarkin](https://github.com/olilarkin)</sup> | JUCE Module for embedding the libfaust JIT compiler| |29|Dec 07 2019|
+|[JUCE_SoundTouch](https://github.com/eyalamirmusic/JUCE_SoundTouch) <br/> <sup>by [eyalamirmusic](https://github.com/eyalamirmusic)</sup> | Wrapper around the SoundTouch tempo/pitch library| LGPL-2.1|4|Dec 12 2020|
 |[SimpleVocoder](https://github.com/Stenzel/SimpleVocoder) <br/> <sup>by [Stenzel](https://github.com/Stenzel)</sup> | Leaky autocorrelation vocoder| |3|Nov 15 2021|
 |[sst-waveshapers](https://github.com/surge-synthesizer/sst-waveshapers) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Surge waveshapers as a separate library| GPL-3.0|3|Apr 29 2022|
 
@@ -187,7 +189,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
-|[pedalboard](https://github.com/spotify/pedalboard) <br/> <sup>by [spotify](https://github.com/spotify)</sup> | A Python library and host for manipulating audio| GPL-3.0|3322|Apr 25 2022|
+|[pedalboard](https://github.com/spotify/pedalboard) <br/> <sup>by [spotify](https://github.com/spotify)</sup> | A Python library and host for manipulating audio| GPL-3.0|3321|Apr 25 2022|
 |[tracktion_engine](https://github.com/Tracktion/tracktion_engine) <br/> <sup>by [Tracktion](https://github.com/Tracktion)</sup> | The one, the only, the engine that JUCE was once extracted from| custom|747|Jan 18 2022|
 |[Element](https://github.com/kushview/Element) <br/> <sup>by [kushview](https://github.com/kushview)</sup> | The audio plugin host that isn't a DAW!| GPL-3.0|626|Apr 30 2022|
 |[DawDreamer](https://github.com/DBraun/DawDreamer) <br/> <sup>by [DBraun](https://github.com/DBraun)</sup> | Python DAW with full cross platform support| GPL-3.0|393|May 11 2022|
@@ -208,8 +210,16 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[jlv2](https://github.com/lvtk/jlv2) <br/> <sup>by [lvtk](https://github.com/lvtk)</sup> | LV2 plugin hosting| custom|13|Feb 03 2022|
 |[aap-juce](https://github.com/atsushieno/aap-juce) <br/> <sup>by [atsushieno](https://github.com/atsushieno)</sup> | Android Audio Plugin (AAP) support with lots of plugin ports| GPL-3.0|10|May 04 2022|
 
+## Hardware
+
+| repo | description | license | ⭐️ | updated |
+| :--- | :--- | :---: | :---: | ---: |
+|[push2-display-with-juce](https://github.com/Ableton/push2-display-with-juce) <br/> <sup>by [Ableton](https://github.com/Ableton)</sup> | Ableton Push 2 display example (archived repo)| MIT|125|Jul 28 2021|
+|[juce_serialport](https://github.com/cpr2323/juce_serialport) <br/> <sup>by [cpr2323](https://github.com/cpr2323)</sup> | Access hardware serial ports or USB virtual serial ports| |25|Mar 24 2022|
+
 ## Forks
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
+|[JUCE_ARA](https://github.com/Celemony/JUCE_ARA) <br/> <sup>by [Celemony](https://github.com/Celemony)</sup> | JUCE fork that provides Audio Random Access (ARA) support| custom|32|Feb 15 2022|
 |[JUCE](https://github.com/soundradix/JUCE) <br/> <sup>by [soundradix](https://github.com/soundradix)</sup> | Fork with AAX AudioSuite support and other features and fixes| custom|16|Apr 10 2022|
