@@ -101,11 +101,12 @@ https://github.com/AndrewJJ/DSP-Testbench Test your dsp with signal sources, rou
 ## Frameworks
 
 https://github.com/pierreguillot/Camomile A meta-plugin that embeds Pure Data
+https://github.com/timothyschoen/PlugData Pure Data as a plugin, with a new GUI
 https://github.com/christophhart/HISE The open source framework for sample based instruments
 https://github.com/benkuper/Chataigne Real-time communication and syncing with many other technologies
-https://github.com/Celemony/JUCE_ARA JUCE fork that provides Audio Random Access (ARA) support
 https://github.com/asb2m10/plugincollider Plugin that embeds SuperCollider
 https://github.com/JoshMarler/react-juce Cross-platform native apps with React.js and JUCE
+https://github.com/rorywalsh/cabbage Framework for developing plugins with the Csound programming language
 
 ## DSP
 
@@ -113,6 +114,7 @@ https://github.com/olilarkin/juce_faustllvm JUCE Module for embedding the libfau
 https://github.com/juandagilc/Audio-Effects Collection of Audio Effects examples from a book
 https://github.com/adamski/pitch_detector Pitch estimation based on YIN
 https://github.com/surge-synthesizer/sst-waveshapers Surge waveshapers as a separate library
+https://github.com/Stenzel/SimpleVocoder Leaky autocorrelation vocoder
 
 ## Networking & Cryptography
 
@@ -132,6 +134,12 @@ https://github.com/Sinecure-Audio/TestsTalk Catch2 Examples from ADC 2020 talk
 https://github.com/sudara/melatonin_parameters Log parameter conversion and formatting example with tests
 https://github.com/Focusrite-Novation/juce-end-to-end End to end functional testing via js
 
+## Educational
+
+https://github.com/tobanteAudio/juce-cookbook JUCE Cookbook
+https://github.com/TheAudioProgrammer/juceSynthFramework Build a JUCE synth step by step with Josh
+https://github.com/jatinchowdhury18/plugin-ci-example JUCE plugin CI examples for Gitlab, GitHub, Azure
+
 ## Hosts & DAWs
 
 https://github.com/Tracktion/tracktion_engine The one, the only, the engine that JUCE was once extracted from
@@ -141,12 +149,6 @@ https://github.com/spotify/pedalboard A Python library and host for manipulating
 https://github.com/fedden/RenderMan Interactive "command line" host backed by Maximilian
 https://github.com/DropSnorz/OwlPlug Cross-platform plugin manager
 https://github.com/jatinchowdhury18/PluginRunner Run audio through a plugin from the CLI on windows
-
-## Educational
-
-https://github.com/tobanteAudio/juce-cookbook JUCE Cookbook
-https://github.com/TheAudioProgrammer/juceSynthFramework Build a JUCE synth step by step with Josh
-https://github.com/jatinchowdhury18/plugin-ci-example JUCE plugin CI examples for Gitlab, GitHub, Azure
 
 ## Integrations
 
@@ -158,3 +160,7 @@ https://github.com/free-audio/clap-juce-extensions CLAP plugin support
 https://github.com/MTG/freesound-juce Freesound.org API implementation
 https://github.com/lvtk/jlv2 LV2 plugin hosting
 https://github.com/atsushieno/aap-juce Android Audio Plugin (AAP) support with lots of plugin ports
+
+## Forks
+https://github.com/Celemony/JUCE_ARA JUCE fork that provides Audio Random Access (ARA) support
+https://github.com/soundradix/JUCE Fork with AAX AudioSuite support and other features and fixes
