@@ -61,7 +61,7 @@ File.open('sites.md') do |file|
       else
         url, description = entry.split(' ', 2)
         name = url.split('/').last
-        table_row = "|[#{name}](#{url})| #{description}| | | |\n"
+        table_row = "|[#{name}](https://#{url})| #{description}| | | |\n"
         rows << [0, table_row]
       end
     end

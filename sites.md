@@ -18,6 +18,7 @@ https://github.com/sudara/pamplejuce JUCE, CMake, Catch2, Pluginval on GitHub Ac
 https://github.com/eyalamirmusic/JUCECmakeRepoPrototype Large variety of JUCE 6 and CMake plugin and app templates
 https://github.com/maxwellpollack/juce-plugin-ci Cross-platform CI for JUCE audio plugins with GitHub Actions
 https://github.com/anthonyalfimov/JUCE-CMake-Plugin-Template Audio Plugin Template on GitHub Actions
+https://github.com/nberr/juce-template "Everything but the processing" template supporting Rust DSP
 
 ## Instruments
 
@@ -115,6 +116,7 @@ https://github.com/juandagilc/Audio-Effects Collection of Audio Effects examples
 https://github.com/adamski/pitch_detector Pitch estimation based on YIN
 https://github.com/surge-synthesizer/sst-waveshapers Surge waveshapers as a separate library
 https://github.com/Stenzel/SimpleVocoder Leaky autocorrelation vocoder
+https://github.com/eyalamirmusic/JUCE_SoundTouch Wrapper around the SoundTouch tempo/pitch library
 
 ## Networking & Cryptography
 
@@ -161,6 +163,12 @@ https://github.com/MTG/freesound-juce Freesound.org API implementation
 https://github.com/lvtk/jlv2 LV2 plugin hosting
 https://github.com/atsushieno/aap-juce Android Audio Plugin (AAP) support with lots of plugin ports
 
+## Hardware
+
+https://github.com/cpr2323/juce_serialport Access hardware serial ports or USB virtual serial ports
+https://github.com/Ableton/push2-display-with-juce Ableton Push 2 display example (archived repo)
+
 ## Forks
+
 https://github.com/Celemony/JUCE_ARA JUCE fork that provides Audio Random Access (ARA) support
 https://github.com/soundradix/JUCE Fork with AAX AudioSuite support and other features and fixes
