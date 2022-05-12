@@ -254,4 +254,4 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[JUCE](https://github.com/soundradix/JUCE) <br/> <sup>by [soundradix](https://github.com/soundradix)</sup> | Fork with AAX AudioSuite support and other features and fixes| custom|16| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
 
 
-8 entries as of 2022-05-12
+140 entries as of 2022-05-12
