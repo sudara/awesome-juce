@@ -63,13 +63,13 @@ File.open('sites.md') do |file|
           last_committed_at = client.commits(name_and_repo).first[:commit][:committer][:date]
           status = case
             when last_committed_at > 1.year.ago 
-              "<sub><sup>  🟢</sup></sub>"
+              "<sub><sup> 🟢</sup></sub>"
             when last_committed_at > 3.years.ago
-              "<sub><sup>  🟠</sup></sub>"
+              "<sub><sup> 🟠</sup></sub>"
             else
-              "<sub><sup>  🔴</sup></sub>"
+              "<sub><sup> 🔴</sup></sub>"
             end
-          date = "#{time_ago_in_words(last_committed_at).gsub(/about|almost|over/, "").gsub(" "," ")} ago"
+          date = "#{time_ago_in_words(last_committed_at).gsub(/about|almost|over/, "").gsub(" "," ")}"
           table_row = "|[#{repo.name}](#{repo.html_url}) <br/> <sup>by [#{repo.owner[:login]}](#{repo.owner.html_url})</sup> | #{description.strip}| #{license}|#{repo.stargazers_count}|#{date}#{status}|\n"
           rows << [repo.stargazers_count, table_row]
         rescue Octokit::NotFound
