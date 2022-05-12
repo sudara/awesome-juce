@@ -1,8 +1,23 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    actionview (7.0.3)
+      activesupport (= 7.0.3)
+      builder (~> 3.1)
+      erubi (~> 1.4)
+      rails-dom-testing (~> 2.0)
+      rails-html-sanitizer (~> 1.1, >= 1.2.0)
+    activesupport (7.0.3)
+      concurrent-ruby (~> 1.0, >= 1.0.2)
+      i18n (>= 1.6, < 2)
+      minitest (>= 5.1)
+      tzinfo (~> 2.0)
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
+    builder (3.2.4)
+    concurrent-ruby (1.1.10)
+    crass (1.0.6)
+    erubi (1.10.0)
     faraday (1.10.0)
       faraday-em_http (~> 1.0)
       faraday-em_synchrony (~> 1.0)
@@ -26,21 +41,41 @@ GEM
     faraday-patron (1.0.0)
     faraday-rack (1.0.0)
     faraday-retry (1.0.3)
+    i18n (1.10.0)
+      concurrent-ruby (~> 1.0)
+    loofah (2.17.0)
+      crass (~> 1.0.2)
+      nokogiri (>= 1.5.9)
+    minitest (5.15.0)
     multipart-post (2.1.1)
+    nokogiri (1.13.6-arm64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.13.6-x86_64-linux)
+      racc (~> 1.4)
     octokit (4.22.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
     public_suffix (4.0.7)
+    racc (1.6.0)
+    rails-dom-testing (2.0.3)
+      activesupport (>= 4.2.0)
+      nokogiri (>= 1.6)
+    rails-html-sanitizer (1.4.2)
+      loofah (~> 2.3)
     ruby2_keywords (0.0.5)
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
+    tzinfo (2.0.4)
+      concurrent-ruby (~> 1.0)
 
 PLATFORMS
   arm64-darwin-21
   x86_64-linux
 
 DEPENDENCIES
+  actionview
+  activesupport
   octokit
 
 BUNDLED WITH

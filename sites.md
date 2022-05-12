@@ -41,7 +41,16 @@ https://github.com/surge-synthesizer/tuning-workbench-synth Simple microtonal sy
 https://github.com/reales/OB-Xd Virtual Analog modelled Oberheim OB-X with a few extras
 https://github.com/jpcima/ADLplug 2 FM synths based on OPL3 and OPN2 sound chip emulations
 https://github.com/TheWaveWarden/odin2  24-voice polyphonic synth with filter emulations and modulation matrix
-https://github.com/jpcima/Hera June 60 
+https://github.com/jpcima/Hera June 60
+https://github.com/Archie3d/aeolus_plugin Pipe organ emulator VST/AU
+https://github.com/helio-fm/helio-workstation One music sequencer for all major platforms, desktop and mobile
+https://github.com/yokemura/Magical8bitPlug2 8-bit gaming console synth
+https://github.com/Birch-san/juicysfplugin Soundfont synthesizer
+https://github.com/FigBug/SN76489 Sega Master System Sound Chip emulation
+https://github.com/FigBug/SID Commodore 64 SID emulation
+https://github.com/FigBug/PAPU Gameboy PAPU emulation
+https://github.com/FigBug/Voc Vocal synth emulates glottis and shape of vocal tract
+https://github.com/FigBug/RP2A03 Nintenodo RP2A03
 
 ## Effects 
 
@@ -56,14 +65,13 @@ https://github.com/szkkng/simple-reverb Simple reverb
 https://github.com/hollance/mda-plugins-juce Old school MDA freeware plugins reimplemented in JUCE
 https://github.com/cvde/RoomReverb Algorithmic reverb plugin
 https://github.com/szkkng/jg-granular Streaming granular synthesis effect
-https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
 https://github.com/GuitarML/SmartGuitarAmp Neural Network WaveNet modelled guitar amps
 https://github.com/GuitarML/SmartGuitarPedal Neural Network WaveNet modelled guitar pedals
 https://github.com/JanosGit/Schrammel_OJD Audio plugin model of a modern classic overdrive pedal
 https://github.com/lukemcraig/OvertoneFilter Emphasize MIDI-selected harmonics of an audio signal
-https://github.com/AustrianAudioGmbH/PolarDesigner control the polar pattern of your OC818 microphone (or other dual-diaphragm mics) in up to five frequency bands
-https://github.com/AustrianAudioGmbH/AmbiCreator allows you to record first-order Ambisonics material by using two OC818 microphones stacked on top of each other
-https://github.com/AustrianAudioGmbH/StereoCreator StereoCreator allows you to create several different stereo set-ups with one or two OC818 microphones in dual output mode
+https://github.com/FigBug/mverb Dattorro’s figure-of-eight reverb
+https://github.com/FigBug/slPlugins Large plugin collection from socalabs
+https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
 
 ## Metering 
 
@@ -75,13 +83,14 @@ https://github.com/SoundDevelopment/sound_meter Resizable efficient peak meters
 
 https://github.com/stfufane/Midi-Bass-Pedal-Chords Map chords to your MIDI bass pedal
 https://github.com/vsicurella/SuperVirtualKeyboard Microtonal keyboard layout
-https://github.com/rclement/meeblip-controller Midi controller for the Meeblip Anode synth
 https://github.com/trackbout/ripchord Cross platform plugin to create and remix chord progressions
 https://github.com/surge-synthesizer/b-step Chord sequencer
 https://github.com/surge-synthesizer/stochas Probabilistic sequencer
 https://github.com/gbevin/SendMIDI Cross-platform tool to send MIDI messages from the command line
 https://github.com/gbevin/ReceiveMIDI Cross-platform tool to monitor and receive MIDI messages on the command line
-  
+https://github.com/christofmuc/KnobKraft-orm The free modern cross-platform MIDI Sysex Librarian
+https://librearp.gitlab.io Pattern based arepeggiator
+
 ## UI 
 
 https://github.com/szkkng/modern-dial Nice clean example of a rotary "slider"
@@ -165,11 +174,21 @@ https://github.com/free-audio/clap-juce-extensions CLAP plugin support
 https://github.com/MTG/freesound-juce Freesound.org API implementation
 https://github.com/lvtk/jlv2 LV2 plugin hosting
 https://github.com/atsushieno/aap-juce Android Audio Plugin (AAP) support with lots of plugin ports
+https://github.com/peersuasive/luce LUA GUI module (unmaintained)
 
 ## Hardware
 
 https://github.com/cpr2323/juce_serialport Access hardware serial ports or USB virtual serial ports
 https://github.com/Ableton/push2-display-with-juce Ableton Push 2 display example (archived repo)
+https://github.com/rclement/meeblip-controller Midi controller for the Meeblip Anode synth
+https://github.com/AustrianAudioGmbH/PolarDesigner control the polar pattern of your OC818 or other dual-diaphragm mic
+https://github.com/AustrianAudioGmbH/AmbiCreator record first-order Ambisonics using two OC818 microphones
+https://github.com/AustrianAudioGmbH/StereoCreator create different stereo set-ups with one or two OC818 microphones
+
+## Networking
+
+https://github.com/christofmuc/JammerNetz Host a jam session over the internet
+https://github.com/apohl79/audiogridder Offload dsp processing to remote computers
 
 ## Forks
 
