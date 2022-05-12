@@ -88,7 +88,7 @@ File.open('sites.md') do |file|
     # ruby is fucking awesome, this sorts by stars
     tempfile << rows.sort_by{|row| row.first }.reverse.collect(&:last).join
   end
-  tempfile << "\n\n#{rows.size} entries as of #{Date.today}"
+  tempfile << "\n\n#{total.size} entries as of #{Date.today}"
 end
 
 FileUtils.mv "README.tmp", "README.md"
