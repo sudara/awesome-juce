@@ -61,6 +61,9 @@ https://github.com/GuitarML/SmartGuitarAmp Neural Network WaveNet modelled guita
 https://github.com/GuitarML/SmartGuitarPedal Neural Network WaveNet modelled guitar pedals
 https://github.com/JanosGit/Schrammel_OJD Audio plugin model of a modern classic overdrive pedal
 https://github.com/lukemcraig/OvertoneFilter Emphasize MIDI-selected harmonics of an audio signal
+https://github.com/AustrianAudioGmbH/PolarDesigner control the polar pattern of your OC818 microphone (or other dual-diaphragm mics) in up to five frequency bands.
+https://github.com/AustrianAudioGmbH/AmbiCreator allows you to record first-order Ambisonics material by using two OC818 microphones stacked on top of each other
+https://github.com/AustrianAudioGmbH/StereoCreator StereoCreator allows you to create several different stereo set-ups with one or two OC818 microphones in dual output mode. 
 
 ## Metering 
 
