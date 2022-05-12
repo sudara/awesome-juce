@@ -34,9 +34,9 @@ tempfile << <<-PREAMBLE
 
 An [awesome list](https://github.com/topics/awesome-list) of open source [JUCE](http://github.com/juce-framework/JUCE/) libraries, plugins and utilities. Organized by category. Stats update nightly. 
 
-🟢 = updated recently 
-🟠 = no commit in last year 
-🔴 = no commit in the last 3 years 
+🟢 = updated recently  
+🟠 = no commit in last year  
+🔴 = no commit in the last 3 years  
 
 Something missing? [Open a PR to sites.md with the url and a short description](https://github.com/sudara/awesome-juce/edit/main/sites.md).
 
