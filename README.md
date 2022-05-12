@@ -50,7 +50,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[helio-workstation](https://github.com/helio-fm/helio-workstation) <br/> <sup>by [helio-fm](https://github.com/helio-fm)</sup> | One music sequencer for all major platforms, desktop and mobile| GPL-3.0|2389|19 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[dexed](https://github.com/asb2m10/dexed) <br/> <sup>by [asb2m10](https://github.com/asb2m10)</sup> | Yamaha DX7 FM multi patform / multi format plugin| GPL-3.0|2105| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[helm](https://github.com/mtytel/helm) <br/> <sup>by [mtytel](https://github.com/mtytel)</sup> | Free, Open source, cross platform 32-voice polyphonic synth| GPL-3.0|2042| 4 years<sub><sup>🔴</sup></sub>|
-|[surge](https://github.com/surge-synthesizer/surge) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | A very active open source rebuild and extension of the classic| GPL-3.0|2007| 15 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[surge](https://github.com/surge-synthesizer/surge) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | A very active open source rebuild and extension of the classic| GPL-3.0|2007| 18 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[giada](https://github.com/monocasual/giada) <br/> <sup>by [monocasual](https://github.com/monocasual)</sup> | Your Hardcore Loop Machine| GPL-3.0|1202|6 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[vital](https://github.com/mtytel/vital) <br/> <sup>by [mtytel](https://github.com/mtytel)</sup> | The popular spectral warping wavetable synth is open source| GPL-3.0|952|22 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[OB-Xd](https://github.com/reales/OB-Xd) <br/> <sup>by [reales](https://github.com/reales)</sup> | Virtual Analog modelled Oberheim OB-X with a few extras| GPL-3.0|444| 2 months<sub><sup>󠀠󠀠🟢</sup></sub>|
@@ -118,7 +118,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[KnobKraft-orm](https://github.com/christofmuc/KnobKraft-orm) <br/> <sup>by [christofmuc](https://github.com/christofmuc)</sup> | The free modern cross-platform MIDI Sysex Librarian| AGPL-3.0|85|6 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[SuperVirtualKeyboard](https://github.com/vsicurella/SuperVirtualKeyboard) <br/> <sup>by [vsicurella](https://github.com/vsicurella)</sup> | Microtonal keyboard layout| Unlicense|25| 1 year<sub><sup>🟠</sup></sub>|
 |[b-step](https://github.com/surge-synthesizer/b-step) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Chord sequencer| custom|18|7 days<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[ripchord](https://github.com/trackbout/ripchord) <br/> <sup>by [trackbout](https://github.com/trackbout)</sup> | Cross platform plugin to create and remix chord progressions| GPL-3.0|13|10 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[ripchord](https://github.com/trackbout/ripchord) <br/> <sup>by [trackbout](https://github.com/trackbout)</sup> | Cross platform plugin to create and remix chord progressions| GPL-3.0|13|11 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Midi-Bass-Pedal-Chords](https://github.com/stfufane/Midi-Bass-Pedal-Chords) <br/> <sup>by [stfufane](https://github.com/stfufane)</sup> | Map chords to your MIDI bass pedal| |10|2 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[librearp.gitlab.io](https://librearp.gitlab.io)| Pattern based arepeggiator
 | | | |
@@ -154,9 +154,9 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[Camomile](https://github.com/pierreguillot/Camomile) <br/> <sup>by [pierreguillot](https://github.com/pierreguillot)</sup> | A meta-plugin that embeds Pure Data| GPL-3.0|694|6 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[HISE](https://github.com/christophhart/HISE) <br/> <sup>by [christophhart](https://github.com/christophhart)</sup> | The open source framework for sample based instruments| custom|567|6 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[react-juce](https://github.com/JoshMarler/react-juce) <br/> <sup>by [JoshMarler](https://github.com/JoshMarler)</sup> | Cross-platform native apps with React.js and JUCE| MIT|557| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[Chataigne](https://github.com/benkuper/Chataigne) <br/> <sup>by [benkuper](https://github.com/benkuper)</sup> | Real-time communication and syncing with many other technologies| GPL-3.0|431| 20 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[Chataigne](https://github.com/benkuper/Chataigne) <br/> <sup>by [benkuper](https://github.com/benkuper)</sup> | Real-time communication and syncing with many other technologies| GPL-3.0|431| 23 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[cabbage](https://github.com/rorywalsh/cabbage) <br/> <sup>by [rorywalsh](https://github.com/rorywalsh)</sup> | Framework for developing plugins with the Csound programming language| GPL-3.0|324|16 days<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[PlugData](https://github.com/timothyschoen/PlugData) <br/> <sup>by [timothyschoen](https://github.com/timothyschoen)</sup> | Pure Data as a plugin, with a new GUI| GPL-3.0|205| 11 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[PlugData](https://github.com/timothyschoen/PlugData) <br/> <sup>by [timothyschoen](https://github.com/timothyschoen)</sup> | Pure Data as a plugin, with a new GUI| GPL-3.0|205| 14 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[plugincollider](https://github.com/asb2m10/plugincollider) <br/> <sup>by [asb2m10](https://github.com/asb2m10)</sup> | Plugin that embeds SuperCollider| GPL-3.0|18|20 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 
 ## DSP
@@ -220,7 +220,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 | :--- | :--- | :---: | :---: | ---: |
 |[luce](https://github.com/peersuasive/luce) <br/> <sup>by [peersuasive](https://github.com/peersuasive)</sup> | LUA GUI module (unmaintained)| |123| 5 years<sub><sup>🔴</sup></sub>|
 |[JucyFluttering](https://github.com/audiooffler/JucyFluttering) <br/> <sup>by [audiooffler](https://github.com/audiooffler)</sup> | Flutter for iOS and Android frontend| GPL-3.0|78| 1 year<sub><sup>🟠</sup></sub>|
-|[popsicle](https://github.com/kunitoki/popsicle) <br/> <sup>by [kunitoki](https://github.com/kunitoki)</sup> | Bridging JUCE to python| custom|65| 24 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[popsicle](https://github.com/kunitoki/popsicle) <br/> <sup>by [kunitoki](https://github.com/kunitoki)</sup> | Bridging JUCE to python| custom|65|1 day<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[osmid](https://github.com/llloret/osmid) <br/> <sup>by [llloret](https://github.com/llloret)</sup> | MIDI <-> OSC conversion used by Sonic Pi| custom|59| 2 years<sub><sup>🟠</sup></sub>|
 |[AbletonLink_JuceSampler](https://github.com/ianacaburian/AbletonLink_JuceSampler) <br/> <sup>by [ianacaburian](https://github.com/ianacaburian)</sup> | Ableton Link syncing| |44| 3 years<sub><sup>🔴</sup></sub>|
 |[clap-juce-extensions](https://github.com/free-audio/clap-juce-extensions) <br/> <sup>by [free-audio](https://github.com/free-audio)</sup> | CLAP plugin support| MIT|20|7 days<sub><sup>󠀠󠀠🟢</sup></sub>|
