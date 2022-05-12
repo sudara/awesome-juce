@@ -181,6 +181,9 @@ https://github.com/peersuasive/luce LUA GUI module (unmaintained)
 https://github.com/cpr2323/juce_serialport Access hardware serial ports or USB virtual serial ports
 https://github.com/Ableton/push2-display-with-juce Ableton Push 2 display example (archived repo)
 https://github.com/rclement/meeblip-controller Midi controller for the Meeblip Anode synth
+https://github.com/AustrianAudioGmbH/PolarDesigner control the polar pattern of your OC818 or other dual-diaphragm mic
+https://github.com/AustrianAudioGmbH/AmbiCreator record first-order Ambisonics using two OC818 microphones
+https://github.com/AustrianAudioGmbH/StereoCreator create different stereo set-ups with one or two OC818 microphones
 
 ## Networking
 
