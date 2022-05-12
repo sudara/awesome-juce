@@ -14,6 +14,7 @@
 
 require 'fileutils'
 require 'octokit'
+require 'date'
 require 'action_view'
 require 'active_support/all'
 include ActionView::Helpers::DateHelper
@@ -52,6 +53,7 @@ File.open('sites.md') do |file|
     print "Processing #{h2.strip}..."
     file.gets
     while (entry = file.gets) && entry.slice!('https://')
+      total++
       if entry.slice!('github.com/')
         # split into sudara/pamplejuce and description
         name_and_repo, description = entry.split(' ', 2) 
@@ -67,7 +69,7 @@ File.open('sites.md') do |file|
             else
               "<sub><sup>  🔴</sup></sub>"
             end
-          date = "#{time_ago_in_words(last_committed_at).gsub(/about|almost|over/, "")} ago"
+          date = "#{time_ago_in_words(last_committed_at).gsub(/about|almost|over/, "").gsub(" "," ")} ago"
           table_row = "|[#{repo.name}](#{repo.html_url}) <br/> <sup>by [#{repo.owner[:login]}](#{repo.owner.html_url})</sup> | #{description.strip}| #{license}|#{repo.stargazers_count}|#{date}#{status}|\n"
           rows << [repo.stargazers_count, table_row]
         rescue Octokit::NotFound
@@ -84,6 +86,7 @@ File.open('sites.md') do |file|
     # ruby is fucking awesome, this sorts by stars
     tempfile << rows.sort_by{|row| row.first }.reverse.collect(&:last).join
   end
+  tempfile "\n\n#{rows.size} entries as of #{Date.today}"
 end
 
 FileUtils.mv "README.tmp", "README.md"
