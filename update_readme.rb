@@ -34,7 +34,9 @@ tempfile << <<-PREAMBLE
 
 An [awesome list](https://github.com/topics/awesome-list) of open source [JUCE](http://github.com/juce-framework/JUCE/) libraries, plugins and utilities. Organized by category. Stats update nightly. 
 
-🟢 = updated recently. 🟠 = no commit in last year.  🔴 = no commit in the last 3 years.
+🟢 = updated recently 
+🟠 = no commit in last year 
+🔴 = no commit in the last 3 years 
 
 Something missing? [Open a PR to sites.md with the url and a short description](https://github.com/sudara/awesome-juce/edit/main/sites.md).
 
@@ -63,11 +65,11 @@ File.open('sites.md') do |file|
           last_committed_at = client.commits(name_and_repo).first[:commit][:committer][:date]
           status = case
             when last_committed_at > 1.year.ago 
-              "<sub><sup> 🟢</sup></sub>"
+              "<sub><sup>󠀠󠀠🟢</sup></sub>"
             when last_committed_at > 3.years.ago
-              "<sub><sup> 🟠</sup></sub>"
+              "<sub><sup>🟠</sup></sub>"
             else
-              "<sub><sup> 🔴</sup></sub>"
+              "<sub><sup>🔴</sup></sub>"
             end
           date = "#{time_ago_in_words(last_committed_at).gsub(/about|almost|over/, "").gsub(" "," ")}"
           table_row = "|[#{repo.name}](#{repo.html_url}) <br/> <sup>by [#{repo.owner[:login]}](#{repo.owner.html_url})</sup> | #{description.strip}| #{license}|#{repo.stargazers_count}|#{date}#{status}|\n"
