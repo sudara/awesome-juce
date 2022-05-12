@@ -72,6 +72,7 @@ https://github.com/lukemcraig/OvertoneFilter Emphasize MIDI-selected harmonics o
 https://github.com/FigBug/mverb Dattorro’s figure-of-eight reverb
 https://github.com/FigBug/slPlugins Large plugin collection from socalabs
 https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
+https://github.com/Mrugalla/NEL-19 High-fidelity random vibrato (windows only)
 
 ## Metering 
 
