@@ -53,7 +53,7 @@ File.open('sites.md') do |file|
     print "Processing #{h2.strip}..."
     file.gets
     while (entry = file.gets) && entry.slice!('https://')
-      total++
+      total += 1
       if entry.slice!('github.com/')
         # split into sudara/pamplejuce and description
         name_and_repo, description = entry.split(' ', 2) 
