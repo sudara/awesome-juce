@@ -195,3 +195,4 @@ https://github.com/apohl79/audiogridder Offload dsp processing to remote compute
 
 https://github.com/Celemony/JUCE_ARA JUCE fork that provides Audio Random Access (ARA) support
 https://github.com/soundradix/JUCE Fork with AAX AudioSuite support and other features and fixes
+https://github.com/Dreamtonics/juce_emscripten Port of JUCE for the browser via Emscripten
