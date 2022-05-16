@@ -56,7 +56,6 @@ https://github.com/FigBug/RP2A03 Nintenodo RP2A03
 
 https://github.com/jatinchowdhury18/AnalogTapeModel Physical Modeling for Analog Tape Machines
 https://github.com/Chowdhury-DSP/ChowMatrix Inifinitely growable tree of delay lines
-https://github.com/jatinchowdhury18/KlonCentaur Analog guitar pedal emulations
 https://github.com/Chowdhury-DSP/CHOW Digital Distortion
 https://github.com/QVbDev/quantumVerb Convolution Reverb
 https://github.com/stekyne/PhaseVocoder Phase Vocoder
@@ -177,14 +176,20 @@ https://github.com/lvtk/jlv2 LV2 plugin hosting
 https://github.com/atsushieno/aap-juce Android Audio Plugin (AAP) support with lots of plugin ports
 https://github.com/peersuasive/luce LUA GUI module (unmaintained)
 
+## Machine Learning
+
+https://github.com/acids-ircam/rave_vst Realtime Audio Variational autoEncoder (RAVE) packaged as a vst
+https://github.com/Cyril-Meyer/TensorFlowVST Example of using a TensorFlow Keras model in a VST
+https://github.com/jatinchowdhury18/KlonCentaur Analog guitar pedal emulation using the RTNeural real time framework 
+
 ## Hardware
 
 https://github.com/cpr2323/juce_serialport Access hardware serial ports or USB virtual serial ports
 https://github.com/Ableton/push2-display-with-juce Ableton Push 2 display example (archived repo)
 https://github.com/rclement/meeblip-controller Midi controller for the Meeblip Anode synth
 https://github.com/AustrianAudioGmbH/PolarDesigner control the polar pattern of your OC818 or other dual-diaphragm mic
-https://github.com/AustrianAudioGmbH/AmbiCreator record first-order Ambisonics using two OC818 microphones
-https://github.com/AustrianAudioGmbH/StereoCreator create different stereo set-ups with one or two OC818 microphones
+https://github.com/AustrianAudioGmbH/AmbiCreator Record first-order Ambisonics using two OC818 microphones
+https://github.com/AustrianAudioGmbH/StereoCreator Create different stereo set-ups with one or two OC818 microphones
 
 ## Networking
 
