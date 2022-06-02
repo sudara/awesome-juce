@@ -165,6 +165,7 @@ https://github.com/spotify/pedalboard A Python library and host for manipulating
 https://github.com/fedden/RenderMan Interactive "command line" host backed by Maximilian
 https://github.com/DropSnorz/OwlPlug Cross-platform plugin manager
 https://github.com/jatinchowdhury18/PluginRunner Run audio through a plugin from the CLI on windows
+https://github.com/CrushedPixel/Plugalyzer Command-line VST3, AU and LADSPA plugin host for easier debugging of audio plugins
 
 ## Integrations
 
