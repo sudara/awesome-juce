@@ -184,6 +184,7 @@ https://github.com/peersuasive/luce LUA GUI module (unmaintained)
 https://github.com/acids-ircam/rave_vst Realtime Audio Variational autoEncoder (RAVE) packaged as a vst
 https://github.com/Cyril-Meyer/TensorFlowVST Example of using a TensorFlow Keras model in a VST
 https://github.com/jatinchowdhury18/KlonCentaur Analog guitar pedal emulation using the RTNeural real time framework 
+https://github.com/magenta/ddsp-vst Realtime DDSP Neural Synthesizer and Effect
 
 ## Hardware
 
