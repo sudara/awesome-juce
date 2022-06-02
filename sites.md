@@ -140,6 +140,8 @@ https://github.com/Yum-Audio/yum_CredentialManager MacOS Keychain and Windows Cr
 https://github.com/parawave/vulkan-cpp-library Windows 10 Vulkan support for JUCE 6
 https://github.com/ffAudio/foleys_video_engine A video engine to load, play, assemble and write video
 https://github.com/franshej/CustomMatPlot MatPlotLib implementation in JUCE
+https://github.com/timothyschoen/juce_nanovg NanoVG graphics module for JUCE
+https://github.com/Archie3d/juce_bgfx bgfx rendering example for JUCE
 
 ## Testing
 
