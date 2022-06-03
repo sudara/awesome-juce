@@ -101,6 +101,7 @@ https://github.com/christofmuc/juce-widgets Unsorted collection of "widgets"
 https://github.com/bgporter/animator Animation module implementing classic easing curves and some new ones
 https://github.com/fefanto/fontaudio Icon toolkit for audio with permissive licensing
 https://github.com/JanosGit/Resvg4JUCE Wrapper for the resvg rendering library
+https://github.com/SoundDevelopment/bbcode-editor TextEditor descendant that accepts BBCode
 
 ## Tooling & Debugging
 
