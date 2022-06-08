@@ -186,6 +186,7 @@ https://github.com/acids-ircam/rave_vst Realtime Audio Variational autoEncoder (
 https://github.com/Cyril-Meyer/TensorFlowVST Example of using a TensorFlow Keras model in a VST
 https://github.com/jatinchowdhury18/KlonCentaur Analog guitar pedal emulation using the RTNeural real time framework 
 https://github.com/magenta/ddsp-vst Realtime DDSP Neural Synthesizer and Effect
+https://github.com/csteinmetz1/micro-tcn Efficient real-time modeling of analog dynamic range compression
 
 ## Hardware
 
