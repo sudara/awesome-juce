@@ -23,12 +23,10 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[drowaudio](https://github.com/drowaudio/drowaudio) <br/> <sup>by [drowaudio](https://github.com/drowaudio)</sup> | Older, but very large collection of utilities by the Tracktion superstar| |125| 5 years<sub><sup>🔴</sup></sub>|
 |[Gin](https://github.com/FigBug/Gin) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Massive collection of extras, including StackBlur, Websockets, Maps, etc| BSD 3-Clause "New" or "Revised" License|112|13 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[chowdsp_utils](https://github.com/Chowdhury-DSP/chowdsp_utils) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Large collection of utilities including dsp, presets, json| GNU General Public License v3.0|86|3 days<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[ysfx](https://github.com/jpcima/ysfx) <br/> <sup>by [jpcima](https://github.com/jpcima)</sup> | JSFX hosting library incl. example plugin| Apache License 2.0|50|6 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Lemons](https://github.com/benthevining/Lemons) <br/> <sup>by [benthevining](https://github.com/benthevining)</sup> | Collection of modules, including DMX, OSC, PLOSA| GNU General Public License v3.0|28| 23 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[kv-modules](https://github.com/kushview/kv-modules) <br/> <sup>by [kushview](https://github.com/kushview)</sup> | Kush View's module collection includes ffmpeg, video, jack| GNU General Public License v2.0|14|7 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[juce-utils](https://github.com/christofmuc/juce-utils) <br/> <sup>by [christofmuc](https://github.com/christofmuc)</sup> | MIDI, i18n, and other helper classes built on top of JUCE| MIT License|11|25 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[squarepine_core](https://github.com/SquarePine/squarepine_core) <br/> <sup>by [SquarePine](https://github.com/SquarePine)</sup> | Collection includes flexible Google Analytics, Easing functions, metering| Other|11| 18 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[sst-filters](https://github.com/surge-synthesizer/sst-filters) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Surge filters as a separate library| GNU General Public License v3.0|7|19 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Jaut](https://github.com/ElandaSunshine/Jaut) <br/> <sup>by [ElandaSunshine](https://github.com/ElandaSunshine)</sup> | Collection of lower level modules complementing JUCE| |6|2 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[JUMP](https://github.com/ImJimmi/JUMP) <br/> <sup>by [ImJimmi](https://github.com/ImJimmi)</sup> | Metering and utility classes built on top of JUCE| GNU General Public License v3.0|6|9 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 
@@ -158,6 +156,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[Chataigne](https://github.com/benkuper/Chataigne) <br/> <sup>by [benkuper](https://github.com/benkuper)</sup> | Real-time communication and syncing with many other technologies| GNU General Public License v3.0|450|14 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[cabbage](https://github.com/rorywalsh/cabbage) <br/> <sup>by [rorywalsh](https://github.com/rorywalsh)</sup> | Framework for developing plugins with the Csound programming language| GNU General Public License v3.0|329|1 day<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[PlugData](https://github.com/timothyschoen/PlugData) <br/> <sup>by [timothyschoen](https://github.com/timothyschoen)</sup> | Pure Data as a plugin, with a new GUI| GNU General Public License v3.0|227| 20 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[ysfx](https://github.com/jpcima/ysfx) <br/> <sup>by [jpcima](https://github.com/jpcima)</sup> | JSFX hosting library incl. example plugin| Apache License 2.0|50|6 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[plugincollider](https://github.com/asb2m10/plugincollider) <br/> <sup>by [asb2m10](https://github.com/asb2m10)</sup> | Plugin that embeds SuperCollider| GNU General Public License v3.0|21|11 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 
 ## DSP
@@ -168,6 +167,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[pitch_detector](https://github.com/adamski/pitch_detector) <br/> <sup>by [adamski](https://github.com/adamski)</sup> | Pitch estimation based on YIN| |93|2 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[juce_faustllvm](https://github.com/olilarkin/juce_faustllvm) <br/> <sup>by [olilarkin](https://github.com/olilarkin)</sup> | JUCE Module for embedding the libfaust JIT compiler| |30| 2 years<sub><sup>🟠</sup></sub>|
 |[SimpleVocoder](https://github.com/Stenzel/SimpleVocoder) <br/> <sup>by [Stenzel](https://github.com/Stenzel)</sup> | Leaky autocorrelation vocoder| |10|7 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[sst-filters](https://github.com/surge-synthesizer/sst-filters) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Surge filters as a separate library| GNU General Public License v3.0|7|19 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[JUCE_SoundTouch](https://github.com/eyalamirmusic/JUCE_SoundTouch) <br/> <sup>by [eyalamirmusic](https://github.com/eyalamirmusic)</sup> | Wrapper around the SoundTouch tempo/pitch library| GNU Lesser General Public License v2.1|4| 1 year<sub><sup>🟠</sup></sub>|
 |[sst-waveshapers](https://github.com/surge-synthesizer/sst-waveshapers) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Surge waveshapers as a separate library| GNU General Public License v3.0|3| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
 
