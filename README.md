@@ -12,7 +12,7 @@ An [awesome list](https://github.com/topics/awesome-list) of open source [JUCE](
 🟠 = no commit in last year  
 🔴 = no commit in the last 3 years  
 
-Something missing? [Open a PR to sites.md with the url and a short description](https://github.com/sudara/awesome-juce/edit/main/sites.md).
+Something missing? [Open a PR to sites.txt with the url and a short description](https://github.com/sudara/awesome-juce/edit/main/sites.txt).
 
 I make more juce-y content over at https://melatonin.dev/blog
 
@@ -227,7 +227,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[popsicle](https://github.com/kunitoki/popsicle) <br/> <sup>by [kunitoki](https://github.com/kunitoki)</sup> | Bridging JUCE to python| Other|70|25 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[osmid](https://github.com/llloret/osmid) <br/> <sup>by [llloret](https://github.com/llloret)</sup> | MIDI <-> OSC conversion used by Sonic Pi| Other|59| 2 years<sub><sup>🟠</sup></sub>|
 |[AbletonLink_JuceSampler](https://github.com/ianacaburian/AbletonLink_JuceSampler) <br/> <sup>by [ianacaburian](https://github.com/ianacaburian)</sup> | Ableton Link syncing| |46| 3 years<sub><sup>🔴</sup></sub>|
-|[clap-juce-extensions](https://github.com/free-audio/clap-juce-extensions) <br/> <sup>by [free-audio](https://github.com/free-audio)</sup> | CLAP plugin support| MIT License|21| 19 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[clap-juce-extensions](https://github.com/free-audio/clap-juce-extensions) <br/> <sup>by [free-audio](https://github.com/free-audio)</sup> | CLAP plugin support| MIT License|21| 20 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[freesound-juce](https://github.com/MTG/freesound-juce) <br/> <sup>by [MTG](https://github.com/MTG)</sup> | Freesound.org API implementation| MIT License|17|7 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[jlv2](https://github.com/lvtk/jlv2) <br/> <sup>by [lvtk](https://github.com/lvtk)</sup> | LV2 plugin hosting| Other|12|4 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[aap-juce](https://github.com/atsushieno/aap-juce) <br/> <sup>by [atsushieno](https://github.com/atsushieno)</sup> | Android Audio Plugin (AAP) support with lots of plugin ports| GNU General Public License v3.0|10| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
