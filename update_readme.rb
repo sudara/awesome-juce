@@ -38,14 +38,14 @@ An [awesome list](https://github.com/topics/awesome-list) of open source [JUCE](
 🟠 = no commit in last year  
 🔴 = no commit in the last 3 years  
 
-Something missing? [Open a PR to sites.md with the url and a short description](https://github.com/sudara/awesome-juce/edit/main/sites.md).
+Something missing? [Open a PR to sites.txt with the url and a short description](https://github.com/sudara/awesome-juce/edit/main/sites.txt).
 
 I make more juce-y content over at https://melatonin.dev/blog
 PREAMBLE
 
 client = Octokit::Client.new(access_token: ENV["GITHUB_ACCESS_TOKEN"])
 
-File.open('sites.md') do |file|
+File.open('sites.txt') do |file|
   total = 0
   while !(h2 = file.gets).nil? && h2.start_with?('##') do
     rows = []
