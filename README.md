@@ -4,17 +4,18 @@
   <br>
 </p>
 
-# Awesome JUCE
 
-An [awesome list](https://github.com/topics/awesome-list) of open source [JUCE](http://github.com/juce-framework/JUCE/) libraries, plugins and utilities. Organized by category. Stats update nightly. 
+An [awesome list](https://github.com/topics/awesome-list) of open source [JUCE](http://github.com/juce-framework/JUCE/) libraries, plugins and utilities.
 
+Organized by category. Stats update nightly. 
+ 
 🟢 = updated recently  
 🟠 = no commit in last year  
 🔴 = no commit in the last 3 years  
 
-Something missing? [Open a PR to sites.txt with the url and a short description](https://github.com/sudara/awesome-juce/edit/main/sites.txt).
+Your repo missing? [Open a PR to sites.txt with the url and a concise description](https://github.com/sudara/awesome-juce/edit/main/sites.txt).
 
-I make more juce-y content over at https://melatonin.dev/blog
+I make more JUCEy content over at https://melatonin.dev/blog
 
 ## Module Collections & Libraries
 
@@ -26,7 +27,7 @@ I make more juce-y content over at https://melatonin.dev/blog
 |[Lemons](https://github.com/benthevining/Lemons) <br/> <sup>by [benthevining](https://github.com/benthevining)</sup> | Collection of modules, including DMX, OSC, PLOSA| GNU General Public License v3.0|28| 23 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[kv-modules](https://github.com/kushview/kv-modules) <br/> <sup>by [kushview](https://github.com/kushview)</sup> | Kush View's module collection includes ffmpeg, video, jack| GNU General Public License v2.0|14|7 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[juce-utils](https://github.com/christofmuc/juce-utils) <br/> <sup>by [christofmuc](https://github.com/christofmuc)</sup> | MIDI, i18n, and other helper classes built on top of JUCE| MIT License|11|25 days<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[squarepine_core](https://github.com/SquarePine/squarepine_core) <br/> <sup>by [SquarePine](https://github.com/SquarePine)</sup> | Collection includes flexible Google Analytics, Easing functions, metering| Other|11| 18 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[squarepine_core](https://github.com/SquarePine/squarepine_core) <br/> <sup>by [SquarePine](https://github.com/SquarePine)</sup> | Collection includes flexible Google Analytics, Easing functions, metering| Other|11| 19 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Jaut](https://github.com/ElandaSunshine/Jaut) <br/> <sup>by [ElandaSunshine](https://github.com/ElandaSunshine)</sup> | Collection of lower level modules complementing JUCE| |6|2 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[JUMP](https://github.com/ImJimmi/JUMP) <br/> <sup>by [ImJimmi](https://github.com/ImJimmi)</sup> | Metering and utility classes built on top of JUCE| GNU General Public License v3.0|6|9 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 
