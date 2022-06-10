@@ -30,17 +30,18 @@ tempfile << <<-PREAMBLE
   <br>
 </p>
 
-# Awesome JUCE
 
-An [awesome list](https://github.com/topics/awesome-list) of open source [JUCE](http://github.com/juce-framework/JUCE/) libraries, plugins and utilities. Organized by category. Stats update nightly. 
+An [awesome list](https://github.com/topics/awesome-list) of open source [JUCE](http://github.com/juce-framework/JUCE/) libraries, plugins and utilities.
 
+Organized by category. Stats update nightly. 
+ 
 🟢 = updated recently  
 🟠 = no commit in last year  
 🔴 = no commit in the last 3 years  
 
-Something missing? [Open a PR to sites.txt with the url and a short description](https://github.com/sudara/awesome-juce/edit/main/sites.txt).
+Your repo missing? [Open a PR to sites.txt with the url and a concise description](https://github.com/sudara/awesome-juce/edit/main/sites.txt).
 
-I make more juce-y content over at https://melatonin.dev/blog
+I make more JUCEy content over at https://melatonin.dev/blog
 PREAMBLE
 
 client = Octokit::Client.new(access_token: ENV["GITHUB_ACCESS_TOKEN"])
