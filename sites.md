@@ -9,8 +9,6 @@ https://github.com/ImJimmi/JUMP Metering and utility classes built on top of JUC
 https://github.com/ElandaSunshine/Jaut Collection of lower level modules complementing JUCE
 https://github.com/Chowdhury-DSP/chowdsp_utils Large collection of utilities including dsp, presets, json
 https://github.com/drowaudio/drowaudio Older, but very large collection of utilities by the Tracktion superstar 
-https://github.com/jpcima/ysfx JSFX hosting library incl. example plugin
-https://github.com/surge-synthesizer/sst-filters Surge filters as a separate library
 
 ## Templates
 
@@ -121,6 +119,7 @@ https://github.com/benkuper/Chataigne Real-time communication and syncing with m
 https://github.com/asb2m10/plugincollider Plugin that embeds SuperCollider
 https://github.com/JoshMarler/react-juce Cross-platform native apps with React.js and JUCE
 https://github.com/rorywalsh/cabbage Framework for developing plugins with the Csound programming language
+https://github.com/jpcima/ysfx JSFX hosting library incl. example plugin
 
 ## DSP
 
@@ -130,6 +129,7 @@ https://github.com/adamski/pitch_detector Pitch estimation based on YIN
 https://github.com/surge-synthesizer/sst-waveshapers Surge waveshapers as a separate library
 https://github.com/Stenzel/SimpleVocoder Leaky autocorrelation vocoder
 https://github.com/eyalamirmusic/JUCE_SoundTouch Wrapper around the SoundTouch tempo/pitch library
+https://github.com/surge-synthesizer/sst-filters Surge filters as a separate library
 
 ## Networking & Cryptography
 
