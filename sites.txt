@@ -130,6 +130,7 @@ https://github.com/surge-synthesizer/sst-waveshapers Surge waveshapers as a sepa
 https://github.com/Stenzel/SimpleVocoder Leaky autocorrelation vocoder
 https://github.com/eyalamirmusic/JUCE_SoundTouch Wrapper around the SoundTouch tempo/pitch library
 https://github.com/surge-synthesizer/sst-filters Surge filters as a separate library
+https://github.com/grame-cncm/faust/tree/master-dev/architecture/juce Transforms a Faust DSP program into a JUCE application or plugin
 
 ## Networking & Cryptography
 
