@@ -100,6 +100,10 @@ https://github.com/bgporter/animator Animation module implementing classic easin
 https://github.com/fefanto/fontaudio Icon toolkit for audio with permissive licensing
 https://github.com/JanosGit/Resvg4JUCE Wrapper for the resvg rendering library
 https://github.com/SoundDevelopment/bbcode-editor TextEditor descendant that accepts BBCode
+https://github.com/hogliux/RtfFileLoader Convert rtf files to xml to create a JUCE AttributedString
+https://github.com/ZioGuido/JuceHtmlTextEditor HTML parsing of the basic tags for formatting text and adding hyperlinks
+https://github.com/Archie3d/juce_litehtml JUCE module that provides integration of the litehtml HTML/CSS rendering engine
+https://github.com/asimilon/html_entity_decoder A simple HTML entity String decoder module for JUCE
 
 ## Tooling & Debugging
 
