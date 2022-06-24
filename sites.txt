@@ -68,9 +68,9 @@ https://github.com/JanosGit/Schrammel_OJD Audio plugin model of a modern classic
 https://github.com/lukemcraig/OvertoneFilter Emphasize MIDI-selected harmonics of an audio signal
 https://github.com/FigBug/mverb Dattorro’s figure-of-eight reverb
 https://github.com/FigBug/slPlugins Large plugin collection from socalabs
-https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
 https://github.com/Mrugalla/NEL-19 High-fidelity random vibrato (windows only)
 https://github.com/ImJimmi/Contrast Bundle of minimal plug-ins
+https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
 
 ## Metering 
 
