@@ -125,6 +125,8 @@ https://github.com/asb2m10/plugincollider Plugin that embeds SuperCollider
 https://github.com/JoshMarler/react-juce Cross-platform native apps with React.js and JUCE
 https://github.com/rorywalsh/cabbage Framework for developing plugins with the Csound programming language
 https://github.com/jpcima/ysfx JSFX hosting library incl. example plugin
+https://github.com/soundspear/formula Plugin to live code and test effects inside a DAW
+https://github.com/jthorborg/ape Plugin that allows to program C++ DSP in real time
 
 ## DSP
 
