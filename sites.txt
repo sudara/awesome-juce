@@ -137,6 +137,14 @@ https://github.com/eyalamirmusic/JUCE_SoundTouch Wrapper around the SoundTouch t
 https://github.com/surge-synthesizer/sst-filters Surge filters as a separate library
 https://github.com/grame-cncm/faust JUCE standalone app and plugin exporter for Faust DSP library
 https://github.com/AndrewJJ/ob_HIIR JUCE module wrappler for Laurent DeSoras' upsampling and downsampling library
+https://github.com/jthorborg/ape Plugin that allows programming C++ DSP in real time
+https://github.com/soundspear/formula Plugin to code and test effects in real time using C
+
+## Music Notation
+
+https://github.com/grame-cncm/guidolib Music notation format, score rendering engine and various music score utilities
+https://github.com/andibrae/belle Music notation rendering library. Outputs to PDF, JUCE, Core Graphics, MIDI, etc.
+https://github.com/grame-cncm/libmusicxml Portable C++ library for MusicXML support
 
 ## Networking & Cryptography
 
