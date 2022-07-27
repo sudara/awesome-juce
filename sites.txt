@@ -158,9 +158,6 @@ https://github.com/jthorborg/ape Plugin that allows programming C++ DSP code in 
 
 https://github.com/grame-cncm/guidolib Music notation format, score rendering engine and various music score utilities
 https://github.com/andibrae/belle Music notation rendering library. Outputs to PDF, JUCE, Core Graphics, MIDI, etc.
-https://github.com/grame-cncm/libmusicxml Portable C++ library for MusicXML support
-https://github.com/lenmus/lomse/ A C++ library for rendering, editing and playing back music scores
-https://github.com/rism-digital/verovio Music notation library for engraving MEI scores into SVG
 https://github.com/ffAudio/foleys_musicology Music theory and score editing/rendering 
 https://github.com/bliston/Bach A music theory library JUCE module
 
