@@ -9,6 +9,8 @@ https://github.com/ImJimmi/JUMP Metering and utility classes built on top of JUC
 https://github.com/ElandaSunshine/Jaut Collection of lower level modules complementing JUCE
 https://github.com/Chowdhury-DSP/chowdsp_utils Large collection of utilities including dsp, presets, json
 https://github.com/drowaudio/drowaudio Older, but very large collection of utilities by the Tracktion superstar 
+https://github.com/spensbot/stm-juce-modules Collection of Modules for use with JUCE
+https://github.com/adamski/stk_wrapper JUCE wrapper module for the Synthesis ToolKit (STK) library
 
 ## Templates
 
@@ -71,6 +73,16 @@ https://github.com/FigBug/slPlugins Large plugin collection from socalabs
 https://github.com/Mrugalla/NEL-19 High-fidelity random vibrato (windows only)
 https://github.com/ImJimmi/Contrast Bundle of minimal plug-ins
 https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
+https://github.com/AudioTK/UniversalDelay A mono delay plugin
+https://github.com/AudioTK/Andromeda A plugin version of the Andromeda version of the Noble ODR-1
+https://github.com/AudioTK/SD1 Plugin modeling the well-known Boss SD1
+https://github.com/AudioTK/TS9 Plugin modeling the well-known Ibanez TS9 TubeScreamer
+https://github.com/AudioTK/ATKBassPreamp Plugin modeling a bass preamplifier followed by a tone stack
+https://github.com/AudioTK/ATKGuitarPreamp Plugin modeling a guitar preamplifier followed by a tone stack
+https://github.com/AudioTK/ATK-MT2 Plugin emulating the MT2 pedal
+https://github.com/spensbot/crispy Audio Saturation Plugin (VST/AU) made with JUCE
+https://github.com/spensbot/Lush-Delay A Delay Plugin Made with JUCE
+https://github.com/joonastuo/VibraFlanger Vibrato/Flanger effect plugin made with JUCE
 
 ## Metering 
 
@@ -105,6 +117,7 @@ https://github.com/hogliux/RtfFileLoader Convert rtf files to xml to create a JU
 https://github.com/ZioGuido/JuceHtmlTextEditor HTML parsing of the basic tags for formatting text and adding hyperlinks
 https://github.com/Archie3d/juce_litehtml JUCE module that provides integration of the litehtml HTML/CSS rendering engine
 https://github.com/asimilon/html_entity_decoder A simple HTML entity String decoder module for JUCE
+https://github.com/jkoutavas/haydxn_juce_animation JUCE animation package originally contributed by 'haydxn'
 
 ## Tooling & Debugging
 
@@ -125,6 +138,7 @@ https://github.com/asb2m10/plugincollider Plugin that embeds SuperCollider
 https://github.com/JoshMarler/react-juce Cross-platform native apps with React.js and JUCE
 https://github.com/rorywalsh/cabbage Framework for developing plugins with the Csound programming language
 https://github.com/jpcima/ysfx JSFX hosting library incl. example plugin
+https://github.com/AudioTK/AudioTK An audio digital processing toolbox based on a workflow/pipeline principle
 
 ## DSP
 
@@ -137,6 +151,18 @@ https://github.com/eyalamirmusic/JUCE_SoundTouch Wrapper around the SoundTouch t
 https://github.com/surge-synthesizer/sst-filters Surge filters as a separate library
 https://github.com/grame-cncm/faust JUCE standalone app and plugin exporter for Faust DSP library
 https://github.com/AndrewJJ/ob_HIIR JUCE module wrappler for Laurent DeSoras' upsampling and downsampling library
+https://github.com/soundspear/formula Plugin for developing and testing DSP code in real time using C
+https://github.com/jthorborg/ape Plugin that allows programming C++ DSP code in real time
+
+## Music Notation and Theory
+
+https://github.com/grame-cncm/guidolib Music notation format, score rendering engine and various music score utilities
+https://github.com/andibrae/belle Music notation rendering library. Outputs to PDF, JUCE, Core Graphics, MIDI, etc.
+https://github.com/grame-cncm/libmusicxml Portable C++ library for MusicXML support
+https://github.com/lenmus/lomse/ A C++ library for rendering, editing and playing back music scores
+https://github.com/rism-digital/verovio Music notation library for engraving MEI scores into SVG
+https://github.com/ffAudio/foleys_musicology Music theory and score editing/rendering 
+https://github.com/bliston/Bach A music theory library JUCE module
 
 ## Networking & Cryptography
 
