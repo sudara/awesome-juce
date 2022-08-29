@@ -153,6 +153,7 @@ https://github.com/grame-cncm/faust JUCE standalone app and plugin exporter for 
 https://github.com/AndrewJJ/ob_HIIR JUCE module wrappler for Laurent DeSoras' upsampling and downsampling library
 https://github.com/soundspear/formula Plugin for developing and testing DSP code in real time using C
 https://github.com/jthorborg/ape Plugin that allows programming C++ DSP code in real time
+https://github.com/gvne/vstSpleeter A VST interface to Spleeter. Uses JUCE and spleeterpp to run spleeter in c++.
 
 ## Music Notation and Theory
 
