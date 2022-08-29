@@ -83,6 +83,9 @@ https://github.com/AudioTK/ATK-MT2 Plugin emulating the MT2 pedal
 https://github.com/spensbot/crispy Audio Saturation Plugin (VST/AU) made with JUCE
 https://github.com/spensbot/Lush-Delay A Delay Plugin Made with JUCE
 https://github.com/joonastuo/VibraFlanger Vibrato/Flanger effect plugin made with JUCE
+https://github.com/gvne/vstSpleeter Uses JUCE and spleeterpp to run spleeter in c++
+https://github.com/essej/paulxstretch Extreme Timestretching application and plugin
+https://github.com/jerryuhoo/Fire A multi-band distortion plugin
 
 ## Metering 
 
