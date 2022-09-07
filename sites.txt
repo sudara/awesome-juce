@@ -105,6 +105,7 @@ https://github.com/gbevin/SendMIDI Cross-platform tool to send MIDI messages fro
 https://github.com/gbevin/ReceiveMIDI Cross-platform tool to monitor and receive MIDI messages on the command line
 https://github.com/christofmuc/KnobKraft-orm The free modern cross-platform MIDI Sysex Librarian
 https://librearp.gitlab.io Pattern based arepeggiator
+https://github.com/liamlacey/Shuttertone Uses colour data from images to generate music
 
 ## UI 
 
@@ -235,6 +236,7 @@ https://github.com/AustrianAudioGmbH/StereoCreator Create different stereo set-u
 
 https://github.com/christofmuc/JammerNetz Host a jam session over the internet
 https://github.com/apohl79/audiogridder Offload dsp processing to remote computers
+https://github.com/sonosaurus/sonobus Real-time network audio streaming collaboration tool
 
 ## Forks
 
