@@ -57,6 +57,7 @@ https://github.com/FigBug/RP2A03 Nintenodo RP2A03
 https://github.com/jatinchowdhury18/AnalogTapeModel Physical Modeling for Analog Tape Machines
 https://github.com/Chowdhury-DSP/ChowMatrix Inifinitely growable tree of delay lines
 https://github.com/Chowdhury-DSP/CHOW Digital Distortion
+https://github.com/Chowdhury-DSP/BYOD Build-Your-Own Guitar Distortion
 https://github.com/QVbDev/quantumVerb Convolution Reverb
 https://github.com/stekyne/PhaseVocoder Phase Vocoder
 https://github.com/maxwellpollack/repitch MIDI controlled harmonizer
