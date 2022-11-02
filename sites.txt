@@ -60,6 +60,7 @@ https://github.com/SilvinWillemsen/BowedStringJUCE Bowed String
 https://github.com/w-frank/juce-string-model Realistic string instrument model using physical modelling and includes a delay line
 https://github.com/w-frank/juce-synth A MIDI controlled subtractive synthesiser built using JUCE and the Maximillian library
 https://github.com/Emmet-Hayes/BatSynth BatSynth: A polyphonic synthesizer with two oscillators
+https://github.com/DanielRudrich/BeatAligningGuitarLooper A guitar looper which detects the tempo and plays along a rudimentary drumbeat
 
 ## Samplers
 
@@ -233,6 +234,18 @@ https://github.com/timothyschoen/juce_nanovg NanoVG graphics module for JUCE
 https://github.com/Archie3d/juce_bgfx bgfx rendering example for JUCE
 https://github.com/Krasjet/imgui_juce Dear ImGui backend for JUCE
 
+## OpenGL
+
+https://github.com/TimArt/3DAudioVisualizers An OpenGL Audio Visualizer suite for Audio and GUI
+https://github.com/JanosGit/OpenGLRealtimeVisualization4JUCE JUCE Module containing OpenGL accelerated realtime (audio) data visualization Components
+https://github.com/ianacaburian/LearnJUCEOpenGL LearnJUCEOpenGL: Simple beginner's reference on animated 2D graphics in JUCE using OpenGL
+https://github.com/ianacaburian/LiveShaderPalette LiveShaderPalette: Live code your animated OpenGL shaders and mouse/touch input actions side-by-side
+https://github.com/rosshoyt/juce-midi-visualizer-AU-plugin Plugin which generates real-time 3D Visualization of MIDI Data using OpenGL
+https://github.com/CrushedPixel/Polyline2DPathRenderer Polyline2DPathRenderer: Renders JUCE Paths very quickly using OpenGL
+https://github.com/CrushedPixel/Polyline2DExample Polyline2DExample: A JUCE example application for Polyline2D
+https://github.com/iomeone/openglWithJuce OpenGL with JUCE
+https://github.com/COx2/glslEditor_AudioPlugin GLSL Editor Audio Plugin
+
 ## Testing
 
 https://github.com/sudara/melatonin_audio_block_test_helpers Catch2 matchers for JUCE's `AudioBlock`
@@ -250,6 +263,7 @@ https://github.com/belangeo/plugex PLUGin EXamples made with JUCE
 https://github.com/prayash/audio-dsp Playing around with audio plugin development and DSP
 https://github.com/nseaSeb/Juce-Simples-Exemples Simples Juce Exemples
 https://github.com/getdunne/audio-effects Revised versions of Reiss and McPherson's "Audio Effects" examples
+https://github.com/shamiejegan/UOL-CM2005 DJ Application (see www.shamiejegan.com/projects/dj-application-with-c-and-juce)
 
 ## Hosts & DAWs
 
