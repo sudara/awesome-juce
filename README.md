@@ -23,7 +23,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 | :--- | :--- | :---: | :---: | ---: |
 |[drowaudio](https://github.com/drowaudio/drowaudio) <br/> <sup>by [drowaudio](https://github.com/drowaudio)</sup> | Older, but very large collection of utilities by the Tracktion superstar| |130| 6 years<sub><sup>🔴</sup></sub>|
 |[Gin](https://github.com/FigBug/Gin) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Massive collection of extras, including StackBlur, Websockets, Maps, etc| BSD 3-Clause "New" or "Revised" License|129|1 day<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[chowdsp_utils](https://github.com/Chowdhury-DSP/chowdsp_utils) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Large collection of utilities including dsp, presets, json| Other|115|22 minutes<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[chowdsp_utils](https://github.com/Chowdhury-DSP/chowdsp_utils) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Large collection of utilities including dsp, presets, json| Other|116| 1 hour<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Lemons](https://github.com/benthevining/Lemons) <br/> <sup>by [benthevining](https://github.com/benthevining)</sup> | Collection of modules, including DMX, OSC, PLOSA| GNU General Public License v3.0|34|3 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[stk_wrapper](https://github.com/adamski/stk_wrapper) <br/> <sup>by [adamski](https://github.com/adamski)</sup> | JUCE wrapper module for the Synthesis ToolKit (STK) library| |24| 4 years<sub><sup>🔴</sup></sub>|
 |[squarepine_core](https://github.com/SquarePine/squarepine_core) <br/> <sup>by [SquarePine](https://github.com/SquarePine)</sup> | Collection includes flexible Google Analytics, Easing functions, metering| Other|21|11 days<sub><sup>󠀠󠀠🟢</sup></sub>|
@@ -55,7 +55,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[helm](https://github.com/mtytel/helm) <br/> <sup>by [mtytel](https://github.com/mtytel)</sup> | Free, Open source, cross platform 32-voice polyphonic synth| GNU General Public License v3.0|2131| 4 years<sub><sup>🔴</sup></sub>|
 |[giada](https://github.com/monocasual/giada) <br/> <sup>by [monocasual](https://github.com/monocasual)</sup> | Your Hardcore Loop Machine| GNU General Public License v3.0|1297|25 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[vital](https://github.com/mtytel/vital) <br/> <sup>by [mtytel](https://github.com/mtytel)</sup> | The popular spectral warping wavetable synth is open source| GNU General Public License v3.0|1071|7 months<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[OB-Xd](https://github.com/reales/OB-Xd) <br/> <sup>by [reales](https://github.com/reales)</sup> | Virtual Analog modelled Oberheim OB-X with a few extras| GNU General Public License v3.0|494|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[OB-Xd](https://github.com/reales/OB-Xd) <br/> <sup>by [reales](https://github.com/reales)</sup> | Virtual Analog modelled Oberheim OB-X with a few extras| GNU General Public License v3.0|494| 1 hour<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[odin2](https://github.com/TheWaveWarden/odin2) <br/> <sup>by [TheWaveWarden](https://github.com/TheWaveWarden)</sup> | 24-voice polyphonic synth with filter emulations and modulation matrix| GNU General Public License v3.0|389|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[ADLplug](https://github.com/jpcima/ADLplug) <br/> <sup>by [jpcima](https://github.com/jpcima)</sup> | 2 FM synths based on OPL3 and OPN2 sound chip emulations| Boost Software License 1.0|345|11 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[monique-monosynth](https://github.com/surge-synthesizer/monique-monosynth) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Mono synth with morph mixer| Other|284|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
@@ -110,7 +110,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[Fire](https://github.com/jerryuhoo/Fire) <br/> <sup>by [jerryuhoo](https://github.com/jerryuhoo)</sup> | A multi-band distortion plugin| GNU Affero General Public License v3.0|236|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[ChowMatrix](https://github.com/Chowdhury-DSP/ChowMatrix) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Inifinitely growable tree of delay lines| BSD 3-Clause "New" or "Revised" License|221|11 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[paulxstretch](https://github.com/essej/paulxstretch) <br/> <sup>by [essej](https://github.com/essej)</sup> | Extreme Timestretching application and plugin| Other|204| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[BYOD](https://github.com/Chowdhury-DSP/BYOD) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Build-Your-Own Guitar Distortion| GNU General Public License v3.0|193| 17 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[BYOD](https://github.com/Chowdhury-DSP/BYOD) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Build-Your-Own Guitar Distortion| GNU General Public License v3.0|193| 18 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[SmartGuitarPedal](https://github.com/GuitarML/SmartGuitarPedal) <br/> <sup>by [GuitarML](https://github.com/GuitarML)</sup> | Neural Network WaveNet modelled guitar pedals| Apache License 2.0|191|22 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Schrammel_OJD](https://github.com/JanosGit/Schrammel_OJD) <br/> <sup>by [JanosGit](https://github.com/JanosGit)</sup> | Audio plugin model of a modern classic overdrive pedal| GNU General Public License v3.0|108|11 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[CTAGDRC](https://github.com/p-hlp/CTAGDRC) <br/> <sup>by [p-hlp](https://github.com/p-hlp)</sup> | An audio compressor plugin| GNU General Public License v3.0|79| 2 years<sub><sup>🟠</sup></sub>|
@@ -148,10 +148,10 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[ATKBassPreamp](https://github.com/AudioTK/ATKBassPreamp) <br/> <sup>by [AudioTK](https://github.com/AudioTK)</sup> | Plugin modeling a bass preamplifier followed by a tone stack| |1|10 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[SD1](https://github.com/AudioTK/SD1) <br/> <sup>by [AudioTK](https://github.com/AudioTK)</sup> | Plugin modeling the well-known Boss SD1| |1|9 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[UniversalDelay](https://github.com/AudioTK/UniversalDelay) <br/> <sup>by [AudioTK](https://github.com/AudioTK)</sup> | A mono delay plugin| |1|5 months<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[juce-audio-filters](https://github.com/w-frank/juce-audio-filters) <br/> <sup>by [w-frank](https://github.com/w-frank)</sup> | Collection of digital audio filter plugins using the JUCE DSP module| |0| 2 years<sub><sup>🟠</sup></sub>|
-|[Andromeda](https://github.com/AudioTK/Andromeda) <br/> <sup>by [AudioTK](https://github.com/AudioTK)</sup> | A plugin version of the Andromeda version of the Noble ODR-1| |0|9 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[IEMPluginSuite](https://git.iem.at/audioplugins/IEMPluginSuite)| Large suite of plugins, including Ambisonic
 | | | |
+|[juce-audio-filters](https://github.com/w-frank/juce-audio-filters) <br/> <sup>by [w-frank](https://github.com/w-frank)</sup> | Collection of digital audio filter plugins using the JUCE DSP module| |0| 2 years<sub><sup>🟠</sup></sub>|
+|[Andromeda](https://github.com/AudioTK/Andromeda) <br/> <sup>by [AudioTK](https://github.com/AudioTK)</sup> | A plugin version of the Andromeda version of the Noble ODR-1| |0|9 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 
 ## Metering 
 
@@ -176,10 +176,10 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[Topiary-Beatz](https://github.com/tomto66/Topiary-Beatz) <br/> <sup>by [tomto66](https://github.com/tomto66)</sup> | A MIDI drum pattern generator for live use| GNU General Public License v3.0|14|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Midi-Bass-Pedal-Chords](https://github.com/stfufane/Midi-Bass-Pedal-Chords) <br/> <sup>by [stfufane](https://github.com/stfufane)</sup> | Map chords to your MIDI bass pedal| |10|2 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Scribe](https://github.com/CLeJack/Scribe) <br/> <sup>by [CLeJack](https://github.com/CLeJack)</sup> | Audio (guitar) to MIDI converter| |5|10 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[LibreArp](https://gitlab.com/LibreArp/LibreArp)| Pattern-based arpeggiator
+| | | |
 |[Topiary-Presetz](https://github.com/tomto66/Topiary-Presetz) <br/> <sup>by [tomto66](https://github.com/tomto66)</sup> | Plugin that lets you define "variations" of settings of "parameters" and output as Midi| GNU General Public License v3.0|0|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Topiary-Riffz](https://github.com/tomto66/Topiary-Riffz) <br/> <sup>by [tomto66](https://github.com/tomto66)</sup> | Plugin that can play MIDI files, assigned to keys, and transposed on a per key basis| GNU General Public License v3.0|0|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[librearp.gitlab.io](https://librearp.gitlab.io)| Pattern based arepeggiator
-| | | |
 
 
 127 entries as of 2022-11-03
