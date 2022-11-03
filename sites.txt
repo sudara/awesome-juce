@@ -95,7 +95,6 @@ https://github.com/FigBug/mverb Dattorro’s figure-of-eight reverb
 https://github.com/FigBug/slPlugins Large plugin collection from socalabs
 https://github.com/Mrugalla/NEL-19 High-fidelity random vibrato (windows only)
 https://github.com/ImJimmi/Contrast Bundle of minimal plug-ins
-https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
 https://github.com/AudioTK/UniversalDelay A mono delay plugin
 https://github.com/AudioTK/Andromeda A plugin version of the Andromeda version of the Noble ODR-1
 https://github.com/AudioTK/SD1 Plugin modeling the well-known Boss SD1
@@ -122,6 +121,7 @@ https://github.com/DanielRudrich/ABComparisonPlugin An audio-plugin for multi-ch
 https://github.com/tobanteAudio/modEQ EQ audio plugin with modulation
 https://github.com/dllim/anotherdelay Tape Delay plugin with tape flutter, wow, and saturation emulation 
 https://github.com/dbaylies/JUCEVocoder A simple vocoder plug-in with a built-in synthesis engine
+https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
 
 ## Metering 
 
@@ -139,12 +139,12 @@ https://github.com/surge-synthesizer/stochas Probabilistic sequencer
 https://github.com/gbevin/SendMIDI Cross-platform tool to send MIDI messages from the command line
 https://github.com/gbevin/ReceiveMIDI Cross-platform tool to monitor and receive MIDI messages on the command line
 https://github.com/christofmuc/KnobKraft-orm The free modern cross-platform MIDI Sysex Librarian
-https://gitlab.com/LibreArp/LibreArp Pattern-based arpeggiator
 https://github.com/liamlacey/Shuttertone Uses colour data from images to generate music
 https://github.com/CLeJack/Scribe Audio (guitar) to MIDI converter
 https://github.com/tomto66/Topiary-Beatz A MIDI drum pattern generator for live use
-https://github.com/tomto66/Topiary-Riffz Plugin that can play MIDI files, assigned to keys, and transposed on a per key basis
+https://github.com/tomto66/Topiary-Riffz Plugin that can play MIDI files, assigned to keys, and transposed on a per key basis 
 https://github.com/tomto66/Topiary-Presetz Plugin that lets you define "variations" of settings of "parameters" and output as Midi
+https://gitlab.com/LibreArp/LibreArp Pattern-based arpeggiator
 
 ## Microtuning
 
@@ -216,7 +216,7 @@ https://gist.github.com/Katsutoshii/83ec144135cfe7d3bdba27357f88c1f3 Spectrogram
 
 https://github.com/grame-cncm/guidolib Music notation format, score rendering engine and various music score utilities
 https://github.com/andibrae/belle Music notation rendering library. Outputs to PDF, JUCE, Core Graphics, MIDI, etc.
-https://github.com/ffAudio/foleys_musicology Music theory and score editing/rendering
+https://github.com/ffAudio/foleys_musicology Music theory and score editing/rendering 
 https://github.com/bliston/Bach A music theory library JUCE module
 https://github.com/nberr/jackel Negative harmony application
 
@@ -270,7 +270,7 @@ https://github.com/shamiejegan/UOL-CM2005 DJ Application (www.shamiejegan.com/pr
 https://github.com/Tracktion/tracktion_engine The one, the only, the engine that JUCE was once extracted from
 https://github.com/kushview/Element The audio plugin host that isn't a DAW!
 https://github.com/DBraun/DawDreamer Python DAW with full cross platform support
-https://github.com/spotify/pedalboard A Python library and host for manipulating audio
+https://github.com/spotify/pedalboard A Python library and host for manipulating audio 
 https://github.com/fedden/RenderMan Interactive "command line" host backed by Maximilian
 https://github.com/DropSnorz/OwlPlug Cross-platform plugin manager
 https://github.com/jatinchowdhury18/PluginRunner Run audio through a plugin from the CLI on windows
@@ -301,7 +301,7 @@ https://github.com/DBraun/TD-JUCE TD-JUCE: JUCE audio and VSTs in TouchDesigner
 
 https://github.com/acids-ircam/rave_vst Realtime Audio Variational autoEncoder (RAVE) packaged as a vst
 https://github.com/Cyril-Meyer/TensorFlowVST Example of using a TensorFlow Keras model in a VST
-https://github.com/jatinchowdhury18/KlonCentaur Analog guitar pedal emulation using the RTNeural real time framework
+https://github.com/jatinchowdhury18/KlonCentaur Analog guitar pedal emulation using the RTNeural real time framework 
 https://github.com/magenta/ddsp-vst Realtime DDSP Neural Synthesizer and Effect
 https://github.com/csteinmetz1/micro-tcn Efficient real-time modeling of analog dynamic range compression
 
