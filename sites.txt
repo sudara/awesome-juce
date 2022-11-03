@@ -146,7 +146,7 @@ https://github.com/tomto66/Topiary-Riffz Plugin that can play MIDI files, assign
 https://github.com/tomto66/Topiary-Presetz Plugin that lets you define "variations" of settings of "parameters" and output as Midi
 https://gitlab.com/LibreArp/LibreArp Pattern-based arpeggiator
 
-# Microtuning
+## Microtuning
 
 https://github.com/vsicurella/everytone-tuner MIDI microtuning plugin
 https://github.com/vsicurella/SuperVirtualKeyboard MIDI Plugin for interacting with microtonal piano layouts
