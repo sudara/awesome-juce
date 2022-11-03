@@ -139,7 +139,7 @@ https://github.com/surge-synthesizer/stochas Probabilistic sequencer
 https://github.com/gbevin/SendMIDI Cross-platform tool to send MIDI messages from the command line
 https://github.com/gbevin/ReceiveMIDI Cross-platform tool to monitor and receive MIDI messages on the command line
 https://github.com/christofmuc/KnobKraft-orm The free modern cross-platform MIDI Sysex Librarian
-https://gitlab.com/LibreArp/LibreArp LibreArp: Pattern-based arpeggiator
+https://gitlab.com/LibreArp/LibreArp Pattern-based arpeggiator
 https://github.com/liamlacey/Shuttertone Uses colour data from images to generate music
 https://github.com/CLeJack/Scribe Audio (guitar) to MIDI converter
 https://github.com/tomto66/Topiary-Beatz A MIDI drum pattern generator for live use
