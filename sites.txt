@@ -143,10 +143,10 @@ https://gitlab.com/LibreArp/LibreArp Pattern-based arpeggiator
 https://github.com/liamlacey/Shuttertone Uses colour data from images to generate music
 https://github.com/CLeJack/Scribe Audio (guitar) to MIDI converter
 https://github.com/tomto66/Topiary-Beatz A MIDI drum pattern generator for live use
-https://github.com/tomto66/Topiary-Riffz Plugin that can play MIDI files, assigned to keys, and transposed on a per key basis 
+https://github.com/tomto66/Topiary-Riffz Plugin that can play MIDI files, assigned to keys, and transposed on a per key basis
 https://github.com/tomto66/Topiary-Presetz Plugin that lets you define "variations" of settings of "parameters" and output as Midi
 
-# Microtuning
+## Microtuning
 
 https://github.com/vsicurella/everytone-tuner MIDI microtuning plugin
 https://github.com/vsicurella/SuperVirtualKeyboard MIDI Plugin for interacting with microtonal piano layouts
@@ -216,7 +216,7 @@ https://gist.github.com/Katsutoshii/83ec144135cfe7d3bdba27357f88c1f3 Spectrogram
 
 https://github.com/grame-cncm/guidolib Music notation format, score rendering engine and various music score utilities
 https://github.com/andibrae/belle Music notation rendering library. Outputs to PDF, JUCE, Core Graphics, MIDI, etc.
-https://github.com/ffAudio/foleys_musicology Music theory and score editing/rendering 
+https://github.com/ffAudio/foleys_musicology Music theory and score editing/rendering
 https://github.com/bliston/Bach A music theory library JUCE module
 https://github.com/nberr/jackel Negative harmony application
 
@@ -270,7 +270,7 @@ https://github.com/shamiejegan/UOL-CM2005 DJ Application (www.shamiejegan.com/pr
 https://github.com/Tracktion/tracktion_engine The one, the only, the engine that JUCE was once extracted from
 https://github.com/kushview/Element The audio plugin host that isn't a DAW!
 https://github.com/DBraun/DawDreamer Python DAW with full cross platform support
-https://github.com/spotify/pedalboard A Python library and host for manipulating audio 
+https://github.com/spotify/pedalboard A Python library and host for manipulating audio
 https://github.com/fedden/RenderMan Interactive "command line" host backed by Maximilian
 https://github.com/DropSnorz/OwlPlug Cross-platform plugin manager
 https://github.com/jatinchowdhury18/PluginRunner Run audio through a plugin from the CLI on windows
@@ -301,7 +301,7 @@ https://github.com/DBraun/TD-JUCE TD-JUCE: JUCE audio and VSTs in TouchDesigner
 
 https://github.com/acids-ircam/rave_vst Realtime Audio Variational autoEncoder (RAVE) packaged as a vst
 https://github.com/Cyril-Meyer/TensorFlowVST Example of using a TensorFlow Keras model in a VST
-https://github.com/jatinchowdhury18/KlonCentaur Analog guitar pedal emulation using the RTNeural real time framework 
+https://github.com/jatinchowdhury18/KlonCentaur Analog guitar pedal emulation using the RTNeural real time framework
 https://github.com/magenta/ddsp-vst Realtime DDSP Neural Synthesizer and Effect
 https://github.com/csteinmetz1/micro-tcn Efficient real-time modeling of analog dynamic range compression
 
