@@ -240,7 +240,7 @@ https://github.com/TimArt/3DAudioVisualizers An OpenGL Audio Visualizer suite fo
 https://github.com/JanosGit/OpenGLRealtimeVisualization4JUCE OpenGL-accelerated realtime audio visualization components
 https://github.com/ianacaburian/LearnJUCEOpenGL Beginner's reference on animated 2D graphics in JUCE using OpenGL
 https://github.com/ianacaburian/LiveShaderPalette Live code animated OpenGL shaders and mouse/touch input actions side-by-side
-https://github.com/rosshoyt/juce-midi-visualizer-AU-plugin Plugin to generate real-time 3D visualization of MIDI Data using OpenGL
+https://github.com/rosshoyt/juce-midi-visualizer-AU-plugin Generate real-time 3D visualization of MIDI Data using OpenGL
 https://github.com/CrushedPixel/Polyline2DPathRenderer Renders JUCE Paths very quickly using OpenGL
 https://github.com/CrushedPixel/Polyline2DExample A JUCE example application for Polyline2D
 https://github.com/iomeone/openglWithJuce OpenGL with JUCE
