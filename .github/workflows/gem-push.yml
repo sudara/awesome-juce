@@ -1,0 +1,31 @@
+name: Build README
+on:
+  push:
+    branches:
+      - 'main'
+  schedule:
+  - cron: "30 15 * * *"
+env:
+  GITHUB_ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Install Ruby and bundle
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler: latest
+          bundler-cache: true
+          ruby-version: 3.0.4
+      - name: Update repo data
+        run: bundle exec ./update_readme.rb
+      - name: Commit and push
+        run: |-
+          git diff
+          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "Github Actions Cronjob"
+          git add README.md
+          git commit --allow-empty -m "Update Stars and Last Updated"
+          git push
