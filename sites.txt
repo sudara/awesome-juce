@@ -36,7 +36,6 @@ https://github.com/khrykin/BlackBird Single Oscillator synth
 https://github.com/paynebc/tunefish Virtual Analog synth
 https://github.com/mtytel/helm Free, Open source, cross platform 32-voice polyphonic synth
 https://github.com/asb2m10/dexed Yamaha DX7 FM multi patform / multi format plugin
-https://github.com/surge-synthesizer/tuning-workbench-synth Simple microtonal synth
 https://github.com/reales/OB-Xd Virtual Analog modelled Oberheim OB-X with a few extras
 https://github.com/jpcima/ADLplug 2 FM synths based on OPL3 and OPN2 sound chip emulations
 https://github.com/TheWaveWarden/odin2  24-voice polyphonic synth with filter emulations and modulation matrix
@@ -59,7 +58,6 @@ https://github.com/mariusz96/blue-synthesiser Bachelor's thesis "Sound synthesis
 https://github.com/SilvinWillemsen/BowedStringJUCE Bowed String
 https://github.com/w-frank/juce-string-model Realistic string instrument model using physical modelling and includes a delay line
 https://github.com/w-frank/juce-synth A MIDI controlled subtractive synthesiser built using JUCE and the Maximillian library
-https://github.com/Emmet-Hayes/BatSynth BatSynth: A polyphonic synthesizer with two oscillators
 https://github.com/DanielRudrich/BeatAligningGuitarLooper A guitar looper which detects the tempo and plays along a rudimentary drumbeat
 
 ## Samplers
@@ -132,7 +130,6 @@ https://github.com/SoundDevelopment/sound_meter Resizable efficient peak meters
 ## Midi 
 
 https://github.com/stfufane/Midi-Bass-Pedal-Chords Map chords to your MIDI bass pedal
-https://github.com/vsicurella/SuperVirtualKeyboard Microtonal keyboard layout
 https://github.com/trackbout/ripchord Cross platform plugin to create and remix chord progressions
 https://github.com/surge-synthesizer/b-step Chord sequencer
 https://github.com/surge-synthesizer/stochas Probabilistic sequencer
@@ -152,6 +149,7 @@ https://github.com/vsicurella/everytone-tuner MIDI microtuning plugin
 https://github.com/vsicurella/SuperVirtualKeyboard MIDI Plugin for interacting with microtonal piano layouts
 https://github.com/vsicurella/Tune-Up-MIDI A micro-tuning plugin. Converts single-channel MIDI into multichannel MIDI with pitchbend messages
 https://github.com/vsicurella/ScaleStructureComponent For designing a 2D isomorphic layout based on MOS scales for use with ET tuning systems
+https://github.com/surge-synthesizer/tuning-workbench-synth Simple microtonal synth
 
 ## UI 
 
@@ -281,7 +279,6 @@ https://github.com/CrushedPixel/Plugalyzer Command-line VST3, AU and LADSPA plug
 https://github.com/kunitoki/popsicle Bridging JUCE to python
 https://github.com/audiooffler/JucyFluttering Flutter for iOS and Android frontend
 https://github.com/llloret/osmid MIDI <-> OSC conversion used by Sonic Pi
-https://github.com/ianacaburian/AbletonLink_JuceSampler Ableton Link syncing
 https://github.com/free-audio/clap-juce-extensions CLAP plugin support
 https://github.com/MTG/freesound-juce Freesound.org API implementation
 https://github.com/lvtk/jlv2 LV2 plugin hosting
