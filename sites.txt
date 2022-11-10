@@ -120,7 +120,7 @@ https://github.com/tobanteAudio/modEQ EQ audio plugin with modulation
 https://github.com/dllim/anotherdelay Tape Delay plugin with tape flutter, wow, and saturation emulation 
 https://github.com/dbaylies/JUCEVocoder A simple vocoder plug-in with a built-in synthesis engine
 https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
-https://github.com/ravettel/SG-323/ Authentic emulation of an Ursa Major Stargate 323 Reverb
+https://github.com/ravettel/SG-323 Authentic emulation of an Ursa Major Stargate 323 Reverb
 
 ## Metering 
 
