@@ -190,6 +190,7 @@ https://github.com/JoshMarler/react-juce Cross-platform native apps with React.j
 https://github.com/rorywalsh/cabbage Framework for developing plugins with the Csound programming language
 https://github.com/jpcima/ysfx JSFX hosting library incl. example plugin
 https://github.com/AudioTK/AudioTK An audio digital processing toolbox based on a workflow/pipeline principle
+https://github.com/0x07dc/none Framework built with JUCE, provides architecture guidance for making a plugin (GUI, Processors, States, State Modifiers)
 
 ## DSP
 
