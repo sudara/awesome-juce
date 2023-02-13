@@ -263,7 +263,6 @@ https://github.com/belangeo/plugex PLUGin EXamples made with JUCE
 https://github.com/prayash/audio-dsp Playing around with audio plugin development and DSP
 https://github.com/nseaSeb/Juce-Simples-Exemples Simples Juce Exemples
 https://github.com/getdunne/audio-effects Revised versions of Reiss and McPherson's "Audio Effects" examples
-https://github.com/shamiejegan/UOL-CM2005 DJ Application (www.shamiejegan.com/projects/dj-application-with-c-and-juce)
 
 ## Hosts & DAWs
 
