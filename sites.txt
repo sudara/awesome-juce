@@ -143,6 +143,7 @@ https://github.com/tomto66/Topiary-Beatz A MIDI drum pattern generator for live 
 https://github.com/tomto66/Topiary-Riffz Plugin that can play MIDI files, assigned to keys, and transposed on a per key basis 
 https://github.com/tomto66/Topiary-Presetz Plugin that lets you define "variations" of settings of "parameters" and output as Midi
 https://gitlab.com/LibreArp/LibreArp Pattern-based arpeggiator
+https://github.com/YPares/arpligner Multi-track & polyphonic arpeggiator where both chords and arp patterns are live MIDI data
 
 ## Microtuning
 
