@@ -320,6 +320,7 @@ https://github.com/nseaSeb/Sysex77 Midi editor for the Yamaha Sy77/TG77/Sy99 FMS
 https://github.com/christofmuc/JammerNetz Host a jam session over the internet
 https://github.com/apohl79/audiogridder Offload dsp processing to remote computers
 https://github.com/sonosaurus/sonobus Real-time network audio streaming collaboration tool
+https://github.com/genkiinstruments/juce_bluetooth Bluetooth LE module for MacOS and Windows
 
 ## Forks
 
