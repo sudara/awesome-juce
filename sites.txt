@@ -6,6 +6,7 @@ https://github.com/kushview/kv-modules Kush View's module collection includes ff
 https://github.com/SquarePine/squarepine_core Collection includes flexible Google Analytics, Easing functions, metering
 https://github.com/christofmuc/juce-utils MIDI, i18n, and other helper classes built on top of JUCE
 https://github.com/ImJimmi/JUMP Metering and utility classes built on top of JUCE
+https://github.com/ImJimmi/JIVE Build flexible GUIs using declarative markup
 https://github.com/ElandaSunshine/Jaut Collection of lower level modules complementing JUCE
 https://github.com/Chowdhury-DSP/chowdsp_utils Large collection of utilities including dsp, presets, json
 https://github.com/drowaudio/drowaudio Older, but very large collection of utilities by the Tracktion superstar 
