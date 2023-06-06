@@ -6,7 +6,6 @@ https://github.com/kushview/kv-modules Kush View's module collection includes ff
 https://github.com/SquarePine/squarepine_core Collection includes flexible Google Analytics, Easing functions, metering
 https://github.com/christofmuc/juce-utils MIDI, i18n, and other helper classes built on top of JUCE
 https://github.com/ImJimmi/JUMP Metering and utility classes built on top of JUCE
-https://github.com/ImJimmi/JIVE Build flexible GUIs using declarative markup
 https://github.com/ElandaSunshine/Jaut Collection of lower level modules complementing JUCE
 https://github.com/Chowdhury-DSP/chowdsp_utils Large collection of utilities including dsp, presets, json
 https://github.com/drowaudio/drowaudio Older, but very large collection of utilities by the Tracktion superstar 
@@ -159,6 +158,7 @@ https://github.com/surge-synthesizer/tuning-workbench-synth Simple microtonal sy
 
 https://github.com/szkkng/modern-dial Nice clean example of a rotary "slider"
 https://github.com/szkkng/numberbox Clean Ableton style "slider" with tutorial
+https://github.com/ImJimmi/JIVE Build flexible GUIs using declarative markup
 https://github.com/ffAudio/foleys_gui_magic WYSWYG plugin editor letting you create JUCE GUIs without coding
 https://github.com/HackAudio/hack_audio_gui Hack Audio's custom components
 https://github.com/christofmuc/juce-widgets Unsorted collection of "widgets"
@@ -172,6 +172,7 @@ https://github.com/Archie3d/juce_litehtml JUCE module that provides integration 
 https://github.com/asimilon/html_entity_decoder A simple HTML entity String decoder module for JUCE
 https://github.com/jkoutavas/haydxn_juce_animation JUCE animation package originally contributed by 'haydxn'
 https://github.com/getdunne/juce-draggableListBox JUCE ListBox whose items can be reordered by drag-and-drop
+https://github.com/ImJimmi/JIVE Build flexible GUIs using declarative markup
 
 ## Tooling & Debugging
 
