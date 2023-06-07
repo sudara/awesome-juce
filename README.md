@@ -90,7 +90,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
 |[typebeat](https://github.com/kofigumbs/typebeat) <br/> <sup>by [kofigumbs](https://github.com/kofigumbs)</sup> | MacOS only Rust-backed Keyboard sequencer, sampler, and synth| AGPL-3.0|389| 1 year<sub><sup>🟠</sup></sub>|
-|[shortcircuit-xt](https://github.com/surge-synthesizer/shortcircuit-xt) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Sampler| GPL-3.0|136| 24 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[shortcircuit-xt](https://github.com/surge-synthesizer/shortcircuit-xt) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Sampler| GPL-3.0|136|1 day<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[vmpc-juce](https://github.com/izzyreal/vmpc-juce) <br/> <sup>by [izzyreal](https://github.com/izzyreal)</sup> | JUCE implementation of VMPC2000XL| GPL-3.0|56|5 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[JUCE-AKSampler](https://github.com/getdunne/JUCE-AKSampler) <br/> <sup>by [getdunne](https://github.com/getdunne)</sup> | AudioKit AKSampler wrapped as a JUCE app/plug-in| GPL-3.0|25| 3 years<sub><sup>🔴</sup></sub>|
 |[Soompler](https://github.com/abbysoft-team/Soompler) <br/> <sup>by [abbysoft-team](https://github.com/abbysoft-team)</sup> | Soompler, a JUCE based sampler plugin| |25| 3 years<sub><sup>🔴</sup></sub>|
@@ -106,7 +106,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[SmartGuitarAmp](https://github.com/GuitarML/SmartGuitarAmp) <br/> <sup>by [GuitarML](https://github.com/GuitarML)</sup> | Neural Network WaveNet modelled guitar amps| Apache-2.0|1108| 2 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[AnalogTapeModel](https://github.com/jatinchowdhury18/AnalogTapeModel) <br/> <sup>by [jatinchowdhury18](https://github.com/jatinchowdhury18)</sup> | Physical Modeling for Analog Tape Machines| GPL-3.0|895|5 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Fire](https://github.com/jerryuhoo/Fire) <br/> <sup>by [jerryuhoo](https://github.com/jerryuhoo)</sup> | A multi-band distortion plugin| AGPL-3.0|356|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[BYOD](https://github.com/Chowdhury-DSP/BYOD) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Build-Your-Own Guitar Distortion| GPL-3.0|293| 22 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[BYOD](https://github.com/Chowdhury-DSP/BYOD) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Build-Your-Own Guitar Distortion| GPL-3.0|293| 23 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[paulxstretch](https://github.com/essej/paulxstretch) <br/> <sup>by [essej](https://github.com/essej)</sup> | Extreme Timestretching application and plugin| other|289|8 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[ChowMatrix](https://github.com/Chowdhury-DSP/ChowMatrix) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Inifinitely growable tree of delay lines| BSD-3-Clause|259| 1 year<sub><sup>🟠</sup></sub>|
 |[SmartGuitarPedal](https://github.com/GuitarML/SmartGuitarPedal) <br/> <sup>by [GuitarML](https://github.com/GuitarML)</sup> | Neural Network WaveNet modelled guitar pedals| Apache-2.0|228|8 months<sub><sup>󠀠󠀠🟢</sup></sub>|
@@ -242,7 +242,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
-|[faust](https://github.com/grame-cncm/faust) <br/> <sup>by [grame-cncm](https://github.com/grame-cncm)</sup> | JUCE standalone app and plugin exporter for Faust DSP library| other|2177| 4 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[faust](https://github.com/grame-cncm/faust) <br/> <sup>by [grame-cncm](https://github.com/grame-cncm)</sup> | JUCE standalone app and plugin exporter for Faust DSP library| other|2177| 5 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Audio-Effects](https://github.com/juandagilc/Audio-Effects) <br/> <sup>by [juandagilc](https://github.com/juandagilc)</sup> | Collection of Audio Effects examples from a book| |583| 2 years<sub><sup>🟠</sup></sub>|
 |[pitch_detector](https://github.com/adamski/pitch_detector) <br/> <sup>by [adamski](https://github.com/adamski)</sup> | Pitch estimation based on YIN| |109| 1 year<sub><sup>🟠</sup></sub>|
 |[pMix2](https://github.com/olilarkin/pMix2) <br/> <sup>by [olilarkin](https://github.com/olilarkin)</sup> | pMix - a preset interpolator, plug-in chainer and Faust IDE written with JUCE| |84| 3 years<sub><sup>🔴</sup></sub>|
@@ -328,7 +328,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
 |[pedalboard](https://github.com/spotify/pedalboard) <br/> <sup>by [spotify](https://github.com/spotify)</sup> | A Python library and host for manipulating audio| GPL-3.0|4210|5 days<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[tracktion_engine](https://github.com/Tracktion/tracktion_engine) <br/> <sup>by [Tracktion](https://github.com/Tracktion)</sup> | The one, the only, the engine that JUCE was once extracted from| other|926|18 minutes<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[tracktion_engine](https://github.com/Tracktion/tracktion_engine) <br/> <sup>by [Tracktion](https://github.com/Tracktion)</sup> | The one, the only, the engine that JUCE was once extracted from| other|926| 1 hour<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[element](https://github.com/kushview/element) <br/> <sup>by [kushview](https://github.com/kushview)</sup> | The audio plugin host that isn't a DAW!| GPL-3.0|798|8 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[DawDreamer](https://github.com/DBraun/DawDreamer) <br/> <sup>by [DBraun](https://github.com/DBraun)</sup> | Python DAW with full cross platform support| GPL-3.0|638|3 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[RenderMan](https://github.com/fedden/RenderMan) <br/> <sup>by [fedden](https://github.com/fedden)</sup> | Interactive "command line" host backed by Maximilian| Unlicense|314| 2 years<sub><sup>🟠</sup></sub>|
@@ -356,7 +356,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[jlv2](https://github.com/lvtk/jlv2) <br/> <sup>by [lvtk](https://github.com/lvtk)</sup> | LV2 plugin hosting| other|12|10 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[FreesoundSimpleSampler](https://github.com/ffont/FreesoundSimpleSampler) <br/> <sup>by [ffont](https://github.com/ffont)</sup> | Sampler plugin which demonstrates the Freesound-JUCE API client| GPL-3.0|10| 3 years<sub><sup>🔴</sup></sub>|
 |[juce_meets_DaisySP](https://github.com/COx2/juce_meets_DaisySP) <br/> <sup>by [COx2](https://github.com/COx2)</sup> | Example of integration of DaisySP and JUCE| MIT|10| 2 years<sub><sup>🟠</sup></sub>|
-|[aap-juce](https://github.com/atsushieno/aap-juce) <br/> <sup>by [atsushieno](https://github.com/atsushieno)</sup> | Android Audio Plugin (AAP) support with lots of plugin ports| GPL-3.0|10| 8 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[aap-juce](https://github.com/atsushieno/aap-juce) <br/> <sup>by [atsushieno](https://github.com/atsushieno)</sup> | Android Audio Plugin (AAP) support with lots of plugin ports| GPL-3.0|10| 9 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 
 ## Machine Learning
 
@@ -395,7 +395,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
 |[JUCE_ARA](https://github.com/Celemony/JUCE_ARA) <br/> <sup>by [Celemony](https://github.com/Celemony)</sup> | JUCE fork that provides Audio Random Access (ARA) support| other|38|5 months<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[JUCE](https://github.com/soundradix/JUCE) <br/> <sup>by [soundradix](https://github.com/soundradix)</sup> | Fork with AAX AudioSuite support and other features and fixes| other|18| 1 hour<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[JUCE](https://github.com/soundradix/JUCE) <br/> <sup>by [soundradix](https://github.com/soundradix)</sup> | Fork with AAX AudioSuite support and other features and fixes| other|18| 2 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[juce_emscripten](https://github.com/Casperaki/juce_emscripten) <br/> <sup>by [Casperaki](https://github.com/Casperaki)</sup> | Port of JUCE for the browser via Emscripten (maintained)| other|6|9 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 
 
