@@ -307,6 +307,7 @@ https://github.com/Cyril-Meyer/TensorFlowVST Example of using a TensorFlow Keras
 https://github.com/jatinchowdhury18/KlonCentaur Analog guitar pedal emulation using the RTNeural real time framework 
 https://github.com/magenta/ddsp-vst Realtime DDSP Neural Synthesizer and Effect
 https://github.com/csteinmetz1/micro-tcn Efficient real-time modeling of analog dynamic range compression
+https://github.com/Torsion-Audio/Scyclone Real-time Neural Timbre Transfer utilizing RAVE in couple inference mode, additional DSP and OpenGL graphics
 
 ## Hardware
 
