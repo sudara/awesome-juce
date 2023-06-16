@@ -20,6 +20,7 @@ https://github.com/maxwellpollack/juce-plugin-ci Cross-platform CI for JUCE audi
 https://github.com/anthonyalfimov/JUCE-CMake-Plugin-Template Audio Plugin Template on GitHub Actions
 https://github.com/nberr/juce-template "Everything but the processing" template supporting Rust DSP
 https://github.com/tomoyanonymous/juce_cmake_vscode_example Boilerplate for developing plugins with JUCE, CMake & VSCode
+https://github.com/ncblair/NTHN_TEMPLATE_PLUGIN Audio Plugin CMake Template with a focus on Parameters and State Management
 
 ## Instruments
 
@@ -307,7 +308,7 @@ https://github.com/Cyril-Meyer/TensorFlowVST Example of using a TensorFlow Keras
 https://github.com/jatinchowdhury18/KlonCentaur Analog guitar pedal emulation using the RTNeural real time framework 
 https://github.com/magenta/ddsp-vst Realtime DDSP Neural Synthesizer and Effect
 https://github.com/csteinmetz1/micro-tcn Efficient real-time modeling of analog dynamic range compression
-https://github.com/Torsion-Audio/Scyclone Real-time Neural Timbre Transfer utilizing RAVE in couple inference mode, additional DSP and OpenGL graphics
+https://github.com/Torsion-Audio/Scyclone Real-time Neural Timbre Transfer plugin based on RAVE
 
 ## Hardware
 
