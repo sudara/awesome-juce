@@ -130,6 +130,7 @@ https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including
 https://github.com/ffAudio/Frequalizer Equalizer using JUCE's dsp module
 https://github.com/ffAudio/ff_meters LED meters for JUCE audio buffers
 https://github.com/SoundDevelopment/sound_meter Resizable efficient peak meters
+https://github.com/SmEgDm/equalize_it 12-band parametric EQ
 
 ## Midi 
 
