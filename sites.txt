@@ -124,6 +124,7 @@ https://github.com/dbaylies/JUCEVocoder A simple vocoder plug-in with a built-in
 https://github.com/ravettel/SG-323 Authentic emulation of an Ursa Major Stargate 323 Reverb
 https://github.com/calgoheen/cStop Tape stop plugin with a few extra goodies
 https://github.com/unplugred/vsts A treasure trove of effects and other fun plugins
+https://github.com/ZL-Audio/ZLEComp Compressor plugin with gain reduction history
 https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
 
 ## Metering 
