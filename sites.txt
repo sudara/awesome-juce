@@ -63,7 +63,6 @@ https://github.com/DanielRudrich/BeatAligningGuitarLooper A guitar looper which 
 https://github.com/FigBug/Wavetable A 2 oscillator wavetable synth with flexible modulation options
 https://github.com/psemiletov/drumlabooh LV2/VSTi drum machine that can use Hydrogen, SFZ, and other drumkit formats
 
-
 ## Samplers
 
 https://github.com/kofigumbs/typebeat MacOS only Rust-backed Keyboard sequencer, sampler, and synth
