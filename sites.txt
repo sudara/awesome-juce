@@ -40,7 +40,7 @@ https://github.com/asb2m10/dexed Yamaha DX7 FM multi patform / multi format plug
 https://github.com/reales/OB-Xd Virtual Analog modelled Oberheim OB-X with a few extras
 https://github.com/jpcima/ADLplug 2 FM synths based on OPL3 and OPN2 sound chip emulations
 https://github.com/TheWaveWarden/odin2  24-voice polyphonic synth with filter emulations and modulation matrix
-https://github.com/jpcima/Hera June 60
+https://github.com/jpcima/Hera Juno 60
 https://github.com/Archie3d/aeolus_plugin Pipe organ emulator VST/AU
 https://github.com/helio-fm/helio-workstation One music sequencer for all major platforms, desktop and mobile
 https://github.com/yokemura/Magical8bitPlug2 8-bit gaming console synth
@@ -61,6 +61,8 @@ https://github.com/w-frank/juce-string-model Realistic string instrument model u
 https://github.com/w-frank/juce-synth A MIDI controlled subtractive synthesiser built using JUCE and the Maximillian library
 https://github.com/DanielRudrich/BeatAligningGuitarLooper A guitar looper which detects the tempo and plays along a rudimentary drumbeat
 https://github.com/FigBug/Wavetable A 2 oscillator wavetable synth with flexible modulation options
+https://github.com/psemiletov/drumlabooh LV2/VSTi drum machine that can use Hydrogen, SFZ, and other drumkit formats
+
 
 ## Samplers
 
