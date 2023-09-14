@@ -14,13 +14,14 @@ https://github.com/adamski/stk_wrapper JUCE wrapper module for the Synthesis Too
 
 ## Templates
 
-https://github.com/sudara/pamplejuce JUCE, CMake, Catch2, Pluginval on GitHub Actions
-https://github.com/eyalamirmusic/JUCECmakeRepoPrototype Large variety of JUCE 6 and CMake plugin and app templates
-https://github.com/maxwellpollack/juce-plugin-ci Cross-platform CI for JUCE audio plugins with GitHub Actions
+https://github.com/sudara/pamplejuce C++20, JUCE, CMake, Catch2, Pluginval on GitHub Actions
+https://github.com/eyalamirmusic/JUCECmakeRepoPrototype Large variety of JUCE and CMake plugin and app templates
+https://github.com/maxwellpollack/juce-plugin-ci (Archived) CI for JUCE audio plugins with GitHub Actions
 https://github.com/anthonyalfimov/JUCE-CMake-Plugin-Template Audio Plugin Template on GitHub Actions
 https://github.com/nberr/juce-template "Everything but the processing" template supporting Rust DSP
 https://github.com/tomoyanonymous/juce_cmake_vscode_example Boilerplate for developing plugins with JUCE, CMake & VSCode
 https://github.com/ncblair/NTHN_TEMPLATE_PLUGIN Audio Plugin CMake Template with a focus on Parameters and State Management
+https://github.com/JanWilczek/audio-plugin-template C++23, JUCE, CPM, googletest on GitHub Actions 
 
 ## Instruments
 
