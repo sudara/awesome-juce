@@ -63,6 +63,7 @@ https://github.com/w-frank/juce-synth A MIDI controlled subtractive synthesiser 
 https://github.com/DanielRudrich/BeatAligningGuitarLooper A guitar looper which detects the tempo and plays along a rudimentary drumbeat
 https://github.com/FigBug/Wavetable A 2 oscillator wavetable synth with flexible modulation options
 https://github.com/psemiletov/drumlabooh LV2/VSTi drum machine that can use Hydrogen, SFZ, and other drumkit formats
+https://github.com/dan-german/blocks Simplified modular synth
 
 ## Samplers
 
