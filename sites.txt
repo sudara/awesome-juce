@@ -181,6 +181,7 @@ https://github.com/asimilon/html_entity_decoder A simple HTML entity String deco
 https://github.com/jkoutavas/haydxn_juce_animation JUCE animation package originally contributed by 'haydxn'
 https://github.com/getdunne/juce-draggableListBox JUCE ListBox whose items can be reordered by drag-and-drop
 https://github.com/ImJimmi/JIVE Build flexible GUIs using declarative markup
+https://github.com/MNSignalProcessing/BarelyML Markdown-inspired markup for JUCE
 
 ## Tooling & Debugging
 
