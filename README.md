@@ -211,6 +211,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[Resvg4JUCE](https://github.com/JanosGit/Resvg4JUCE) <br/> <sup>by [JanosGit](https://github.com/JanosGit)</sup> | Wrapper for the resvg rendering library| MPL-2.0|23| 1 year<sub><sup>🟠</sup></sub>|
 |[juce-draggableListBox](https://github.com/getdunne/juce-draggableListBox) <br/> <sup>by [getdunne](https://github.com/getdunne)</sup> | JUCE ListBox whose items can be reordered by drag-and-drop| MIT|12| 3 years<sub><sup>🟠</sup></sub>|
 |[juce-widgets](https://github.com/christofmuc/juce-widgets) <br/> <sup>by [christofmuc](https://github.com/christofmuc)</sup> | Unsorted collection of "widgets"| MIT|10| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[BarelyML](https://github.com/MNSignalProcessing/BarelyML) <br/> <sup>by [MNSignalProcessing](https://github.com/MNSignalProcessing)</sup> | Markdown-inspired markup for JUCE| MIT|7| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[RtfFileLoader](https://github.com/hogliux/RtfFileLoader) <br/> <sup>by [hogliux](https://github.com/hogliux)</sup> | Convert rtf files to xml to create a JUCE AttributedString| GPL-3.0|6| 6 years<sub><sup>🔴</sup></sub>|
 |[haydxn_juce_animation](https://github.com/jkoutavas/haydxn_juce_animation) <br/> <sup>by [jkoutavas](https://github.com/jkoutavas)</sup> | JUCE animation package originally contributed by 'haydxn'| MIT|5| 5 years<sub><sup>🔴</sup></sub>|
 |[juce_litehtml](https://github.com/Archie3d/juce_litehtml) <br/> <sup>by [Archie3d](https://github.com/Archie3d)</sup> | JUCE module that provides integration of the litehtml HTML/CSS rendering engine| |5| 1 year<sub><sup>🟠</sup></sub>|
@@ -349,7 +350,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[MIDI2LR](https://github.com/rsjaffe/MIDI2LR) <br/> <sup>by [rsjaffe](https://github.com/rsjaffe)</sup> | An application and plugin to remotely control Lightroom via MIDI| GPL-3.0|637| 1 year<sub><sup>🟠</sup></sub>|
 |[luce](https://github.com/peersuasive/luce) <br/> <sup>by [peersuasive](https://github.com/peersuasive)</sup> | LUA GUI module (unmaintained)| |124| 7 years<sub><sup>🔴</sup></sub>|
 |[popsicle](https://github.com/kunitoki/popsicle) <br/> <sup>by [kunitoki](https://github.com/kunitoki)</sup> | Bridging JUCE to python| other|123| 1 year<sub><sup>🟠</sup></sub>|
-|[clap-juce-extensions](https://github.com/free-audio/clap-juce-extensions) <br/> <sup>by [free-audio](https://github.com/free-audio)</sup> | CLAP plugin support| MIT|115| 17 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[clap-juce-extensions](https://github.com/free-audio/clap-juce-extensions) <br/> <sup>by [free-audio](https://github.com/free-audio)</sup> | CLAP plugin support| MIT|115| 18 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[JucyFluttering](https://github.com/audiooffler/JucyFluttering) <br/> <sup>by [audiooffler](https://github.com/audiooffler)</sup> | Flutter for iOS and Android frontend| GPL-3.0|100| 2 years<sub><sup>🟠</sup></sub>|
 |[osmid](https://github.com/llloret/osmid) <br/> <sup>by [llloret](https://github.com/llloret)</sup> | MIDI <-> OSC conversion used by Sonic Pi| other|66| 3 years<sub><sup>🔴</sup></sub>|
 |[tomduncalf_juce_web_ui](https://github.com/tomduncalf/tomduncalf_juce_web_ui) <br/> <sup>by [tomduncalf](https://github.com/tomduncalf)</sup> | WIP: Helper classes for integrating a web-based UI with JUCE| MIT|58| 2 years<sub><sup>🟠</sup></sub>|
@@ -407,8 +408,8 @@ I make more JUCEy content over at https://melatonin.dev/blog
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
 |[JUCE_ARA](https://github.com/Celemony/JUCE_ARA) <br/> <sup>by [Celemony](https://github.com/Celemony)</sup> | JUCE fork that provides Audio Random Access (ARA) support| other|39|10 months<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[JUCE](https://github.com/soundradix/JUCE) <br/> <sup>by [soundradix](https://github.com/soundradix)</sup> | Fork with AAX AudioSuite support and other features and fixes| other|20|10 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[JUCE](https://github.com/soundradix/JUCE) <br/> <sup>by [soundradix](https://github.com/soundradix)</sup> | Fork with AAX AudioSuite support and other features and fixes| other|20|11 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[juce_emscripten](https://github.com/Casperaki/juce_emscripten) <br/> <sup>by [Casperaki](https://github.com/Casperaki)</sup> | Port of JUCE for the browser via Emscripten (maintained)| other|7| 1 year<sub><sup>🟠</sup></sub>|
 
 
-270 entries as of 2023-11-21
+271 entries as of 2023-11-21
