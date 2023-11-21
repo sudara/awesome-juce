@@ -313,6 +313,7 @@ https://github.com/rsjaffe/MIDI2LR An application and plugin to remotely control
 https://github.com/DBraun/TD-JUCE TD-JUCE: JUCE audio and VSTs in TouchDesigner
 
 ## MIR (Music Information Retrieval)
+
 https://github.com/MartinTownley/JUCE_Tempometer Beat tracking JUCE example based on BTrack
 
 ## Machine Learning
