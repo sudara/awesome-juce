@@ -22,6 +22,7 @@ https://github.com/nberr/juce-template "Everything but the processing" template 
 https://github.com/tomoyanonymous/juce_cmake_vscode_example Boilerplate for developing plugins with JUCE, CMake & VSCode
 https://github.com/ncblair/NTHN_TEMPLATE_PLUGIN Audio Plugin CMake Template with a focus on Parameters and State Management
 https://github.com/JanWilczek/audio-plugin-template C++23, JUCE, CPM, googletest on GitHub Actions 
+https://github.com/Torsion-Audio/nn-inference-template Neural network inference template for TensorFlow Lite, LibTorch, ONNX Runtime
 
 ## Instruments
 
