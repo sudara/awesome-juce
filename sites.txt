@@ -225,6 +225,8 @@ https://github.com/getdunne/juce-MultiStepEnvelopeGenerator Multi Step Envelope 
 https://github.com/DanielRudrich/OomphSC Audio Plug-in which figures out the Oomph of a signal and sends it via OSC
 https://github.com/olilarkin/pMix2 pMix - a preset interpolator, plug-in chainer and Faust IDE written with JUCE
 https://github.com/kmatheussen/mammut Sound transformation using one single gigantic analysis (no windows)
+https://github.com/Signalsmith-Audio/signalsmith-stretch Polyphonic pitch/time algorithm
+https://github.com/Signalsmith-Audio/dsp Signalsmith's library of DSP utilities and classes
 https://gist.github.com/Katsutoshii/83ec144135cfe7d3bdba27357f88c1f3 Spectrogram Extractor Application
 
 ## Music Notation and Theory
