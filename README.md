@@ -253,6 +253,8 @@ I make more JUCEy content over at https://melatonin.dev/blog
 | :--- | :--- | :---: | :---: | ---: |
 |[faust](https://github.com/grame-cncm/faust) <br/> <sup>by [grame-cncm](https://github.com/grame-cncm)</sup> | JUCE standalone app and plugin exporter for Faust DSP library| other|2301| 7 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Audio-Effects](https://github.com/juandagilc/Audio-Effects) <br/> <sup>by [juandagilc](https://github.com/juandagilc)</sup> | Collection of Audio Effects examples from a book| |626| 3 years<sub><sup>🔴</sup></sub>|
+|[signalsmith-stretch](https://github.com/Signalsmith-Audio/signalsmith-stretch) <br/> <sup>by [Signalsmith-Audio](https://github.com/Signalsmith-Audio)</sup> | Polyphonic pitch/time algorithm| MIT|157|6 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[dsp](https://github.com/Signalsmith-Audio/dsp) <br/> <sup>by [Signalsmith-Audio](https://github.com/Signalsmith-Audio)</sup> | Signalsmith's library of DSP utilities and classes| MIT|127| 2 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[pitch_detector](https://github.com/adamski/pitch_detector) <br/> <sup>by [adamski](https://github.com/adamski)</sup> | Pitch estimation based on YIN| |119| 1 year<sub><sup>🟠</sup></sub>|
 |[pMix2](https://github.com/olilarkin/pMix2) <br/> <sup>by [olilarkin](https://github.com/olilarkin)</sup> | pMix - a preset interpolator, plug-in chainer and Faust IDE written with JUCE| |86| 4 years<sub><sup>🔴</sup></sub>|
 |[formula](https://github.com/soundspear/formula) <br/> <sup>by [soundspear](https://github.com/soundspear)</sup> | Plugin for developing and testing DSP code in real time using C| BSL-1.0|59|6 months<sub><sup>󠀠󠀠🟢</sup></sub>|
@@ -371,6 +373,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
+|[JUCE_Tempometer](https://github.com/MartinTownley/JUCE_Tempometer) <br/> <sup>by [MartinTownley](https://github.com/MartinTownley)</sup> | Beat tracking JUCE example based on BTrack| |13| 3 years<sub><sup>🟠</sup></sub>|
 
 ## Machine Learning
 
@@ -414,4 +417,4 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[juce_emscripten](https://github.com/Casperaki/juce_emscripten) <br/> <sup>by [Casperaki](https://github.com/Casperaki)</sup> | Port of JUCE for the browser via Emscripten (maintained)| other|7| 1 year<sub><sup>🟠</sup></sub>|
 
 
-273 entries as of 2023-11-21
+276 entries as of 2023-11-21
