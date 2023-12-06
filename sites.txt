@@ -25,7 +25,7 @@ https://github.com/JanWilczek/audio-plugin-template C++23, JUCE, CPM, googletest
 https://github.com/Torsion-Audio/nn-inference-template Neural network inference template for TensorFlow Lite, LibTorch, ONNX Runtime
 
 ## Instruments
-
+https://github.com/dar-io-p/PotenzaDSP Collection of simple workflow plugins and UI modules.
 https://github.com/mtytel/vital The popular spectral warping wavetable synth is open source
 https://github.com/surge-synthesizer/surge A very active open source rebuild and extension of the classic
 https://github.com/mohragk/VermeerMonosynth-1 Monosynth VST on JUCE 5
