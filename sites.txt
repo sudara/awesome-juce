@@ -1,4 +1,4 @@
-## Module Collections & Libraries
+## Modules & Plugin Collections
 
 https://github.com/benthevining/Lemons Collection of modules, including DMX, OSC, PLOSA
 https://github.com/FigBug/Gin Massive collection of extras, including StackBlur, Websockets, Maps, etc
@@ -8,9 +8,10 @@ https://github.com/christofmuc/juce-utils MIDI, i18n, and other helper classes b
 https://github.com/ImJimmi/JUMP Metering and utility classes built on top of JUCE
 https://github.com/ElandaSunshine/Jaut Collection of lower level modules complementing JUCE
 https://github.com/Chowdhury-DSP/chowdsp_utils Large collection of utilities including dsp, presets, json
-https://github.com/drowaudio/drowaudio Older, but very large collection of utilities by the Tracktion superstar 
+https://github.com/drowaudio/drowaudio Older but large collection of utilities by the Tracktion superstar 
 https://github.com/spensbot/stm-juce-modules Collection of Modules for use with JUCE
 https://github.com/adamski/stk_wrapper JUCE wrapper module for the Synthesis ToolKit (STK) library
+https://github.com/dar-io-p/PotenzaDSP Collection of simple workflow plugins and UI modules
 
 ## Templates
 
@@ -25,7 +26,7 @@ https://github.com/JanWilczek/audio-plugin-template C++23, JUCE, CPM, googletest
 https://github.com/Torsion-Audio/nn-inference-template Neural network inference template for TensorFlow Lite, LibTorch, ONNX Runtime
 
 ## Instruments
-https://github.com/dar-io-p/PotenzaDSP Collection of simple workflow plugins and UI modules
+
 https://github.com/mtytel/vital The popular spectral warping wavetable synth is open source
 https://github.com/surge-synthesizer/surge A very active open source rebuild and extension of the classic
 https://github.com/mohragk/VermeerMonosynth-1 Monosynth VST on JUCE 5
@@ -154,6 +155,7 @@ https://github.com/tomto66/Topiary-Riffz Plugin that can play MIDI files, assign
 https://github.com/tomto66/Topiary-Presetz Plugin that lets you define "variations" of settings of "parameters" and output as Midi
 https://gitlab.com/LibreArp/LibreArp Pattern-based arpeggiator
 https://github.com/YPares/arpligner Multi-track & polyphonic arpeggiator where both chords and arp patterns are live MIDI data
+https://github.com/gbevin/ShowMIDI Multi-platform GUI application to effortlessly visualize MIDI activity
 
 ## Microtuning
 
