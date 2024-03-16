@@ -11,7 +11,6 @@ https://github.com/Chowdhury-DSP/chowdsp_utils Large collection of utilities inc
 https://github.com/drowaudio/drowaudio Older but large collection of utilities by the Tracktion superstar 
 https://github.com/spensbot/stm-juce-modules Collection of Modules for use with JUCE
 https://github.com/adamski/stk_wrapper JUCE wrapper module for the Synthesis ToolKit (STK) library
-https://github.com/dar-io-p/PotenzaDSP Collection of simple workflow plugins and UI modules
 
 ## Templates
 
