@@ -130,8 +130,8 @@ https://github.com/calgoheen/cStop Tape stop plugin with a few extra goodies
 https://github.com/unplugred/vsts A treasure trove of effects and other fun plugins
 https://github.com/ZL-Audio/ZLEComp Compressor plugin with gain reduction history
 https://github.com/ArdenButterfield/Maim Audio plugin for custom MP3 distortion and digital glitches
-https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
 https://github.com/ZL-Audio/ZLEqualizer 16-band minimum-phase dynamic equalizer
+https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
 
 ## Metering 
 
