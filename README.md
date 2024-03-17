@@ -141,6 +141,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[OvertoneFilter](https://github.com/lukemcraig/OvertoneFilter) <br/> <sup>by [lukemcraig](https://github.com/lukemcraig)</sup> | Emphasize MIDI-selected harmonics of an audio signal| |17| 4 years<sub><sup>🔴</sup></sub>|
 |[SMPLComp](https://github.com/p-hlp/SMPLComp) <br/> <sup>by [p-hlp](https://github.com/p-hlp)</sup> | A simplified version of the CTAGDRC audio compressor plugin| GPL-3.0|14| 3 years<sub><sup>🔴</sup></sub>|
 |[Filter](https://github.com/joonastuo/Filter) <br/> <sup>by [joonastuo](https://github.com/joonastuo)</sup> | A state variable filter plugin| |13| 5 years<sub><sup>🔴</sup></sub>|
+|[ZLEqualizer](https://github.com/ZL-Audio/ZLEqualizer) <br/> <sup>by [ZL-Audio](https://github.com/ZL-Audio)</sup> | 16-band minimum-phase dynamic equalizer| GPL-3.0|12| 21 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Delay](https://github.com/joonastuo/Delay) <br/> <sup>by [joonastuo](https://github.com/joonastuo)</sup> | Delay-effect plugin| |11| 5 years<sub><sup>🔴</sup></sub>|
 |[Contrast](https://github.com/ImJimmi/Contrast) <br/> <sup>by [ImJimmi](https://github.com/ImJimmi)</sup> | Bundle of minimal plug-ins| MIT|11| 1 year<sub><sup>🟠</sup></sub>|
 |[VibraFlanger](https://github.com/joonastuo/VibraFlanger) <br/> <sup>by [joonastuo](https://github.com/joonastuo)</sup> | Vibrato/Flanger effect plugin made with JUCE| |10| 5 years<sub><sup>🔴</sup></sub>|
@@ -417,4 +418,4 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[juce_emscripten](https://github.com/Casperaki/juce_emscripten) <br/> <sup>by [Casperaki](https://github.com/Casperaki)</sup> | Port of JUCE for the browser via Emscripten (maintained)| other|7| 1 year<sub><sup>🟠</sup></sub>|
 
 
-277 entries as of 2024-03-17
+278 entries as of 2024-03-17
