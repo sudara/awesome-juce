@@ -21,12 +21,12 @@ I make more JUCEy content over at https://melatonin.dev/blog
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
-|[Gin](https://github.com/FigBug/Gin) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Massive collection of extras, including StackBlur, Websockets, Maps, etc| BSD-3-Clause|212|4 days<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[chowdsp_utils](https://github.com/Chowdhury-DSP/chowdsp_utils) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Large collection of utilities including dsp, presets, json| other|194| 18 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[Gin](https://github.com/FigBug/Gin) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Massive collection of extras, including StackBlur, Websockets, Maps, etc| BSD-3-Clause|212| 19 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[chowdsp_utils](https://github.com/Chowdhury-DSP/chowdsp_utils) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Large collection of utilities including dsp, presets, json| other|194|1 day<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[drowaudio](https://github.com/drowaudio/drowaudio) <br/> <sup>by [drowaudio](https://github.com/drowaudio)</sup> | Older but large collection of utilities by the Tracktion superstar| other|152| 1 year<sub><sup>🟠</sup></sub>|
-|[squarepine_core](https://github.com/SquarePine/squarepine_core) <br/> <sup>by [SquarePine](https://github.com/SquarePine)</sup> | Collection includes flexible Google Analytics, Easing functions, metering| other|36|28 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[squarepine_core](https://github.com/SquarePine/squarepine_core) <br/> <sup>by [SquarePine](https://github.com/SquarePine)</sup> | Collection includes flexible Google Analytics, Easing functions, metering| other|36|29 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[stk_wrapper](https://github.com/adamski/stk_wrapper) <br/> <sup>by [adamski](https://github.com/adamski)</sup> | JUCE wrapper module for the Synthesis ToolKit (STK) library| |26| 6 years<sub><sup>🔴</sup></sub>|
-|[juce-utils](https://github.com/christofmuc/juce-utils) <br/> <sup>by [christofmuc](https://github.com/christofmuc)</sup> | MIDI, i18n, and other helper classes built on top of JUCE| MIT|25|25 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[juce-utils](https://github.com/christofmuc/juce-utils) <br/> <sup>by [christofmuc](https://github.com/christofmuc)</sup> | MIDI, i18n, and other helper classes built on top of JUCE| MIT|25|26 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[kv-modules](https://github.com/kushview/kv-modules) <br/> <sup>by [kushview](https://github.com/kushview)</sup> | Kush View's module collection includes ffmpeg, video, jack| GPL-2.0|21| 2 years<sub><sup>🟠</sup></sub>|
 |[Jaut](https://github.com/ElandaSunshine/Jaut) <br/> <sup>by [ElandaSunshine](https://github.com/ElandaSunshine)</sup> | Collection of lower level modules complementing JUCE| GPL-3.0|18|5 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[stm-juce-modules](https://github.com/spensbot/stm-juce-modules) <br/> <sup>by [spensbot](https://github.com/spensbot)</sup> | Collection of Modules for use with JUCE| MIT|16| 3 years<sub><sup>🔴</sup></sub>|
@@ -36,12 +36,12 @@ I make more JUCEy content over at https://melatonin.dev/blog
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
-|[pamplejuce](https://github.com/sudara/pamplejuce) <br/> <sup>by [sudara](https://github.com/sudara)</sup> | C++20, JUCE, CMake, Catch2, Pluginval on GitHub Actions| MIT|314| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[pamplejuce](https://github.com/sudara/pamplejuce) <br/> <sup>by [sudara](https://github.com/sudara)</sup> | C++20, JUCE, CMake, Catch2, Pluginval on GitHub Actions| MIT|315| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[JUCECmakeRepoPrototype](https://github.com/eyalamirmusic/JUCECmakeRepoPrototype) <br/> <sup>by [eyalamirmusic](https://github.com/eyalamirmusic)</sup> | Large variety of JUCE and CMake plugin and app templates| |230|5 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[juce_cmake_vscode_example](https://github.com/tomoyanonymous/juce_cmake_vscode_example) <br/> <sup>by [tomoyanonymous](https://github.com/tomoyanonymous)</sup> | Boilerplate for developing plugins with JUCE, CMake & VSCode| |76| 1 year<sub><sup>🟠</sup></sub>|
-|[nn-inference-template](https://github.com/Torsion-Audio/nn-inference-template) <br/> <sup>by [Torsion-Audio](https://github.com/Torsion-Audio)</sup> | Neural network inference template for TensorFlow Lite, LibTorch, ONNX Runtime| MIT|69|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[nn-inference-template](https://github.com/Torsion-Audio/nn-inference-template) <br/> <sup>by [Torsion-Audio](https://github.com/Torsion-Audio)</sup> | Neural network inference template for TensorFlow Lite, LibTorch, ONNX Runtime| MIT|69|9 minutes<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[NTHN_TEMPLATE_PLUGIN](https://github.com/ncblair/NTHN_TEMPLATE_PLUGIN) <br/> <sup>by [ncblair](https://github.com/ncblair)</sup> | Audio Plugin CMake Template with a focus on Parameters and State Management| MIT|69|7 months<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[audio-plugin-template](https://github.com/JanWilczek/audio-plugin-template) <br/> <sup>by [JanWilczek](https://github.com/JanWilczek)</sup> | C++23, JUCE, CPM, googletest on GitHub Actions| |63| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[audio-plugin-template](https://github.com/JanWilczek/audio-plugin-template) <br/> <sup>by [JanWilczek](https://github.com/JanWilczek)</sup> | C++23, JUCE, CPM, googletest on GitHub Actions| |64| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[juce-plugin-ci](https://github.com/ellapollack/juce-plugin-ci) <br/> <sup>by [ellapollack](https://github.com/ellapollack)</sup> | (Archived) CI for JUCE audio plugins with GitHub Actions| |61|9 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[JUCE-CMake-Plugin-Template](https://github.com/anthonyalfimov/JUCE-CMake-Plugin-Template) <br/> <sup>by [anthonyalfimov](https://github.com/anthonyalfimov)</sup> | Audio Plugin Template on GitHub Actions| MIT|45|5 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[juce-template](https://github.com/nberr/juce-template) <br/> <sup>by [nberr](https://github.com/nberr)</sup> | "Everything but the processing" template supporting Rust DSP| MIT|25| 1 year<sub><sup>🟠</sup></sub>|
@@ -50,13 +50,13 @@ I make more JUCEy content over at https://melatonin.dev/blog
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
-|[BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) <br/> <sup>by [BespokeSynth](https://github.com/BespokeSynth)</sup> | Cross-Platform Modular synth instrument/environment| GPL-3.0|3847|3 days<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[helio-sequencer](https://github.com/helio-fm/helio-sequencer) <br/> <sup>by [helio-fm](https://github.com/helio-fm)</sup> | One music sequencer for all major platforms, desktop and mobile| GPL-3.0|2958| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[surge](https://github.com/surge-synthesizer/surge) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | A very active open source rebuild and extension of the classic| GPL-3.0|2867|3 days<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[dexed](https://github.com/asb2m10/dexed) <br/> <sup>by [asb2m10](https://github.com/asb2m10)</sup> | Yamaha DX7 FM multi patform / multi format plugin| GPL-3.0|2656|5 months<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[helm](https://github.com/mtytel/helm) <br/> <sup>by [mtytel](https://github.com/mtytel)</sup> | Free, Open source, cross platform 32-voice polyphonic synth| GPL-3.0|2313| 5 years<sub><sup>🔴</sup></sub>|
-|[giada](https://github.com/monocasual/giada) <br/> <sup>by [monocasual](https://github.com/monocasual)</sup> | Your Hardcore Loop Machine| GPL-3.0|1595| 17 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[vital](https://github.com/mtytel/vital) <br/> <sup>by [mtytel](https://github.com/mtytel)</sup> | The popular spectral warping wavetable synth is open source| GPL-3.0|1423| 2 years<sub><sup>🟠</sup></sub>|
+|[BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) <br/> <sup>by [BespokeSynth](https://github.com/BespokeSynth)</sup> | Cross-Platform Modular synth instrument/environment| GPL-3.0|3848|4 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[helio-sequencer](https://github.com/helio-fm/helio-sequencer) <br/> <sup>by [helio-fm](https://github.com/helio-fm)</sup> | One music sequencer for all major platforms, desktop and mobile| GPL-3.0|2959| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[surge](https://github.com/surge-synthesizer/surge) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | A very active open source rebuild and extension of the classic| GPL-3.0|2868|4 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[dexed](https://github.com/asb2m10/dexed) <br/> <sup>by [asb2m10](https://github.com/asb2m10)</sup> | Yamaha DX7 FM multi patform / multi format plugin| GPL-3.0|2658|5 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[helm](https://github.com/mtytel/helm) <br/> <sup>by [mtytel](https://github.com/mtytel)</sup> | Free, Open source, cross platform 32-voice polyphonic synth| GPL-3.0|2314| 5 years<sub><sup>🔴</sup></sub>|
+|[giada](https://github.com/monocasual/giada) <br/> <sup>by [monocasual](https://github.com/monocasual)</sup> | Your Hardcore Loop Machine| GPL-3.0|1595|1 day<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[vital](https://github.com/mtytel/vital) <br/> <sup>by [mtytel](https://github.com/mtytel)</sup> | The popular spectral warping wavetable synth is open source| GPL-3.0|1424| 2 years<sub><sup>🟠</sup></sub>|
 |[odin2](https://github.com/TheWaveWarden/odin2) <br/> <sup>by [TheWaveWarden](https://github.com/TheWaveWarden)</sup> | 24-voice polyphonic synth with filter emulations and modulation matrix| GPL-3.0|523| 1 year<sub><sup>🟠</sup></sub>|
 |[ADLplug](https://github.com/jpcima/ADLplug) <br/> <sup>by [jpcima](https://github.com/jpcima)</sup> | 2 FM synths based on OPL3 and OPN2 sound chip emulations| BSL-1.0|408| 2 years<sub><sup>🟠</sup></sub>|
 |[monique-monosynth](https://github.com/surge-synthesizer/monique-monosynth) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Mono synth with morph mixer| other|343|8 months<sub><sup>󠀠󠀠🟢</sup></sub>|
@@ -64,21 +64,21 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[tunefish](https://github.com/paynebc/tunefish) <br/> <sup>by [paynebc](https://github.com/paynebc)</sup> | Virtual Analog synth| GPL-3.0|237|12 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[juicysfplugin](https://github.com/Birch-san/juicysfplugin) <br/> <sup>by [Birch-san](https://github.com/Birch-san)</sup> | Soundfont synthesizer| GPL-3.0|192| 2 years<sub><sup>🟠</sup></sub>|
 |[ChowKick](https://github.com/Chowdhury-DSP/ChowKick) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Kick synthesizer based on old-school drum machine circuits| BSD-3-Clause|149| 1 year<sub><sup>🟠</sup></sub>|
-|[Wavetable](https://github.com/FigBug/Wavetable) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | A 2 oscillator wavetable synth with flexible modulation options| BSD-3-Clause|117|15 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[Wavetable](https://github.com/FigBug/Wavetable) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | A 2 oscillator wavetable synth with flexible modulation options| BSD-3-Clause|117|16 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[OB-Xd](https://github.com/reales/OB-Xd) <br/> <sup>by [reales](https://github.com/reales)</sup> | Virtual Analog modelled Oberheim OB-X with a few extras| GPL-3.0|75| 1 year<sub><sup>🟠</sup></sub>|
 |[aeolus_plugin](https://github.com/Archie3d/aeolus_plugin) <br/> <sup>by [Archie3d](https://github.com/Archie3d)</sup> | Pipe organ emulator VST/AU| GPL-3.0|62|2 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[blocks](https://github.com/dan-german/blocks) <br/> <sup>by [dan-german](https://github.com/dan-german)</sup> | Simplified modular synth| GPL-3.0|50|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[PAPU](https://github.com/FigBug/PAPU) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Gameboy PAPU emulation| GPL-2.0|47|15 days<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[BlackBird](https://github.com/khrykin/BlackBird) <br/> <sup>by [khrykin](https://github.com/khrykin)</sup> | Single Oscillator synth| GPL-3.0|47|24 days<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[SN76489](https://github.com/FigBug/SN76489) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Sega Master System Sound Chip emulation| LGPL-2.1|37|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[SID](https://github.com/FigBug/SID) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Commodore 64 SID emulation| GPL-3.0|36|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[PAPU](https://github.com/FigBug/PAPU) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Gameboy PAPU emulation| GPL-2.0|47|16 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[BlackBird](https://github.com/khrykin/BlackBird) <br/> <sup>by [khrykin](https://github.com/khrykin)</sup> | Single Oscillator synth| GPL-3.0|47|25 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[SN76489](https://github.com/FigBug/SN76489) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Sega Master System Sound Chip emulation| LGPL-2.1|37|4 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[SID](https://github.com/FigBug/SID) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Commodore 64 SID emulation| GPL-3.0|36|4 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Hera](https://github.com/jpcima/Hera) <br/> <sup>by [jpcima](https://github.com/jpcima)</sup> | Juno 60| GPL-3.0|36| 2 years<sub><sup>🟠</sup></sub>|
 |[bitKlavier](https://github.com/Princeton-CDH/bitKlavier) <br/> <sup>by [Princeton-CDH](https://github.com/Princeton-CDH)</sup> | Bitklavier is a digital prepared piano| GPL-3.0|32|2 months<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[drumlabooh](https://github.com/psemiletov/drumlabooh) <br/> <sup>by [psemiletov](https://github.com/psemiletov)</sup> | LV2/VSTi drum machine that can use Hydrogen, SFZ, and other drumkit formats| GPL-3.0|28|10 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[drumlabooh](https://github.com/psemiletov/drumlabooh) <br/> <sup>by [psemiletov](https://github.com/psemiletov)</sup> | LV2/VSTi drum machine that can use Hydrogen, SFZ, and other drumkit formats| GPL-3.0|28|11 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[VanillaJuce](https://github.com/getdunne/VanillaJuce) <br/> <sup>by [getdunne](https://github.com/getdunne)</sup> | Simple but complete VST2.4 + AUv2 synthesizer| MIT|27| 4 years<sub><sup>🔴</sup></sub>|
 |[SARAH](https://github.com/getdunne/SARAH) <br/> <sup>by [getdunne](https://github.com/getdunne)</sup> | SARAH: Harmonic-analysis based synthesizer| MIT|25| 1 year<sub><sup>🟠</sup></sub>|
-|[Voc](https://github.com/FigBug/Voc) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Vocal synth emulates glottis and shape of vocal tract| LGPL-2.1|25|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[RP2A03](https://github.com/FigBug/RP2A03) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Nintenodo RP2A03| LGPL-2.1|21|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[Voc](https://github.com/FigBug/Voc) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Vocal synth emulates glottis and shape of vocal tract| LGPL-2.1|25|4 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[RP2A03](https://github.com/FigBug/RP2A03) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Nintenodo RP2A03| LGPL-2.1|21|4 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[BatSynth](https://github.com/Emmet-Hayes/BatSynth) <br/> <sup>by [Emmet-Hayes](https://github.com/Emmet-Hayes)</sup> | 2 oscillators with 13 wave shapes| |12|6 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[BowedStringJUCE](https://github.com/SilvinWillemsen/BowedStringJUCE) <br/> <sup>by [SilvinWillemsen](https://github.com/SilvinWillemsen)</sup> | Bowed String| |9| 5 years<sub><sup>🔴</sup></sub>|
 |[blue-synthesiser](https://github.com/mariusz96/blue-synthesiser) <br/> <sup>by [mariusz96](https://github.com/mariusz96)</sup> | Bachelor's thesis "Sound synthesis based on audio samples as an VST3 instrument"| |8| 2 years<sub><sup>🟠</sup></sub>|
@@ -95,8 +95,8 @@ I make more JUCEy content over at https://melatonin.dev/blog
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
 |[typebeat](https://github.com/kofigumbs/typebeat) <br/> <sup>by [kofigumbs](https://github.com/kofigumbs)</sup> | MacOS only Rust-backed Keyboard sequencer, sampler, and synth| AGPL-3.0|410| 2 years<sub><sup>🟠</sup></sub>|
-|[shortcircuit-xt](https://github.com/surge-synthesizer/shortcircuit-xt) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Sampler| GPL-3.0|197| 23 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[vmpc-juce](https://github.com/izzyreal/vmpc-juce) <br/> <sup>by [izzyreal](https://github.com/izzyreal)</sup> | JUCE implementation of VMPC2000XL| GPL-3.0|73|18 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[shortcircuit-xt](https://github.com/surge-synthesizer/shortcircuit-xt) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Sampler| GPL-3.0|197|22 minutes<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[vmpc-juce](https://github.com/izzyreal/vmpc-juce) <br/> <sup>by [izzyreal](https://github.com/izzyreal)</sup> | JUCE implementation of VMPC2000XL| GPL-3.0|73|19 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[JUCE-AKSampler](https://github.com/getdunne/JUCE-AKSampler) <br/> <sup>by [getdunne](https://github.com/getdunne)</sup> | AudioKit AKSampler wrapped as a JUCE app/plug-in| GPL-3.0|28| 4 years<sub><sup>🔴</sup></sub>|
 |[Soompler](https://github.com/abbysoft-team/Soompler) <br/> <sup>by [abbysoft-team](https://github.com/abbysoft-team)</sup> | Soompler, a JUCE based sampler plugin| |27| 4 years<sub><sup>🔴</sup></sub>|
 |[CTAG-JUCE-Sampler](https://github.com/NiklasWan/CTAG-JUCE-Sampler) <br/> <sup>by [NiklasWan](https://github.com/NiklasWan)</sup> | CTAG JUCE sampler| |24| 4 years<sub><sup>🔴</sup></sub>|
@@ -108,38 +108,38 @@ I make more JUCEy content over at https://melatonin.dev/blog
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
-|[SmartGuitarAmp](https://github.com/GuitarML/SmartGuitarAmp) <br/> <sup>by [GuitarML](https://github.com/GuitarML)</sup> | Neural Network WaveNet modelled guitar amps| Apache-2.0|1189|11 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[SmartGuitarAmp](https://github.com/GuitarML/SmartGuitarAmp) <br/> <sup>by [GuitarML](https://github.com/GuitarML)</sup> | Neural Network WaveNet modelled guitar amps| Apache-2.0|1190|12 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[AnalogTapeModel](https://github.com/jatinchowdhury18/AnalogTapeModel) <br/> <sup>by [jatinchowdhury18](https://github.com/jatinchowdhury18)</sup> | Physical Modeling for Analog Tape Machines| GPL-3.0|999|5 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Fire](https://github.com/jerryuhoo/Fire) <br/> <sup>by [jerryuhoo](https://github.com/jerryuhoo)</sup> | A multi-band distortion plugin| AGPL-3.0|441| 1 year<sub><sup>🟠</sup></sub>|
-|[BYOD](https://github.com/Chowdhury-DSP/BYOD) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Build-Your-Own Guitar Distortion| GPL-3.0|396|6 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[BYOD](https://github.com/Chowdhury-DSP/BYOD) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Build-Your-Own Guitar Distortion| GPL-3.0|396|7 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[paulxstretch](https://github.com/essej/paulxstretch) <br/> <sup>by [essej](https://github.com/essej)</sup> | Extreme Timestretching application and plugin| other|379| 1 year<sub><sup>🟠</sup></sub>|
 |[ChowMatrix](https://github.com/Chowdhury-DSP/ChowMatrix) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Inifinitely growable tree of delay lines| BSD-3-Clause|275| 2 years<sub><sup>🟠</sup></sub>|
-|[SmartGuitarPedal](https://github.com/GuitarML/SmartGuitarPedal) <br/> <sup>by [GuitarML](https://github.com/GuitarML)</sup> | Neural Network WaveNet modelled guitar pedals| Apache-2.0|252| 1 year<sub><sup>🟠</sup></sub>|
-|[Maim](https://github.com/ArdenButterfield/Maim) <br/> <sup>by [ArdenButterfield](https://github.com/ArdenButterfield)</sup> | Audio plugin for custom MP3 distortion and digital glitches| GPL-3.0|176|5 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[SmartGuitarPedal](https://github.com/GuitarML/SmartGuitarPedal) <br/> <sup>by [GuitarML](https://github.com/GuitarML)</sup> | Neural Network WaveNet modelled guitar pedals| Apache-2.0|251| 1 year<sub><sup>🟠</sup></sub>|
+|[Maim](https://github.com/ArdenButterfield/Maim) <br/> <sup>by [ArdenButterfield](https://github.com/ArdenButterfield)</sup> | Audio plugin for custom MP3 distortion and digital glitches| GPL-3.0|177|5 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Schrammel_OJD](https://github.com/JanosGit/Schrammel_OJD) <br/> <sup>by [JanosGit](https://github.com/JanosGit)</sup> | Audio plugin model of a modern classic overdrive pedal| GPL-3.0|151| 2 years<sub><sup>🟠</sup></sub>|
 |[CTAGDRC](https://github.com/p-hlp/CTAGDRC) <br/> <sup>by [p-hlp](https://github.com/p-hlp)</sup> | An audio compressor plugin| GPL-3.0|146| 3 years<sub><sup>🔴</sup></sub>|
 |[mda-plugins-juce](https://github.com/hollance/mda-plugins-juce) <br/> <sup>by [hollance](https://github.com/hollance)</sup> | Old school MDA freeware plugins reimplemented in JUCE| other|104| 2 months<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[RoomReverb](https://github.com/cvde/RoomReverb) <br/> <sup>by [cvde](https://github.com/cvde)</sup> | Algorithmic reverb plugin| GPL-3.0|94|8 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[RoomReverb](https://github.com/cvde/RoomReverb) <br/> <sup>by [cvde](https://github.com/cvde)</sup> | Algorithmic reverb plugin| GPL-3.0|94|9 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[SimpleCompressor](https://github.com/DanielRudrich/SimpleCompressor) <br/> <sup>by [DanielRudrich](https://github.com/DanielRudrich)</sup> | Code and theory of a look-ahead compressor / limiter| GPL-3.0|91| 4 years<sub><sup>🔴</sup></sub>|
 |[simple-reverb](https://github.com/szkkng/simple-reverb) <br/> <sup>by [szkkng](https://github.com/szkkng)</sup> | Simple reverb| GPL-3.0|91|10 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[slPlugins](https://github.com/FigBug/slPlugins) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Large plugin collection from socalabs| BSD-3-Clause|83|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[vstSpleeter](https://github.com/gvne/vstSpleeter) <br/> <sup>by [gvne](https://github.com/gvne)</sup> | Uses JUCE and spleeterpp to run spleeter in c++| |62| 4 years<sub><sup>🔴</sup></sub>|
 |[PhaseVocoder](https://github.com/stekyne/PhaseVocoder) <br/> <sup>by [stekyne](https://github.com/stekyne)</sup> | Phase Vocoder| |62| 2 years<sub><sup>🟠</sup></sub>|
 |[NEL-19](https://github.com/Mrugalla/NEL-19) <br/> <sup>by [Mrugalla](https://github.com/Mrugalla)</sup> | High-fidelity random vibrato (windows only)| GPL-3.0|60|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[CHOW](https://github.com/Chowdhury-DSP/CHOW) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Digital Distortion| GPL-3.0|59| 4 years<sub><sup>🔴</sup></sub>|
+|[CHOW](https://github.com/Chowdhury-DSP/CHOW) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Digital Distortion| GPL-3.0|60| 4 years<sub><sup>🔴</sup></sub>|
 |[quantumVerb](https://github.com/QVbDev/quantumVerb) <br/> <sup>by [QVbDev](https://github.com/QVbDev)</sup> | Convolution Reverb| GPL-3.0|54| 6 years<sub><sup>🔴</sup></sub>|
 |[modEQ](https://github.com/tobanteAudio/modEQ) <br/> <sup>by [tobanteAudio](https://github.com/tobanteAudio)</sup> | EQ audio plugin with modulation| GPL-3.0|53| 4 years<sub><sup>🔴</sup></sub>|
 |[repitch](https://github.com/ellapollack/repitch) <br/> <sup>by [ellapollack](https://github.com/ellapollack)</sup> | MIDI controlled harmonizer| |53| 2 years<sub><sup>🟠</sup></sub>|
-|[vsts](https://github.com/unplugred/vsts) <br/> <sup>by [unplugred](https://github.com/unplugred)</sup> | A treasure trove of effects and other fun plugins| |44|14 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[vsts](https://github.com/unplugred/vsts) <br/> <sup>by [unplugred](https://github.com/unplugred)</sup> | A treasure trove of effects and other fun plugins| |44|15 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[anotherdelay](https://github.com/dllim/anotherdelay) <br/> <sup>by [dllim](https://github.com/dllim)</sup> | Tape Delay plugin with tape flutter, wow, and saturation emulation| MIT|38| 5 years<sub><sup>🔴</sup></sub>|
-|[crispy](https://github.com/spensbot/crispy) <br/> <sup>by [spensbot](https://github.com/spensbot)</sup> | Audio Saturation Plugin (VST/AU) made with JUCE| MIT|35| 3 years<sub><sup>🔴</sup></sub>|
-|[ZLEComp](https://github.com/ZL-Audio/ZLEComp) <br/> <sup>by [ZL-Audio](https://github.com/ZL-Audio)</sup> | Compressor plugin with gain reduction history| GPL-3.0|25|13 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[crispy](https://github.com/spensbot/crispy) <br/> <sup>by [spensbot](https://github.com/spensbot)</sup> | Audio Saturation Plugin (VST/AU) made with JUCE| MIT|36| 3 years<sub><sup>🔴</sup></sub>|
+|[ZLEComp](https://github.com/ZL-Audio/ZLEComp) <br/> <sup>by [ZL-Audio](https://github.com/ZL-Audio)</sup> | Compressor plugin with gain reduction history| GPL-3.0|26| 6 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[cStop](https://github.com/calgoheen/cStop) <br/> <sup>by [calgoheen](https://github.com/calgoheen)</sup> | Tape stop plugin with a few extra goodies| MIT|24|11 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[ZLEqualizer](https://github.com/ZL-Audio/ZLEqualizer) <br/> <sup>by [ZL-Audio](https://github.com/ZL-Audio)</sup> | 16-band minimum-phase dynamic equalizer| GPL-3.0|19| 6 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[SG-323](https://github.com/greyboxaudio/SG-323) <br/> <sup>by [greyboxaudio](https://github.com/greyboxaudio)</sup> | Authentic emulation of an Ursa Major Stargate 323 Reverb| GPL-3.0|17|6 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[JUCEVocoder](https://github.com/dbaylies/JUCEVocoder) <br/> <sup>by [dbaylies](https://github.com/dbaylies)</sup> | A simple vocoder plug-in with a built-in synthesis engine| |17| 3 years<sub><sup>🔴</sup></sub>|
-|[mverb](https://github.com/FigBug/mverb) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Dattorro’s figure-of-eight reverb| GPL-3.0|17|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[mverb](https://github.com/FigBug/mverb) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Dattorro’s figure-of-eight reverb| GPL-3.0|17|4 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[OvertoneFilter](https://github.com/lukemcraig/OvertoneFilter) <br/> <sup>by [lukemcraig](https://github.com/lukemcraig)</sup> | Emphasize MIDI-selected harmonics of an audio signal| |17| 4 years<sub><sup>🔴</sup></sub>|
-|[ZLEqualizer](https://github.com/ZL-Audio/ZLEqualizer) <br/> <sup>by [ZL-Audio](https://github.com/ZL-Audio)</sup> | 16-band minimum-phase dynamic equalizer| GPL-3.0|14|2 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[SMPLComp](https://github.com/p-hlp/SMPLComp) <br/> <sup>by [p-hlp](https://github.com/p-hlp)</sup> | A simplified version of the CTAGDRC audio compressor plugin| GPL-3.0|14| 3 years<sub><sup>🔴</sup></sub>|
 |[Filter](https://github.com/joonastuo/Filter) <br/> <sup>by [joonastuo](https://github.com/joonastuo)</sup> | A state variable filter plugin| |13| 5 years<sub><sup>🔴</sup></sub>|
 |[Delay](https://github.com/joonastuo/Delay) <br/> <sup>by [joonastuo](https://github.com/joonastuo)</sup> | Delay-effect plugin| |11| 5 years<sub><sup>🔴</sup></sub>|
@@ -174,16 +174,16 @@ I make more JUCEy content over at https://melatonin.dev/blog
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
-|[SendMIDI](https://github.com/gbevin/SendMIDI) <br/> <sup>by [gbevin](https://github.com/gbevin)</sup> | Cross-platform tool to send MIDI messages from the command line| GPL-3.0|640|4 days<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[ShowMIDI](https://github.com/gbevin/ShowMIDI) <br/> <sup>by [gbevin](https://github.com/gbevin)</sup> | Multi-platform GUI application to effortlessly visualize MIDI activity| GPL-3.0|392|2 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[SendMIDI](https://github.com/gbevin/SendMIDI) <br/> <sup>by [gbevin](https://github.com/gbevin)</sup> | Cross-platform tool to send MIDI messages from the command line| GPL-3.0|640|5 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[ShowMIDI](https://github.com/gbevin/ShowMIDI) <br/> <sup>by [gbevin](https://github.com/gbevin)</sup> | Multi-platform GUI application to effortlessly visualize MIDI activity| GPL-3.0|392|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[stochas](https://github.com/surge-synthesizer/stochas) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Probabilistic sequencer| GPL-3.0|392| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[ReceiveMIDI](https://github.com/gbevin/ReceiveMIDI) <br/> <sup>by [gbevin](https://github.com/gbevin)</sup> | Cross-platform tool to monitor and receive MIDI messages on the command line| GPL-3.0|280|7 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[ReceiveMIDI](https://github.com/gbevin/ReceiveMIDI) <br/> <sup>by [gbevin](https://github.com/gbevin)</sup> | Cross-platform tool to monitor and receive MIDI messages on the command line| GPL-3.0|280|8 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[KnobKraft-orm](https://github.com/christofmuc/KnobKraft-orm) <br/> <sup>by [christofmuc](https://github.com/christofmuc)</sup> | The free modern cross-platform MIDI Sysex Librarian| AGPL-3.0|173| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[ripchord](https://github.com/trackbout/ripchord) <br/> <sup>by [trackbout](https://github.com/trackbout)</sup> | Cross platform plugin to create and remix chord progressions| GPL-3.0|66| 2 years<sub><sup>🟠</sup></sub>|
 |[b-step](https://github.com/surge-synthesizer/b-step) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Chord sequencer| other|35|8 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[arpligner](https://github.com/YPares/arpligner) <br/> <sup>by [YPares](https://github.com/YPares)</sup> | Multi-track & polyphonic arpeggiator where both chords and arp patterns are live MIDI data| other|30|5 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Shuttertone](https://github.com/liamlacey/Shuttertone) <br/> <sup>by [liamlacey](https://github.com/liamlacey)</sup> | Uses colour data from images to generate music| GPL-3.0|22| 4 years<sub><sup>🔴</sup></sub>|
-|[Midi-Transposer](https://github.com/stfufane/Midi-Transposer) <br/> <sup>by [stfufane](https://github.com/stfufane)</sup> | Map chords to your MIDI bass pedal| MIT|21|9 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[Midi-Transposer](https://github.com/stfufane/Midi-Transposer) <br/> <sup>by [stfufane](https://github.com/stfufane)</sup> | Map chords to your MIDI bass pedal| MIT|21|10 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Topiary-Beatz](https://github.com/tomto66/Topiary-Beatz) <br/> <sup>by [tomto66](https://github.com/tomto66)</sup> | A MIDI drum pattern generator for live use| GPL-3.0|19| 1 year<sub><sup>🟠</sup></sub>|
 |[Scribe](https://github.com/CLeJack/Scribe) <br/> <sup>by [CLeJack](https://github.com/CLeJack)</sup> | Audio (guitar) to MIDI converter| |7| 2 years<sub><sup>🟠</sup></sub>|
 |[Topiary-Riffz](https://github.com/tomto66/Topiary-Riffz) <br/> <sup>by [tomto66](https://github.com/tomto66)</sup> | Plugin that can play MIDI files, assigned to keys, and transposed on a per key basis| GPL-3.0|1| 1 year<sub><sup>🟠</sup></sub>|
@@ -219,7 +219,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[juce_litehtml](https://github.com/Archie3d/juce_litehtml) <br/> <sup>by [Archie3d](https://github.com/Archie3d)</sup> | JUCE module that provides integration of the litehtml HTML/CSS rendering engine| |6| 2 years<sub><sup>🟠</sup></sub>|
 |[haydxn_juce_animation](https://github.com/jkoutavas/haydxn_juce_animation) <br/> <sup>by [jkoutavas](https://github.com/jkoutavas)</sup> | JUCE animation package originally contributed by 'haydxn'| MIT|5| 5 years<sub><sup>🔴</sup></sub>|
 |[bbcode-editor](https://github.com/SoundDevelopment/bbcode-editor) <br/> <sup>by [SoundDevelopment](https://github.com/SoundDevelopment)</sup> | TextEditor descendant that accepts BBCode| MIT|5| 2 years<sub><sup>🟠</sup></sub>|
-|[JuceHtmlTextEditor](https://github.com/ZioGuido/JuceHtmlTextEditor) <br/> <sup>by [ZioGuido](https://github.com/ZioGuido)</sup> | HTML parsing of the basic tags for formatting text and adding hyperlinks| |4|6 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[JuceHtmlTextEditor](https://github.com/ZioGuido/JuceHtmlTextEditor) <br/> <sup>by [ZioGuido](https://github.com/ZioGuido)</sup> | HTML parsing of the basic tags for formatting text and adding hyperlinks| |4|7 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[html_entity_decoder](https://github.com/asimilon/html_entity_decoder) <br/> <sup>by [asimilon](https://github.com/asimilon)</sup> | A simple HTML entity String decoder module for JUCE| BSL-1.0|2| 3 years<sub><sup>🟠</sup></sub>|
 
 ## Tooling & Debugging
@@ -229,7 +229,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[FRUT](https://github.com/McMartin/FRUT) <br/> <sup>by [McMartin](https://github.com/McMartin)</sup> | The OG way to setup CMake with JUCE (pre JUCE 6)| GPL-3.0|418|5 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[pluginval](https://github.com/Tracktion/pluginval) <br/> <sup>by [Tracktion](https://github.com/Tracktion)</sup> | Cross-platform plugin testing and validation| GPL-3.0|343| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[juce-toys](https://github.com/jcredland/juce-toys) <br/> <sup>by [jcredland](https://github.com/jcredland)</sup> | LLDB helpers. Comoponent, buffer and value tree debuggers and more| MIT|109| 1 year<sub><sup>🟠</sup></sub>|
-|[melatonin_inspector](https://github.com/sudara/melatonin_inspector) <br/> <sup>by [sudara](https://github.com/sudara)</sup> | Inspect your JUCE components ala Web Inspector| MIT|92|6 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[melatonin_inspector](https://github.com/sudara/melatonin_inspector) <br/> <sup>by [sudara](https://github.com/sudara)</sup> | Inspect your JUCE components ala Web Inspector| MIT|93|7 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[melatonin_audio_sparklines](https://github.com/sudara/melatonin_audio_sparklines) <br/> <sup>by [sudara](https://github.com/sudara)</sup> | Display audio as ASCII waveforms on the console and in your tests| MIT|89|7 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[DSP-Testbench](https://github.com/AndrewJJ/DSP-Testbench) <br/> <sup>by [AndrewJJ](https://github.com/AndrewJJ)</sup> | Test your dsp with signal sources, routing, analysis and monitoring| MIT|53|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 
@@ -237,12 +237,12 @@ I make more JUCEy content over at https://melatonin.dev/blog
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
-|[plugdata](https://github.com/plugdata-team/plugdata) <br/> <sup>by [plugdata-team](https://github.com/plugdata-team)</sup> | Pure Data as a plugin, with a new GUI| GPL-3.0|1250|2 months<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[Chataigne](https://github.com/benkuper/Chataigne) <br/> <sup>by [benkuper](https://github.com/benkuper)</sup> | Real-time communication and syncing with many other technologies| GPL-3.0|1027| 6 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[Camomile](https://github.com/pierreguillot/Camomile) <br/> <sup>by [pierreguillot](https://github.com/pierreguillot)</sup> | A meta-plugin that embeds Pure Data| GPL-3.0|869|29 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[plugdata](https://github.com/plugdata-team/plugdata) <br/> <sup>by [plugdata-team](https://github.com/plugdata-team)</sup> | Pure Data as a plugin, with a new GUI| GPL-3.0|1252|2 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[Chataigne](https://github.com/benkuper/Chataigne) <br/> <sup>by [benkuper](https://github.com/benkuper)</sup> | Real-time communication and syncing with many other technologies| GPL-3.0|1028|1 day<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[Camomile](https://github.com/pierreguillot/Camomile) <br/> <sup>by [pierreguillot](https://github.com/pierreguillot)</sup> | A meta-plugin that embeds Pure Data| GPL-3.0|869|30 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[HISE](https://github.com/christophhart/HISE) <br/> <sup>by [christophhart](https://github.com/christophhart)</sup> | The open source framework for sample based instruments| other|832|6 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[react-juce](https://github.com/JoshMarler/react-juce) <br/> <sup>by [JoshMarler](https://github.com/JoshMarler)</sup> | Cross-platform native apps with React.js and JUCE| MIT|741| 2 years<sub><sup>🟠</sup></sub>|
-|[cabbage](https://github.com/rorywalsh/cabbage) <br/> <sup>by [rorywalsh](https://github.com/rorywalsh)</sup> | Framework for developing plugins with the Csound programming language| GPL-3.0|488| 1 hour<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[cabbage](https://github.com/rorywalsh/cabbage) <br/> <sup>by [rorywalsh](https://github.com/rorywalsh)</sup> | Framework for developing plugins with the Csound programming language| GPL-3.0|488| 23 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[ysfx](https://github.com/jpcima/ysfx) <br/> <sup>by [jpcima](https://github.com/jpcima)</sup> | JSFX hosting library incl. example plugin| Apache-2.0|149| 1 year<sub><sup>🟠</sup></sub>|
 |[plugincollider](https://github.com/asb2m10/plugincollider) <br/> <sup>by [asb2m10](https://github.com/asb2m10)</sup> | Plugin that embeds SuperCollider| GPL-3.0|53| 2 years<sub><sup>🟠</sup></sub>|
 |[AudioTK](https://github.com/AudioTK/AudioTK) <br/> <sup>by [AudioTK](https://github.com/AudioTK)</sup> | An audio digital processing toolbox based on a workflow/pipeline principle| BSD-3-Clause|44| 3 years<sub><sup>🔴</sup></sub>|
@@ -252,7 +252,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
-|[faust](https://github.com/grame-cncm/faust) <br/> <sup>by [grame-cncm](https://github.com/grame-cncm)</sup> | JUCE standalone app and plugin exporter for Faust DSP library| other|2387|2 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[faust](https://github.com/grame-cncm/faust) <br/> <sup>by [grame-cncm](https://github.com/grame-cncm)</sup> | JUCE standalone app and plugin exporter for Faust DSP library| other|2388|3 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Audio-Effects](https://github.com/juandagilc/Audio-Effects) <br/> <sup>by [juandagilc](https://github.com/juandagilc)</sup> | Collection of Audio Effects examples from a book| |656| 3 years<sub><sup>🔴</sup></sub>|
 |[signalsmith-stretch](https://github.com/Signalsmith-Audio/signalsmith-stretch) <br/> <sup>by [Signalsmith-Audio](https://github.com/Signalsmith-Audio)</sup> | Polyphonic pitch/time algorithm| MIT|192| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[dsp](https://github.com/Signalsmith-Audio/dsp) <br/> <sup>by [Signalsmith-Audio](https://github.com/Signalsmith-Audio)</sup> | Signalsmith's library of DSP utilities and classes| MIT|142| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
@@ -275,7 +275,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
-|[guidolib](https://github.com/grame-cncm/guidolib) <br/> <sup>by [grame-cncm](https://github.com/grame-cncm)</sup> | Music notation format, score rendering engine and various music score utilities| MPL-2.0|143|1 day<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[guidolib](https://github.com/grame-cncm/guidolib) <br/> <sup>by [grame-cncm](https://github.com/grame-cncm)</sup> | Music notation format, score rendering engine and various music score utilities| MPL-2.0|143|2 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[belle](https://github.com/andibrae/belle) <br/> <sup>by [andibrae](https://github.com/andibrae)</sup> | Music notation rendering library. Outputs to PDF, JUCE, Core Graphics, MIDI, etc.| |87| 1 year<sub><sup>🟠</sup></sub>|
 |[jackel](https://github.com/nberr/jackel) <br/> <sup>by [nberr](https://github.com/nberr)</sup> | Negative harmony application| other|16| 1 year<sub><sup>🟠</sup></sub>|
 |[foleys_musicology](https://github.com/ffAudio/foleys_musicology) <br/> <sup>by [ffAudio](https://github.com/ffAudio)</sup> | Music theory and score editing/rendering| |7| 3 years<sub><sup>🔴</sup></sub>|
@@ -293,7 +293,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
 |[CustomMatPlot](https://github.com/franshej/CustomMatPlot) <br/> <sup>by [franshej](https://github.com/franshej)</sup> | MatPlotLib implementation in JUCE| MIT|58| 2 months<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[foleys_video_engine](https://github.com/ffAudio/foleys_video_engine) <br/> <sup>by [ffAudio](https://github.com/ffAudio)</sup> | A video engine to load, play, assemble and write video| other|49|5 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[foleys_video_engine](https://github.com/ffAudio/foleys_video_engine) <br/> <sup>by [ffAudio](https://github.com/ffAudio)</sup> | A video engine to load, play, assemble and write video| other|50|5 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[imgui_juce](https://github.com/Krasjet/imgui_juce) <br/> <sup>by [Krasjet](https://github.com/Krasjet)</sup> | Dear ImGui backend for JUCE| LGPL-3.0|31| 1 year<sub><sup>🟠</sup></sub>|
 |[vulkan-cpp-library](https://github.com/parawave/vulkan-cpp-library) <br/> <sup>by [parawave](https://github.com/parawave)</sup> | Windows 10 Vulkan support for JUCE 6| other|21| 3 years<sub><sup>🟠</sup></sub>|
 |[juce_bgfx](https://github.com/Archie3d/juce_bgfx) <br/> <sup>by [Archie3d](https://github.com/Archie3d)</sup> | bgfx rendering example for JUCE| |15| 2 years<sub><sup>🟠</sup></sub>|
@@ -328,21 +328,21 @@ I make more JUCEy content over at https://melatonin.dev/blog
 | :--- | :--- | :---: | :---: | ---: |
 |[synth-plugin-book](https://github.com/hollance/synth-plugin-book) <br/> <sup>by [hollance](https://github.com/hollance)</sup> | Source code for the book "Code Your Own Synth Plug-Ins With C++ and JUCE"| MIT|156|4 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[juce-cookbook](https://github.com/tobanteAudio/juce-cookbook) <br/> <sup>by [tobanteAudio](https://github.com/tobanteAudio)</sup> | JUCE Cookbook| other|104| 4 years<sub><sup>🔴</sup></sub>|
-|[juceSynthFramework](https://github.com/TheAudioProgrammer/juceSynthFramework) <br/> <sup>by [TheAudioProgrammer](https://github.com/TheAudioProgrammer)</sup> | Build a JUCE synth step by step with Josh| |68| 5 years<sub><sup>🔴</sup></sub>|
+|[juceSynthFramework](https://github.com/TheAudioProgrammer/juceSynthFramework) <br/> <sup>by [TheAudioProgrammer](https://github.com/TheAudioProgrammer)</sup> | Build a JUCE synth step by step with Josh| |67| 5 years<sub><sup>🔴</sup></sub>|
 |[audio-effects](https://github.com/getdunne/audio-effects) <br/> <sup>by [getdunne](https://github.com/getdunne)</sup> | Revised versions of Reiss and McPherson's "Audio Effects" examples| GPL-3.0|56| 4 years<sub><sup>🔴</sup></sub>|
 |[audio-dsp](https://github.com/prayash/audio-dsp) <br/> <sup>by [prayash](https://github.com/prayash)</sup> | Playing around with audio plugin development and DSP| |40| 4 years<sub><sup>🔴</sup></sub>|
 |[plugex](https://github.com/belangeo/plugex) <br/> <sup>by [belangeo](https://github.com/belangeo)</sup> | PLUGin EXamples made with JUCE| LGPL-3.0|30| 4 years<sub><sup>🔴</sup></sub>|
-|[plugin-ci-example](https://github.com/jatinchowdhury18/plugin-ci-example) <br/> <sup>by [jatinchowdhury18](https://github.com/jatinchowdhury18)</sup> | JUCE plugin CI examples for Gitlab, GitHub, Azure| BSD-3-Clause|20| 1 year<sub><sup>🟠</sup></sub>|
+|[plugin-ci-example](https://github.com/jatinchowdhury18/plugin-ci-example) <br/> <sup>by [jatinchowdhury18](https://github.com/jatinchowdhury18)</sup> | JUCE plugin CI examples for Gitlab, GitHub, Azure| BSD-3-Clause|20| 2 years<sub><sup>🟠</sup></sub>|
 |[Juce-Simples-Exemples](https://github.com/nseaSeb/Juce-Simples-Exemples) <br/> <sup>by [nseaSeb](https://github.com/nseaSeb)</sup> | Simples Juce Exemples| GPL-3.0|9| 4 years<sub><sup>🔴</sup></sub>|
 
 ## Hosts & DAWs
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
-|[pedalboard](https://github.com/spotify/pedalboard) <br/> <sup>by [spotify](https://github.com/spotify)</sup> | A Python library and host for manipulating audio| GPL-3.0|4788|6 days<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[tracktion_engine](https://github.com/Tracktion/tracktion_engine) <br/> <sup>by [Tracktion](https://github.com/Tracktion)</sup> | The one, the only, the engine that JUCE was once extracted from| other|1052|28 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[pedalboard](https://github.com/spotify/pedalboard) <br/> <sup>by [spotify](https://github.com/spotify)</sup> | A Python library and host for manipulating audio| GPL-3.0|4788| 16 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[tracktion_engine](https://github.com/Tracktion/tracktion_engine) <br/> <sup>by [Tracktion](https://github.com/Tracktion)</sup> | The one, the only, the engine that JUCE was once extracted from| other|1053|29 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[element](https://github.com/kushview/element) <br/> <sup>by [kushview](https://github.com/kushview)</sup> | The audio plugin host that isn't a DAW!| |999| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[DawDreamer](https://github.com/DBraun/DawDreamer) <br/> <sup>by [DBraun](https://github.com/DBraun)</sup> | Python DAW with full cross platform support| GPL-3.0|797|4 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[DawDreamer](https://github.com/DBraun/DawDreamer) <br/> <sup>by [DBraun](https://github.com/DBraun)</sup> | Python DAW with full cross platform support| GPL-3.0|799|4 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[RenderMan](https://github.com/fedden/RenderMan) <br/> <sup>by [fedden](https://github.com/fedden)</sup> | Interactive "command line" host backed by Maximilian| Unlicense|345| 2 years<sub><sup>🟠</sup></sub>|
 |[OwlPlug](https://github.com/DropSnorz/OwlPlug) <br/> <sup>by [DropSnorz](https://github.com/DropSnorz)</sup> | Cross-platform plugin manager| GPL-3.0|246| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Plugalyzer](https://github.com/CrushedPixel/Plugalyzer) <br/> <sup>by [CrushedPixel](https://github.com/CrushedPixel)</sup> | Command-line VST3, AU and LADSPA plugin host for easier debugging of audio plugins| GPL-3.0|66| 2 months<sub><sup>󠀠󠀠🟢</sup></sub>|
@@ -352,9 +352,9 @@ I make more JUCEy content over at https://melatonin.dev/blog
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
-|[MIDI2LR](https://github.com/rsjaffe/MIDI2LR) <br/> <sup>by [rsjaffe](https://github.com/rsjaffe)</sup> | An application and plugin to remotely control Lightroom via MIDI| GPL-3.0|667| 22 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[popsicle](https://github.com/kunitoki/popsicle) <br/> <sup>by [kunitoki](https://github.com/kunitoki)</sup> | Bridging JUCE to python| other|146|29 days<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[clap-juce-extensions](https://github.com/free-audio/clap-juce-extensions) <br/> <sup>by [free-audio](https://github.com/free-audio)</sup> | CLAP plugin support| MIT|126|18 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[MIDI2LR](https://github.com/rsjaffe/MIDI2LR) <br/> <sup>by [rsjaffe](https://github.com/rsjaffe)</sup> | An application and plugin to remotely control Lightroom via MIDI| GPL-3.0|667|2 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[popsicle](https://github.com/kunitoki/popsicle) <br/> <sup>by [kunitoki](https://github.com/kunitoki)</sup> | Bridging JUCE to python| other|146|30 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[clap-juce-extensions](https://github.com/free-audio/clap-juce-extensions) <br/> <sup>by [free-audio](https://github.com/free-audio)</sup> | CLAP plugin support| MIT|126|19 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[luce](https://github.com/peersuasive/luce) <br/> <sup>by [peersuasive](https://github.com/peersuasive)</sup> | LUA GUI module (unmaintained)| |123| 7 years<sub><sup>🔴</sup></sub>|
 |[JucyFluttering](https://github.com/audiooffler/JucyFluttering) <br/> <sup>by [audiooffler](https://github.com/audiooffler)</sup> | Flutter for iOS and Android frontend| GPL-3.0|108| 3 years<sub><sup>🔴</sup></sub>|
 |[osmid](https://github.com/llloret/osmid) <br/> <sup>by [llloret](https://github.com/llloret)</sup> | MIDI <-> OSC conversion used by Sonic Pi| other|70| 4 years<sub><sup>🔴</sup></sub>|
@@ -365,7 +365,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[freesound-juce](https://github.com/MTG/freesound-juce) <br/> <sup>by [MTG](https://github.com/MTG)</sup> | Freesound.org API implementation| MIT|26| 2 years<sub><sup>🟠</sup></sub>|
 |[qt_with_juce_example](https://github.com/nikeocom/qt_with_juce_example) <br/> <sup>by [nikeocom](https://github.com/nikeocom)</sup> | Example project using Qt and JUCE together| |21| 4 years<sub><sup>🔴</sup></sub>|
 |[juce_meets_link](https://github.com/COx2/juce_meets_link) <br/> <sup>by [COx2](https://github.com/COx2)</sup> | An integration example of Ableton Link with JUCE| GPL-3.0|19| 2 years<sub><sup>🟠</sup></sub>|
-|[aap-juce](https://github.com/atsushieno/aap-juce) <br/> <sup>by [atsushieno](https://github.com/atsushieno)</sup> | Android Audio Plugin (AAP) support with lots of plugin ports| GPL-3.0|14|15 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[aap-juce](https://github.com/atsushieno/aap-juce) <br/> <sup>by [atsushieno](https://github.com/atsushieno)</sup> | Android Audio Plugin (AAP) support with lots of plugin ports| GPL-3.0|14|16 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[jlv2](https://github.com/lvtk/jlv2) <br/> <sup>by [lvtk](https://github.com/lvtk)</sup> | LV2 plugin hosting| other|12| 1 year<sub><sup>🟠</sup></sub>|
 |[FreesoundSimpleSampler](https://github.com/ffont/FreesoundSimpleSampler) <br/> <sup>by [ffont](https://github.com/ffont)</sup> | Sampler plugin which demonstrates the Freesound-JUCE API client| GPL-3.0|11| 4 years<sub><sup>🔴</sup></sub>|
 |[juce_meets_DaisySP](https://github.com/COx2/juce_meets_DaisySP) <br/> <sup>by [COx2](https://github.com/COx2)</sup> | Example of integration of DaisySP and JUCE| MIT|10| 2 years<sub><sup>🟠</sup></sub>|
@@ -404,18 +404,18 @@ I make more JUCEy content over at https://melatonin.dev/blog
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
-|[sonobus](https://github.com/sonosaurus/sonobus) <br/> <sup>by [sonosaurus](https://github.com/sonosaurus)</sup> | Real-time network audio streaming collaboration tool| GPL-3.0|1380|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[sonobus](https://github.com/sonosaurus/sonobus) <br/> <sup>by [sonosaurus](https://github.com/sonosaurus)</sup> | Real-time network audio streaming collaboration tool| GPL-3.0|1381|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[audiogridder](https://github.com/apohl79/audiogridder) <br/> <sup>by [apohl79](https://github.com/apohl79)</sup> | Offload dsp processing to remote computers| MIT|712|9 months<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[JammerNetz](https://github.com/christofmuc/JammerNetz) <br/> <sup>by [christofmuc](https://github.com/christofmuc)</sup> | Host a jam session over the internet| AGPL-3.0|48|25 days<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[juce_bluetooth](https://github.com/genkiinstruments/juce_bluetooth) <br/> <sup>by [genkiinstruments](https://github.com/genkiinstruments)</sup> | Bluetooth LE module for MacOS and Windows| MIT|18|10 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[JammerNetz](https://github.com/christofmuc/JammerNetz) <br/> <sup>by [christofmuc](https://github.com/christofmuc)</sup> | Host a jam session over the internet| AGPL-3.0|48|26 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[juce_bluetooth](https://github.com/genkiinstruments/juce_bluetooth) <br/> <sup>by [genkiinstruments](https://github.com/genkiinstruments)</sup> | Bluetooth LE module for MacOS and Windows| MIT|18|11 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 
 ## Forks
 
 | repo | description | license | ⭐️ | updated |
 | :--- | :--- | :---: | :---: | ---: |
 |[JUCE_ARA](https://github.com/Celemony/JUCE_ARA) <br/> <sup>by [Celemony](https://github.com/Celemony)</sup> | JUCE fork that provides Audio Random Access (ARA) support| other|40| 1 year<sub><sup>🟠</sup></sub>|
-|[JUCE](https://github.com/soundradix/JUCE) <br/> <sup>by [soundradix](https://github.com/soundradix)</sup> | Fork with AAX AudioSuite support and other features and fixes| other|21|16 days<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[JUCE](https://github.com/soundradix/JUCE) <br/> <sup>by [soundradix](https://github.com/soundradix)</sup> | Fork with AAX AudioSuite support and other features and fixes| other|21|17 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[juce_emscripten](https://github.com/Casperaki/juce_emscripten) <br/> <sup>by [Casperaki](https://github.com/Casperaki)</sup> | Port of JUCE for the browser via Emscripten (maintained)| other|7| 1 year<sub><sup>🟠</sup></sub>|
 
 
-278 entries as of 2024-03-21
+278 entries as of 2024-03-22
