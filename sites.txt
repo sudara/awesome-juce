@@ -65,6 +65,7 @@ https://github.com/DanielRudrich/BeatAligningGuitarLooper A guitar looper which 
 https://github.com/FigBug/Wavetable A 2 oscillator wavetable synth with flexible modulation options
 https://github.com/psemiletov/drumlabooh LV2/VSTi drum machine that can use Hydrogen, SFZ, and other drumkit formats
 https://github.com/dan-german/blocks Simplified modular synth
+https://github.com/gregrecco67/AudiblePlanets An expressive, quasi-Ptolemaic semi-modular synthesizer
 
 ## Samplers
 
