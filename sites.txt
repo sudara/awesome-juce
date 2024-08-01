@@ -196,6 +196,7 @@ https://github.com/sudara/melatonin_inspector Inspect your JUCE components ala W
 https://github.com/sudara/melatonin_audio_sparklines Display audio as ASCII waveforms on the console and in your tests
 https://github.com/McMartin/FRUT The OG way to setup CMake with JUCE (pre JUCE 6)
 https://github.com/AndrewJJ/DSP-Testbench Test your dsp with signal sources, routing, analysis and monitoring
+https://github.com/soundspear/formula VST and AU plugin to live code and test effects inside your DAW
 
 ## Frameworks
 
