@@ -186,7 +186,8 @@ https://github.com/asimilon/html_entity_decoder A simple HTML entity String deco
 https://github.com/jkoutavas/haydxn_juce_animation JUCE animation package originally contributed by 'haydxn'
 https://github.com/getdunne/juce-draggableListBox JUCE ListBox whose items can be reordered by drag-and-drop
 https://github.com/MNSignalProcessing/BarelyML Markdown-inspired markup for JUCE
-https://github.com/sudara/melatonin_blur Fast cross-platform CPU blurs and drop/inner shadows for JUCE 
+https://github.com/sudara/melatonin_blur Fast cross-platform CPU blurs and drop/inner shadows for JUCE
+https://github.com/Kiberchaika/juce_murka A lightweight GPU-accelerated library inspired from ImGui for interactive audio plugin UI design for JUCE
 
 ## Tooling & Debugging
 
