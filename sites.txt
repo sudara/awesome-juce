@@ -133,6 +133,7 @@ https://github.com/ZL-Audio/ZLEComp Compressor plugin with gain reduction histor
 https://github.com/ArdenButterfield/Maim Audio plugin for custom MP3 distortion and digital glitches
 https://github.com/ZL-Audio/ZLEqualizer 16-band minimum-phase dynamic equalizer
 https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
+https://github.com/tote-bag-labs/valentine An open source compressor meant to pump and breathe
 
 ## Metering 
 
