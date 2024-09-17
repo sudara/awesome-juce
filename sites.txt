@@ -331,6 +331,7 @@ https://github.com/jatinchowdhury18/KlonCentaur Analog guitar pedal emulation us
 https://github.com/magenta/ddsp-vst Realtime DDSP Neural Synthesizer and Effect
 https://github.com/csteinmetz1/micro-tcn Efficient real-time modeling of analog dynamic range compression
 https://github.com/Torsion-Audio/Scyclone Real-time Neural Timbre Transfer plugin based on RAVE
+https://github.com/greynewell/musegpt Local LLMs in your DAW in VST, AU, AAX with llama.cpp
 
 ## Hardware
 
