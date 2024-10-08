@@ -45,6 +45,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[juce-plugin-ci](https://github.com/ellapollack/juce-plugin-ci) <br/> <sup>by [ellapollack](https://github.com/ellapollack)</sup> | (Archived) CI for JUCE audio plugins with GitHub Actions| |60| 1 year<sub><sup>🟠</sup></sub>|
 |[JUCE-CMake-Plugin-Template](https://github.com/anthonyalfimov/JUCE-CMake-Plugin-Template) <br/> <sup>by [anthonyalfimov](https://github.com/anthonyalfimov)</sup> | Audio Plugin Template on GitHub Actions| MIT|48|12 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[juce-template](https://github.com/nberr/juce-template) <br/> <sup>by [nberr](https://github.com/nberr)</sup> | "Everything but the processing" template supporting Rust DSP| MIT|29|4 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[JUCE-ConsoleApp](https://github.com/eyalamirmusic/JUCE-ConsoleApp) <br/> <sup>by [eyalamirmusic](https://github.com/eyalamirmusic)</sup> | A JUCE example for CLI/console app along with the message thread| |3|4 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 
 ## Instruments
 
@@ -424,4 +425,4 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[juce_emscripten](https://github.com/Casperaki/juce_emscripten) <br/> <sup>by [Casperaki](https://github.com/Casperaki)</sup> | Port of JUCE for the browser via Emscripten (maintained)| other|8| 2 years<sub><sup>🟠</sup></sub>|
 
 
-284 entries as of 2024-10-08
+285 entries as of 2024-10-08
