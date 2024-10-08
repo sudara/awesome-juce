@@ -23,6 +23,7 @@ https://github.com/tomoyanonymous/juce_cmake_vscode_example Boilerplate for deve
 https://github.com/ncblair/NTHN_TEMPLATE_PLUGIN Audio Plugin CMake Template with a focus on Parameters and State Management
 https://github.com/JanWilczek/audio-plugin-template C++23, JUCE, CPM, googletest on GitHub Actions 
 https://github.com/Torsion-Audio/nn-inference-template Neural network inference template for TensorFlow Lite, LibTorch, ONNX Runtime
+https://github.com/eyalamirmusic/JUCE-ConsoleApp A JUCE example for CLI/console app along with the message thread
 
 ## Instruments
 
