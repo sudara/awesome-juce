@@ -79,6 +79,7 @@ https://github.com/DBraun/Sampler A sampler made with JUCE
 https://github.com/onereddogmedia/streaming_sampler Extension to JUCE's Sampler class which enables disk streaming
 https://github.com/getdunne/JUCE-AKSampler AudioKit AKSampler wrapped as a JUCE app/plug-in
 https://github.com/izzyreal/vmpc-juce JUCE implementation of VMPC2000XL
+https://github.com/BOBONA/Just-a-Sample A *modern* audio sampler, focused on simplicity and ease of use
 
 ## Effects 
 
