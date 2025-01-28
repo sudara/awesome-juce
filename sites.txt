@@ -160,6 +160,7 @@ https://github.com/tomto66/Topiary-Presetz Plugin that lets you define "variatio
 https://gitlab.com/LibreArp/LibreArp Pattern-based arpeggiator
 https://github.com/YPares/arpligner Multi-track & polyphonic arpeggiator where both chords and arp patterns are live MIDI data
 https://github.com/gbevin/ShowMIDI Multi-platform GUI application to effortlessly visualize MIDI activity
+https://github.com/lars-erik/Midi-Hero Plugin that gamifies timing practice. Times MIDI notes against grid and shows realtime score.
 
 ## Microtuning
 
