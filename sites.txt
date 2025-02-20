@@ -135,6 +135,7 @@ https://github.com/ArdenButterfield/Maim Audio plugin for custom MP3 distortion 
 https://github.com/ZL-Audio/ZLEqualizer 16-band minimum-phase dynamic equalizer
 https://github.com/tote-bag-labs/valentine An open source compressor meant to pump and breathe
 https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
+https://github.com/lukasz1podgorski/StereoSanctionMultiFX MultiFX based on fractional delay line and distortion algorithms.
 
 ## Metering 
 
