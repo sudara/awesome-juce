@@ -92,6 +92,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[additive-synth](https://github.com/jsvaldezv/additive-synth) <br/> <sup>by [jsvaldezv](https://github.com/jsvaldezv)</sup> | Additive synthesis plug-in with two oscillators and two LFO modulations| MIT|2| 1 year<sub><sup>🟠</sup></sub>|
 |[banana-split](https://github.com/jsvaldezv/banana-split) <br/> <sup>by [jsvaldezv](https://github.com/jsvaldezv)</sup> | Two part project with a FM Synthesiser plug-in and a MIDI controller built with Arduino| MIT|1|9 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 
+|[ripplerx](https://github.com/tiagolr/ripplerx.git) <br/> <sup>by [tiagolr](https://github.com/tiagolr)</sup> | RipplerX is a physically modeled synth, capable of sounds similar to AAS Chromaphone and Ableton Collision. |GGPL-3.0|212|19 hours<sub><sup>󠀠󠀠🟢</sup></sub>|
 ## Samplers
 
 | repo | description | license | ⭐️ | updated |
