@@ -62,7 +62,7 @@ File.open('sites.txt') do |file|
         name_and_repo, description = entry.split(' ', 2) 
         begin 
           repo = client.repo(name_and_repo)
-          license = repo.license.nil? ? "" : repo.license[:name].gsub('NOASSERTION',"other")
+          license = repo.license.nil? ? "" : repo.license[:spdx_id].gsub('NOASSERTION', "other")
           last_committed_at = client.commits(name_and_repo).first[:commit][:committer][:date]
           status = case
             when last_committed_at > 1.year.ago 

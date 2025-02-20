@@ -1,4 +1,4 @@
-## Module Collections & Libraries
+## Modules & Plugin Collections
 
 https://github.com/benthevining/Lemons Collection of modules, including DMX, OSC, PLOSA
 https://github.com/FigBug/Gin Massive collection of extras, including StackBlur, Websockets, Maps, etc
@@ -8,18 +8,22 @@ https://github.com/christofmuc/juce-utils MIDI, i18n, and other helper classes b
 https://github.com/ImJimmi/JUMP Metering and utility classes built on top of JUCE
 https://github.com/ElandaSunshine/Jaut Collection of lower level modules complementing JUCE
 https://github.com/Chowdhury-DSP/chowdsp_utils Large collection of utilities including dsp, presets, json
-https://github.com/drowaudio/drowaudio Older, but very large collection of utilities by the Tracktion superstar 
+https://github.com/drowaudio/drowaudio Older but large collection of utilities by the Tracktion superstar 
 https://github.com/spensbot/stm-juce-modules Collection of Modules for use with JUCE
 https://github.com/adamski/stk_wrapper JUCE wrapper module for the Synthesis ToolKit (STK) library
 
 ## Templates
 
-https://github.com/sudara/pamplejuce JUCE, CMake, Catch2, Pluginval on GitHub Actions
-https://github.com/eyalamirmusic/JUCECmakeRepoPrototype Large variety of JUCE 6 and CMake plugin and app templates
-https://github.com/maxwellpollack/juce-plugin-ci Cross-platform CI for JUCE audio plugins with GitHub Actions
+https://github.com/sudara/pamplejuce C++20, JUCE, CMake, Catch2, Pluginval on GitHub Actions
+https://github.com/eyalamirmusic/JUCECmakeRepoPrototype Large variety of JUCE and CMake plugin and app templates
+https://github.com/maxwellpollack/juce-plugin-ci (Archived) CI for JUCE audio plugins with GitHub Actions
 https://github.com/anthonyalfimov/JUCE-CMake-Plugin-Template Audio Plugin Template on GitHub Actions
 https://github.com/nberr/juce-template "Everything but the processing" template supporting Rust DSP
 https://github.com/tomoyanonymous/juce_cmake_vscode_example Boilerplate for developing plugins with JUCE, CMake & VSCode
+https://github.com/ncblair/NTHN_TEMPLATE_PLUGIN Audio Plugin CMake Template with a focus on Parameters and State Management
+https://github.com/JanWilczek/audio-plugin-template C++23, JUCE, CPM, googletest on GitHub Actions 
+https://github.com/Torsion-Audio/nn-inference-template Neural network inference template for TensorFlow Lite, LibTorch, ONNX Runtime
+https://github.com/eyalamirmusic/JUCE-ConsoleApp A JUCE example for CLI/console app along with the message thread
 
 ## Instruments
 
@@ -39,7 +43,7 @@ https://github.com/asb2m10/dexed Yamaha DX7 FM multi patform / multi format plug
 https://github.com/reales/OB-Xd Virtual Analog modelled Oberheim OB-X with a few extras
 https://github.com/jpcima/ADLplug 2 FM synths based on OPL3 and OPN2 sound chip emulations
 https://github.com/TheWaveWarden/odin2  24-voice polyphonic synth with filter emulations and modulation matrix
-https://github.com/jpcima/Hera June 60
+https://github.com/jpcima/Hera Juno 60
 https://github.com/Archie3d/aeolus_plugin Pipe organ emulator VST/AU
 https://github.com/helio-fm/helio-workstation One music sequencer for all major platforms, desktop and mobile
 https://github.com/yokemura/Magical8bitPlug2 8-bit gaming console synth
@@ -59,6 +63,10 @@ https://github.com/SilvinWillemsen/BowedStringJUCE Bowed String
 https://github.com/w-frank/juce-string-model Realistic string instrument model using physical modelling and includes a delay line
 https://github.com/w-frank/juce-synth A MIDI controlled subtractive synthesiser built using JUCE and the Maximillian library
 https://github.com/DanielRudrich/BeatAligningGuitarLooper A guitar looper which detects the tempo and plays along a rudimentary drumbeat
+https://github.com/FigBug/Wavetable A 2 oscillator wavetable synth with flexible modulation options
+https://github.com/psemiletov/drumlabooh LV2/VSTi drum machine that can use Hydrogen, SFZ, and other drumkit formats
+https://github.com/dan-german/blocks Simplified modular synth
+https://github.com/gregrecco67/AudiblePlanets An expressive, quasi-Ptolemaic semi-modular synthesizer
 
 ## Samplers
 
@@ -119,14 +127,21 @@ https://github.com/DanielRudrich/ABComparisonPlugin An audio-plugin for multi-ch
 https://github.com/tobanteAudio/modEQ EQ audio plugin with modulation
 https://github.com/dllim/anotherdelay Tape Delay plugin with tape flutter, wow, and saturation emulation 
 https://github.com/dbaylies/JUCEVocoder A simple vocoder plug-in with a built-in synthesis engine
-https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
 https://github.com/ravettel/SG-323 Authentic emulation of an Ursa Major Stargate 323 Reverb
+https://github.com/calgoheen/cStop Tape stop plugin with a few extra goodies
+https://github.com/unplugred/vsts A treasure trove of effects and other fun plugins
+https://github.com/ZL-Audio/ZLEComp Compressor plugin with gain reduction history
+https://github.com/ArdenButterfield/Maim Audio plugin for custom MP3 distortion and digital glitches
+https://github.com/ZL-Audio/ZLEqualizer 16-band minimum-phase dynamic equalizer
+https://github.com/tote-bag-labs/valentine An open source compressor meant to pump and breathe
+https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
 
 ## Metering 
 
 https://github.com/ffAudio/Frequalizer Equalizer using JUCE's dsp module
 https://github.com/ffAudio/ff_meters LED meters for JUCE audio buffers
 https://github.com/SoundDevelopment/sound_meter Resizable efficient peak meters
+https://github.com/SmEgDm/equalize_it 12-band parametric EQ
 
 ## Midi 
 
@@ -143,6 +158,8 @@ https://github.com/tomto66/Topiary-Beatz A MIDI drum pattern generator for live 
 https://github.com/tomto66/Topiary-Riffz Plugin that can play MIDI files, assigned to keys, and transposed on a per key basis 
 https://github.com/tomto66/Topiary-Presetz Plugin that lets you define "variations" of settings of "parameters" and output as Midi
 https://gitlab.com/LibreArp/LibreArp Pattern-based arpeggiator
+https://github.com/YPares/arpligner Multi-track & polyphonic arpeggiator where both chords and arp patterns are live MIDI data
+https://github.com/gbevin/ShowMIDI Multi-platform GUI application to effortlessly visualize MIDI activity
 
 ## Microtuning
 
@@ -156,6 +173,7 @@ https://github.com/surge-synthesizer/tuning-workbench-synth Simple microtonal sy
 
 https://github.com/szkkng/modern-dial Nice clean example of a rotary "slider"
 https://github.com/szkkng/numberbox Clean Ableton style "slider" with tutorial
+https://github.com/ImJimmi/JIVE Build flexible GUIs using declarative markup
 https://github.com/ffAudio/foleys_gui_magic WYSWYG plugin editor letting you create JUCE GUIs without coding
 https://github.com/HackAudio/hack_audio_gui Hack Audio's custom components
 https://github.com/christofmuc/juce-widgets Unsorted collection of "widgets"
@@ -169,6 +187,9 @@ https://github.com/Archie3d/juce_litehtml JUCE module that provides integration 
 https://github.com/asimilon/html_entity_decoder A simple HTML entity String decoder module for JUCE
 https://github.com/jkoutavas/haydxn_juce_animation JUCE animation package originally contributed by 'haydxn'
 https://github.com/getdunne/juce-draggableListBox JUCE ListBox whose items can be reordered by drag-and-drop
+https://github.com/MNSignalProcessing/BarelyML Markdown-inspired markup for JUCE
+https://github.com/sudara/melatonin_blur Fast cross-platform CPU blurs and drop/inner shadows for JUCE
+https://github.com/Kiberchaika/juce_murka A lightweight GPU-accelerated library inspired from ImGui for interactive audio plugin UI design for JUCE
 
 ## Tooling & Debugging
 
@@ -178,6 +199,7 @@ https://github.com/sudara/melatonin_inspector Inspect your JUCE components ala W
 https://github.com/sudara/melatonin_audio_sparklines Display audio as ASCII waveforms on the console and in your tests
 https://github.com/McMartin/FRUT The OG way to setup CMake with JUCE (pre JUCE 6)
 https://github.com/AndrewJJ/DSP-Testbench Test your dsp with signal sources, routing, analysis and monitoring
+https://github.com/soundspear/formula VST and AU plugin to live code and test effects inside your DAW
 
 ## Frameworks
 
@@ -210,6 +232,8 @@ https://github.com/getdunne/juce-MultiStepEnvelopeGenerator Multi Step Envelope 
 https://github.com/DanielRudrich/OomphSC Audio Plug-in which figures out the Oomph of a signal and sends it via OSC
 https://github.com/olilarkin/pMix2 pMix - a preset interpolator, plug-in chainer and Faust IDE written with JUCE
 https://github.com/kmatheussen/mammut Sound transformation using one single gigantic analysis (no windows)
+https://github.com/Signalsmith-Audio/signalsmith-stretch Polyphonic pitch/time algorithm
+https://github.com/Signalsmith-Audio/dsp Signalsmith's library of DSP utilities and classes
 https://gist.github.com/Katsutoshii/83ec144135cfe7d3bdba27357f88c1f3 Spectrogram Extractor Application
 
 ## Music Notation and Theory
@@ -252,6 +276,7 @@ https://github.com/sudara/melatonin_audio_block_test_helpers Catch2 matchers for
 https://github.com/Sinecure-Audio/TestsTalk Catch2 Examples from ADC 2020 talk
 https://github.com/sudara/melatonin_parameters Log parameter conversion and formatting example with tests
 https://github.com/Focusrite-Novation/juce-end-to-end End to end functional testing via js
+https://github.com/kunitoki/straw Straw is a juce automation framework for integration testing
 
 ## Educational
 
@@ -295,6 +320,10 @@ https://github.com/tomduncalf/WebUISynth Example of WIP: A simple JUCE synth wit
 https://github.com/rsjaffe/MIDI2LR An application and plugin to remotely control Lightroom via MIDI
 https://github.com/DBraun/TD-JUCE TD-JUCE: JUCE audio and VSTs in TouchDesigner
 
+## MIR (Music Information Retrieval)
+
+https://github.com/MartinTownley/JUCE_Tempometer Beat tracking JUCE example based on BTrack
+
 ## Machine Learning
 
 https://github.com/acids-ircam/rave_vst Realtime Audio Variational autoEncoder (RAVE) packaged as a vst
@@ -302,6 +331,8 @@ https://github.com/Cyril-Meyer/TensorFlowVST Example of using a TensorFlow Keras
 https://github.com/jatinchowdhury18/KlonCentaur Analog guitar pedal emulation using the RTNeural real time framework 
 https://github.com/magenta/ddsp-vst Realtime DDSP Neural Synthesizer and Effect
 https://github.com/csteinmetz1/micro-tcn Efficient real-time modeling of analog dynamic range compression
+https://github.com/Torsion-Audio/Scyclone Real-time Neural Timbre Transfer plugin based on RAVE
+https://github.com/greynewell/musegpt Local LLMs in your DAW in VST, AU, AAX with llama.cpp
 
 ## Hardware
 
@@ -319,6 +350,7 @@ https://github.com/nseaSeb/Sysex77 Midi editor for the Yamaha Sy77/TG77/Sy99 FMS
 https://github.com/christofmuc/JammerNetz Host a jam session over the internet
 https://github.com/apohl79/audiogridder Offload dsp processing to remote computers
 https://github.com/sonosaurus/sonobus Real-time network audio streaming collaboration tool
+https://github.com/genkiinstruments/juce_bluetooth Bluetooth LE module for MacOS and Windows
 
 ## Forks
 
