@@ -63,6 +63,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[ADLplug](https://github.com/jpcima/ADLplug) <br/> <sup>by [jpcima](https://github.com/jpcima)</sup> | 2 FM synths based on OPL3 and OPN2 sound chip emulations| BSL-1.0|461| 3 years<sub><sup>🔴</sup></sub>|
 |[monique-monosynth](https://github.com/surge-synthesizer/monique-monosynth) <br/> <sup>by [surge-synthesizer](https://github.com/surge-synthesizer)</sup> | Mono synth with morph mixer| other|371|9 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Magical8bitPlug2](https://github.com/yokemura/Magical8bitPlug2) <br/> <sup>by [yokemura](https://github.com/yokemura)</sup> | 8-bit gaming console synth| GPL-3.0|335| 1 year<sub><sup>🟠</sup></sub>|
+|[ripplerx](https://github.com/tiagolr/ripplerx) <br/> <sup>by [tiagolr](https://github.com/tiagolr)</sup> | A physically modeled synth, capable of sounds similar to AAS Chromaphone and Ableton Collision| GPL-3.0|311| 1 month<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[tunefish](https://github.com/paynebc/tunefish) <br/> <sup>by [paynebc](https://github.com/paynebc)</sup> | Virtual Analog synth| GPL-3.0|278| 2 years<sub><sup>🟠</sup></sub>|
 |[juicysfplugin](https://github.com/Birch-san/juicysfplugin) <br/> <sup>by [Birch-san](https://github.com/Birch-san)</sup> | Soundfont synthesizer| GPL-3.0|256| 3 years<sub><sup>🔴</sup></sub>|
 |[ChowKick](https://github.com/Chowdhury-DSP/ChowKick) <br/> <sup>by [Chowdhury-DSP](https://github.com/Chowdhury-DSP)</sup> | Kick synthesizer based on old-school drum machine circuits| BSD-3-Clause|175| 2 years<sub><sup>🟠</sup></sub>|
@@ -428,4 +429,4 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[juce_emscripten](https://github.com/Casperaki/juce_emscripten) <br/> <sup>by [Casperaki](https://github.com/Casperaki)</sup> | Port of JUCE for the browser via Emscripten (maintained)| other|9| 2 years<sub><sup>🟠</sup></sub>|
 
 
-288 entries as of 2025-04-21
+289 entries as of 2025-04-21
