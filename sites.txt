@@ -68,6 +68,7 @@ https://github.com/psemiletov/drumlabooh LV2/VSTi drum machine that can use Hydr
 https://github.com/dan-german/blocks Simplified modular synth
 https://github.com/gregrecco67/AudiblePlanets An expressive, quasi-Ptolemaic semi-modular synthesizer
 https://github.com/tiagolr/ripplerx A physically modeled synth, capable of sounds similar to AAS Chromaphone and Ableton Collision
+https://github.com/jameshball/osci-render A synthesiser for making oscilloscope music and visuals
 
 ## Samplers
 
@@ -80,6 +81,7 @@ https://github.com/DBraun/Sampler A sampler made with JUCE
 https://github.com/onereddogmedia/streaming_sampler Extension to JUCE's Sampler class which enables disk streaming
 https://github.com/getdunne/JUCE-AKSampler AudioKit AKSampler wrapped as a JUCE app/plug-in
 https://github.com/izzyreal/vmpc-juce JUCE implementation of VMPC2000XL
+https://github.com/BOBONA/Just-a-Sample A *modern* audio sampler, focused on simplicity and ease of use
 
 ## Effects 
 
@@ -135,6 +137,7 @@ https://github.com/ZL-Audio/ZLEComp Compressor plugin with gain reduction histor
 https://github.com/ArdenButterfield/Maim Audio plugin for custom MP3 distortion and digital glitches
 https://github.com/ZL-Audio/ZLEqualizer 16-band minimum-phase dynamic equalizer
 https://github.com/tote-bag-labs/valentine An open source compressor meant to pump and breathe
+https://github.com/m1m0zzz/utility-clone VST plugin like a Ableton Utility
 https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
 
 ## Metering 
