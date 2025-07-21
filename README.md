@@ -144,6 +144,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[cStop](https://github.com/calgoheen/cStop) <br/> <sup>by [calgoheen](https://github.com/calgoheen)</sup> | Tape stop plugin with a few extra goodies| MIT|38|15 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[utility-clone](https://github.com/m1m0zzz/utility-clone) <br/> <sup>by [m1m0zzz](https://github.com/m1m0zzz)</sup> | VST plugin like a Ableton Utility| GPL-3.0|28| 1 year<sub><sup>🟠</sup></sub>|
 |[mverb](https://github.com/FigBug/mverb) <br/> <sup>by [FigBug](https://github.com/FigBug)</sup> | Dattorro’s figure-of-eight reverb| GPL-3.0|24|11 months<sub><sup>󠀠󠀠🟢</sup></sub>|
+|[PerceptoMap](https://github.com/hqrrr/PerceptoMap) <br/> <sup>by [hqrrr](https://github.com/hqrrr)</sup> | Visualizing how we hear: An open-source spectrogram plugin for psychoacoustic audio analysis| AGPL-3.0|21|1 day<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[JUCEVocoder](https://github.com/dbaylies/JUCEVocoder) <br/> <sup>by [dbaylies](https://github.com/dbaylies)</sup> | A simple vocoder plug-in with a built-in synthesis engine| |19| 5 years<sub><sup>🔴</sup></sub>|
 |[SMPLComp](https://github.com/p-hlp/SMPLComp) <br/> <sup>by [p-hlp](https://github.com/p-hlp)</sup> | A simplified version of the CTAGDRC audio compressor plugin| GPL-3.0|19| 4 years<sub><sup>🔴</sup></sub>|
 |[OvertoneFilter](https://github.com/lukemcraig/OvertoneFilter) <br/> <sup>by [lukemcraig](https://github.com/lukemcraig)</sup> | Emphasize MIDI-selected harmonics of an audio signal| |19| 5 years<sub><sup>🔴</sup></sub>|
@@ -429,4 +430,4 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[juce_emscripten](https://github.com/Casperaki/juce_emscripten) <br/> <sup>by [Casperaki](https://github.com/Casperaki)</sup> | Port of JUCE for the browser via Emscripten (maintained)| other|9| 3 years<sub><sup>🟠</sup></sub>|
 
 
-290 entries as of 2025-07-21
+291 entries as of 2025-07-21
