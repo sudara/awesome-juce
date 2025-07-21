@@ -85,6 +85,7 @@ https://github.com/BOBONA/Just-a-Sample A *modern* audio sampler, focused on sim
 
 ## Effects 
 
+https://github.com/hqrrr/PerceptoMap Visualizing how we hear: An open-source spectrogram plugin for psychoacoustic audio analysis
 https://github.com/jatinchowdhury18/AnalogTapeModel Physical Modeling for Analog Tape Machines
 https://github.com/Chowdhury-DSP/ChowMatrix Inifinitely growable tree of delay lines
 https://github.com/Chowdhury-DSP/CHOW Digital Distortion
