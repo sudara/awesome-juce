@@ -13,7 +13,7 @@ https://github.com/spensbot/stm-juce-modules Collection of Modules for use with 
 https://github.com/adamski/stk_wrapper JUCE wrapper module for the Synthesis ToolKit (STK) library
 
 ## Templates
-
+https://github.com/madskjeldgaard/Cookiejuce Generate JUCE projects from the command line using cookiecutter. C++20, CMake, CLAP and CPM. Based on Pamplejuce
 https://github.com/sudara/pamplejuce C++20, JUCE, CMake, Catch2, Pluginval on GitHub Actions
 https://github.com/eyalamirmusic/JUCECmakeRepoPrototype Large variety of JUCE and CMake plugin and app templates
 https://github.com/maxwellpollack/juce-plugin-ci (Archived) CI for JUCE audio plugins with GitHub Actions
