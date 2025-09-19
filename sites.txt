@@ -70,6 +70,7 @@ https://github.com/dan-german/blocks Simplified modular synth
 https://github.com/gregrecco67/AudiblePlanets An expressive, quasi-Ptolemaic semi-modular synthesizer
 https://github.com/tiagolr/ripplerx A physically modeled synth, capable of sounds similar to AAS Chromaphone and Ableton Collision
 https://github.com/jameshball/osci-render A synthesiser for making oscilloscope music and visuals
+https://github.com/seclorum/SIMDsynth/ A simple polyphonic synthesizer demonstrating SIMD techniques for x85 and ARM CPU types
 
 ## Samplers
 
