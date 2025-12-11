@@ -141,6 +141,7 @@ https://github.com/ZL-Audio/ZLEqualizer 16-band minimum-phase dynamic equalizer
 https://github.com/tote-bag-labs/valentine An open source compressor meant to pump and breathe
 https://github.com/m1m0zzz/utility-clone VST plugin like a Ableton Utility
 https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
+https://github.com/harmomyshoes/J-ECHO A Delay plugin with triple delayline in a golden ratio relation
 
 ## Metering 
 
