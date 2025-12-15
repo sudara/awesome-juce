@@ -71,6 +71,7 @@ https://github.com/gregrecco67/AudiblePlanets An expressive, quasi-Ptolemaic sem
 https://github.com/tiagolr/ripplerx A physically modeled synth, capable of sounds similar to AAS Chromaphone and Ableton Collision
 https://github.com/jameshball/osci-render A synthesiser for making oscilloscope music and visuals
 https://github.com/seclorum/SIMDsynth A simple polyphonic synthesizer demonstrating SIMD techniques for x86 and ARM CPU types
+https://github.com/vitling/crypt Hyper-unison synth for rich cold synthetic full-textured sounds
 
 ## Samplers
 
