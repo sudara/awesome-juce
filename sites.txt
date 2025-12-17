@@ -75,7 +75,6 @@ https://github.com/vitling/crypt Hyper-unison synth for rich cold synthetic full
 
 ## Samplers
 
-https://github.com/kofigumbs/typebeat MacOS only Rust-backed Keyboard sequencer, sampler, and synth
 https://github.com/surge-synthesizer/shortcircuit-xt Sampler
 https://github.com/jsvaldezv/DuckSampler Sampler plug-in with ADSR, distortion and LFO
 https://github.com/NiklasWan/CTAG-JUCE-Sampler CTAG JUCE sampler
