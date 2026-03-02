@@ -139,6 +139,7 @@ https://github.com/unplugred/vsts A treasure trove of effects and other fun plug
 https://github.com/ZL-Audio/ZLEComp Compressor plugin with gain reduction history
 https://github.com/ArdenButterfield/Maim Audio plugin for custom MP3 distortion and digital glitches
 https://github.com/ZL-Audio/ZLEqualizer 16-band minimum-phase dynamic equalizer
+https://github.com/GareBear99/FreeEQ8 8-band parametric EQ with linear phase, dynamic EQ, match EQ, per-band drive and band linking
 https://github.com/tote-bag-labs/valentine An open source compressor meant to pump and breathe
 https://github.com/m1m0zzz/utility-clone VST plugin like a Ableton Utility
 https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
