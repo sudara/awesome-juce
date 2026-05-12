@@ -355,6 +355,7 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[DawDreamer](https://github.com/DBraun/DawDreamer) <br/> <sup>by [DBraun](https://github.com/DBraun)</sup> | Python DAW with full cross platform support| GPL-3.0|1221|3 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[OwlPlug](https://github.com/DropSnorz/OwlPlug) <br/> <sup>by [DropSnorz](https://github.com/DropSnorz)</sup> | Cross-platform plugin manager| GPL-3.0|474|6 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[RenderMan](https://github.com/fedden/RenderMan) <br/> <sup>by [fedden](https://github.com/fedden)</sup> | Interactive "command line" host backed by Maximilian| Unlicense|397| 5 years<sub><sup>🔴</sup></sub>|
+|[FreeEQ8](https://github.com/GareBear99/FreeEQ8) <br/> <sup>by [GareBear99](https://github.com/GareBear99)</sup> | Open-source 8-band EQ plugin built with JUCE| GPL-3.0| | |
 |[Plugalyzer](https://github.com/CrushedPixel/Plugalyzer) <br/> <sup>by [CrushedPixel](https://github.com/CrushedPixel)</sup> | Command-line VST3, AU and LADSPA plugin host for easier debugging of audio plugins| GPL-3.0|171|6 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[PluginRunner](https://github.com/jatinchowdhury18/PluginRunner) <br/> <sup>by [jatinchowdhury18](https://github.com/jatinchowdhury18)</sup> | Run audio through a plugin from the CLI on windows| WTFPL|14| 6 years<sub><sup>🔴</sup></sub>|
 
