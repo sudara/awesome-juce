@@ -143,6 +143,7 @@ https://github.com/tote-bag-labs/valentine An open source compressor meant to pu
 https://github.com/m1m0zzz/utility-clone VST plugin like a Ableton Utility
 https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
 
+https://github.com/GareBear99/FreeEQ8 Open-source 8-band EQ plugin built with JUCE
 ## Metering 
 
 https://github.com/ffAudio/Frequalizer Equalizer using JUCE's dsp module
