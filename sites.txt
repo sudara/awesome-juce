@@ -207,6 +207,7 @@ https://github.com/sudara/melatonin_audio_sparklines Display audio as ASCII wave
 https://github.com/McMartin/FRUT The OG way to setup CMake with JUCE (pre JUCE 6)
 https://github.com/AndrewJJ/DSP-Testbench Test your dsp with signal sources, routing, analysis and monitoring
 https://github.com/soundspear/formula VST and AU plugin to live code and test effects inside your DAW
+https://github.com/mateusz28011/juce-webview-agent-bridge Let AI agents and E2E tests drive a live JUCE WebView: eval JS, inspect console/network, automate the DOM, capture screenshots, no CDP
 
 ## Frameworks
 
