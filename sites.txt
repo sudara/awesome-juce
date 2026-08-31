@@ -25,6 +25,7 @@ https://github.com/ncblair/NTHN_TEMPLATE_PLUGIN Audio Plugin CMake Template with
 https://github.com/JanWilczek/audio-plugin-template C++23, JUCE, CPM, googletest on GitHub Actions 
 https://github.com/Torsion-Audio/nn-inference-template Neural network inference template for TensorFlow Lite, LibTorch, ONNX Runtime
 https://github.com/eyalamirmusic/JUCE-ConsoleApp A JUCE example for CLI/console app along with the message thread
+https://github.com/nmorgan94/JUCE-Starter Opinionated JUCE Starter for macOS using CMAKE
 
 ## Instruments
 
@@ -72,6 +73,8 @@ https://github.com/tiagolr/ripplerx A physically modeled synth, capable of sound
 https://github.com/jameshball/osci-render A synthesiser for making oscilloscope music and visuals
 https://github.com/seclorum/SIMDsynth A simple polyphonic synthesizer demonstrating SIMD techniques for x86 and ARM CPU types
 https://github.com/vitling/crypt Hyper-unison synth for rich cold synthetic full-textured sounds
+https://github.com/nmorgan94/SampleRealm-Modulate Very modulatable subtractive synthesiser
+https://github.com/nmorgan94/SampleRealm-Reese Reese Bass Designer
 
 ## Samplers
 
@@ -142,6 +145,7 @@ https://github.com/ZL-Audio/ZLEqualizer 16-band minimum-phase dynamic equalizer
 https://github.com/tote-bag-labs/valentine An open source compressor meant to pump and breathe
 https://github.com/m1m0zzz/utility-clone VST plugin like a Ableton Utility
 https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
+https://github.com/nmorgan94/SampleRealm-Reverb Reverb with Filter and Spectrum Analyser
 
 ## Metering 
 
