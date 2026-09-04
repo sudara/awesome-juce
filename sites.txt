@@ -141,6 +141,7 @@ https://github.com/ArdenButterfield/Maim Audio plugin for custom MP3 distortion 
 https://github.com/ZL-Audio/ZLEqualizer 16-band minimum-phase dynamic equalizer
 https://github.com/tote-bag-labs/valentine An open source compressor meant to pump and breathe
 https://github.com/m1m0zzz/utility-clone VST plugin like a Ableton Utility
+https://github.com/danielalves96/pakku-vst Multiband transient shaper with three-band and full-range processing
 https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
 
 ## Metering 
