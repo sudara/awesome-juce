@@ -25,6 +25,7 @@ https://github.com/ncblair/NTHN_TEMPLATE_PLUGIN Audio Plugin CMake Template with
 https://github.com/JanWilczek/audio-plugin-template C++23, JUCE, CPM, googletest on GitHub Actions 
 https://github.com/Torsion-Audio/nn-inference-template Neural network inference template for TensorFlow Lite, LibTorch, ONNX Runtime
 https://github.com/eyalamirmusic/JUCE-ConsoleApp A JUCE example for CLI/console app along with the message thread
+https://github/com/ImJimmi/create-juce-app An NPM package for generating JUCE projects with dozens of different configuration options.
 
 ## Instruments
 
