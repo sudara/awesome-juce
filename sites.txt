@@ -143,7 +143,7 @@ https://github.com/tote-bag-labs/valentine An open source compressor meant to pu
 https://github.com/m1m0zzz/utility-clone VST plugin like a Ableton Utility
 https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
 https://github.com/ovniaudio/orbita Binaural movement engine: HRIR spatializer with near-field proximity and Doppler from propagation delay
-https://github.com/ovniaudio/ovni Catalog of free spatial effects plus SUPERNOVA, an audio-reactive GPU particle visualiser
+https://github.com/ovniaudio/ovni Catalog of free spatial effects, SUPERNOVA (audio-reactive GPU particle visualiser) and TELESCOPE (analyser with rule-based findings)
 
 ## Metering 
 
