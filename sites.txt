@@ -302,6 +302,7 @@ https://github.com/getdunne/audio-effects Revised versions of Reiss and McPherso
 https://github.com/Tracktion/tracktion_engine The one, the only, the engine that JUCE was once extracted from
 https://github.com/kushview/Element The audio plugin host that isn't a DAW!
 https://github.com/DBraun/DawDreamer Python DAW with full cross platform support
+https://github.com/Thulehunter/ufodaw Free, open-source Windows DAW with VST3 hosting, sampler, drum rack and take comping
 https://github.com/spotify/pedalboard A Python library and host for manipulating audio 
 https://github.com/fedden/RenderMan Interactive "command line" host backed by Maximilian
 https://github.com/DropSnorz/OwlPlug Cross-platform plugin manager
