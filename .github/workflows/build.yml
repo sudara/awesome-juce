@@ -18,7 +18,7 @@ jobs:
         with:
           bundler: latest
           bundler-cache: true
-          ruby-version: 3.0.4
+          ruby-version: '3.0.7'
       - name: Update repo data
         run: bundle exec ./update_readme.rb
       - name: Commit and push
