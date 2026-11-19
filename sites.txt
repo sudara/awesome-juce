@@ -12,6 +12,7 @@ https://github.com/drowaudio/drowaudio Older but large collection of utilities b
 https://github.com/spensbot/stm-juce-modules Collection of Modules for use with JUCE
 https://github.com/adamski/stk_wrapper JUCE wrapper module for the Synthesis ToolKit (STK) library
 https://github.com/bgporter/cello JUCE ValueTrees for humans
+https://github.com/zmardanian/axell-signature-dojo Installer and manager for the nine Axell Signature vocal plugins; tunes a vocal chain to your voice from one take
 
 ## Templates
 
@@ -143,6 +144,15 @@ https://github.com/ZL-Audio/ZLEqualizer 16-band minimum-phase dynamic equalizer
 https://github.com/tote-bag-labs/valentine An open source compressor meant to pump and breathe
 https://github.com/m1m0zzz/utility-clone VST plugin like a Ableton Utility
 https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
+https://github.com/zmardanian/axell-penta-eq Analog-matched 12-band EQ with dynamic and spectral bands that listens to your esses
+https://github.com/zmardanian/axell-duo-compressor FET + opto compressor and true-peak limiter, opto measured against a real LA-2A
+https://github.com/zmardanian/axell-gate Voice-aware noise gate with neural voice detection and headphone-bleed removal
+https://github.com/zmardanian/axell-dereverb Small-room de-reverb for vocals with a trained network, studio and zero-latency modes
+https://github.com/zmardanian/axell-velvet Neural de-esser with tape, console and tube warmth
+https://github.com/zmardanian/axell-master Mastering limiter with true peak, EBU R128 and a real streaming-codec check
+https://github.com/zmardanian/axell-space Vocal reverb and delay that duck out of the words
+https://github.com/zmardanian/axell-forbidden-seal Multiband saturation with eight circuit models
+https://github.com/zmardanian/axell-76 1176-style FET compressor modelled from measurements of a real 1176LN
 
 ## Metering 
 
